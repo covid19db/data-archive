@@ -1,2 +1,2 @@
-# covid19-data
-Covid 19 data
+# covid19db-data
+Covid 19db data
