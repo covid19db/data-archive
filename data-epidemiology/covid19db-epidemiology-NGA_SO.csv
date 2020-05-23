@@ -1,2 +1,3 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
 NGA_SO,22-05-2020,Nigeria,NGA,,,,41907,7016,1907,211,,,,['NGA']
+NGA_SO,23-05-2020,Nigeria,NGA,,,,41907,7261,2007,221,,,,['NGA']
