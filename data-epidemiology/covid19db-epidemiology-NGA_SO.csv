@@ -1,2 +1,3 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
 NGA_SO,08-06-2020,Nigeria,NGA,,,,78244,12486,3959,354,,,,['NGA']
+NGA_SO,09-06-2020,Nigeria,NGA,,,,78244,12801,4040,361,,,,['NGA']
