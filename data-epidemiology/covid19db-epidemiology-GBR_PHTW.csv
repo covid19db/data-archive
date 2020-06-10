@@ -1,345 +1,345 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
-GBR_PHTW,08-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,09-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,10-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,11-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,12-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,13-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,14-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,15-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,16-01-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,16-01-2020,United Kingdom,GBR,Northern Ireland,,,1,,,,,,,['GBR.2_1']
-GBR_PHTW,17-01-2020,United Kingdom,GBR,Wales,,,3,,,,,,,['GBR.4_1']
-GBR_PHTW,18-01-2020,United Kingdom,GBR,Wales,,,3,,,,,,,['GBR.4_1']
-GBR_PHTW,19-01-2020,United Kingdom,GBR,Wales,,,3,,,,,,,['GBR.4_1']
-GBR_PHTW,20-01-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,21-01-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
+GBR_PHTW,08-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,09-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,10-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,11-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,12-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,13-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,14-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,15-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,16-01-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,16-01-2020,United Kingdom,GBR,Northern Ireland,,,1,0,,,,,,['GBR.2_1']
+GBR_PHTW,17-01-2020,United Kingdom,GBR,Wales,,,3,0,,,,,,['GBR.4_1']
+GBR_PHTW,18-01-2020,United Kingdom,GBR,Wales,,,3,0,,,,,,['GBR.4_1']
+GBR_PHTW,19-01-2020,United Kingdom,GBR,Wales,,,3,0,,,,,,['GBR.4_1']
+GBR_PHTW,20-01-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,21-01-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
 GBR_PHTW,22-01-2020,United Kingdom,GBR,Wales,,,5,1,,,,,,['GBR.4_1']
 GBR_PHTW,23-01-2020,United Kingdom,GBR,Wales,,,5,1,,,,,,['GBR.4_1']
 GBR_PHTW,24-01-2020,United Kingdom,GBR,Wales,,,5,1,,,,,,['GBR.4_1']
-GBR_PHTW,24-01-2020,United Kingdom,GBR,Scotland,,,2,,,,,,,['GBR.3_1']
-GBR_PHTW,25-01-2020,United Kingdom,GBR,,,,31,,,,,,,['GBR']
-GBR_PHTW,25-01-2020,United Kingdom,GBR,Scotland,,,5,,,,,,,['GBR.3_1']
+GBR_PHTW,24-01-2020,United Kingdom,GBR,Scotland,,,2,0,,0,,,,['GBR.3_1']
+GBR_PHTW,25-01-2020,United Kingdom,GBR,,,,31,0,,0,,,,['GBR']
+GBR_PHTW,25-01-2020,United Kingdom,GBR,Scotland,,,5,0,,0,,,,['GBR.3_1']
 GBR_PHTW,25-01-2020,United Kingdom,GBR,Wales,,,5,1,,,,,,['GBR.4_1']
-GBR_PHTW,26-01-2020,United Kingdom,GBR,,,,52,,,,,,,['GBR']
-GBR_PHTW,26-01-2020,United Kingdom,GBR,Scotland,,,6,,,,,,,['GBR.3_1']
+GBR_PHTW,26-01-2020,United Kingdom,GBR,,,,52,0,,0,,,,['GBR']
+GBR_PHTW,26-01-2020,United Kingdom,GBR,Scotland,,,6,0,,0,,,,['GBR.3_1']
 GBR_PHTW,26-01-2020,United Kingdom,GBR,Wales,,,5,1,,,,,,['GBR.4_1']
-GBR_PHTW,27-01-2020,United Kingdom,GBR,Northern Ireland,,,2,,,,,,,['GBR.2_1']
+GBR_PHTW,27-01-2020,United Kingdom,GBR,Northern Ireland,,,2,0,,,,,,['GBR.2_1']
 GBR_PHTW,27-01-2020,United Kingdom,GBR,Wales,,,6,2,,,,,,['GBR.4_1']
-GBR_PHTW,27-01-2020,United Kingdom,GBR,Scotland,,,7,,,,,,,['GBR.3_1']
-GBR_PHTW,27-01-2020,United Kingdom,GBR,,,,73,,,,,,,['GBR']
-GBR_PHTW,28-01-2020,United Kingdom,GBR,,,,97,,,,,,,['GBR']
-GBR_PHTW,28-01-2020,United Kingdom,GBR,Scotland,,,11,,,,,,,['GBR.3_1']
+GBR_PHTW,27-01-2020,United Kingdom,GBR,Scotland,,,7,0,,0,,,,['GBR.3_1']
+GBR_PHTW,27-01-2020,United Kingdom,GBR,,,,73,0,,0,,,,['GBR']
+GBR_PHTW,28-01-2020,United Kingdom,GBR,,,,97,0,,0,,,,['GBR']
+GBR_PHTW,28-01-2020,United Kingdom,GBR,Scotland,,,11,0,,0,,,,['GBR.3_1']
 GBR_PHTW,28-01-2020,United Kingdom,GBR,Wales,,,6,2,,,,,,['GBR.4_1']
 GBR_PHTW,29-01-2020,United Kingdom,GBR,Wales,,,6,2,,,,,,['GBR.4_1']
-GBR_PHTW,29-01-2020,United Kingdom,GBR,Scotland,,,11,,,,,,,['GBR.3_1']
-GBR_PHTW,29-01-2020,United Kingdom,GBR,,,,130,,,,,,,['GBR']
+GBR_PHTW,29-01-2020,United Kingdom,GBR,Scotland,,,11,0,,0,,,,['GBR.3_1']
+GBR_PHTW,29-01-2020,United Kingdom,GBR,,,,130,0,,0,,,,['GBR']
 GBR_PHTW,30-01-2020,United Kingdom,GBR,England,York,,,1,,,,,,['GBR.1.118_1']
 GBR_PHTW,30-01-2020,United Kingdom,GBR,England,,,,1,,,,,,['GBR.1_1']
-GBR_PHTW,30-01-2020,United Kingdom,GBR,Scotland,,,16,,,,,,,['GBR.3_1']
-GBR_PHTW,30-01-2020,United Kingdom,GBR,,,,161,,,,,,,['GBR']
+GBR_PHTW,30-01-2020,United Kingdom,GBR,Scotland,,,16,0,,0,,,,['GBR.3_1']
+GBR_PHTW,30-01-2020,United Kingdom,GBR,,,,161,0,,0,,,,['GBR']
 GBR_PHTW,30-01-2020,United Kingdom,GBR,Wales,,,7,2,,,,,,['GBR.4_1']
-GBR_PHTW,31-01-2020,United Kingdom,GBR,Scotland,,,16,,,,,,,['GBR.3_1']
+GBR_PHTW,31-01-2020,United Kingdom,GBR,Scotland,,,16,0,,0,,,,['GBR.3_1']
 GBR_PHTW,31-01-2020,United Kingdom,GBR,England,Kent,,,1,,,,,,['GBR.1.44_1']
 GBR_PHTW,31-01-2020,United Kingdom,GBR,England,,,,2,,,,,,['GBR.1_1']
-GBR_PHTW,31-01-2020,United Kingdom,GBR,,,,177,2,,,,,,['GBR']
+GBR_PHTW,31-01-2020,United Kingdom,GBR,,,,177,2,,0,,,,['GBR']
 GBR_PHTW,31-01-2020,United Kingdom,GBR,Wales,,,7,2,,,,,,['GBR.4_1']
-GBR_PHTW,01-02-2020,United Kingdom,GBR,,,,203,2,,,,,,['GBR']
+GBR_PHTW,01-02-2020,United Kingdom,GBR,,,,203,2,,0,,,,['GBR']
 GBR_PHTW,01-02-2020,United Kingdom,GBR,Wales,,,8,2,,,,,,['GBR.4_1']
-GBR_PHTW,01-02-2020,United Kingdom,GBR,Scotland,,,16,,,,,,,['GBR.3_1']
+GBR_PHTW,01-02-2020,United Kingdom,GBR,Scotland,,,16,0,,0,,,,['GBR.3_1']
 GBR_PHTW,02-02-2020,United Kingdom,GBR,Wales,,,8,2,,,,,,['GBR.4_1']
-GBR_PHTW,02-02-2020,United Kingdom,GBR,,,,266,2,,,,,,['GBR']
-GBR_PHTW,02-02-2020,United Kingdom,GBR,Scotland,,,16,,,,,,,['GBR.3_1']
-GBR_PHTW,03-02-2020,United Kingdom,GBR,Scotland,,,26,,,,,,,['GBR.3_1']
-GBR_PHTW,03-02-2020,United Kingdom,GBR,,,,326,2,,,,,,['GBR']
-GBR_PHTW,03-02-2020,United Kingdom,GBR,Northern Ireland,,,3,,,,,,,['GBR.2_1']
+GBR_PHTW,02-02-2020,United Kingdom,GBR,,,,266,2,,0,,,,['GBR']
+GBR_PHTW,02-02-2020,United Kingdom,GBR,Scotland,,,16,0,,0,,,,['GBR.3_1']
+GBR_PHTW,03-02-2020,United Kingdom,GBR,Scotland,,,26,0,,0,,,,['GBR.3_1']
+GBR_PHTW,03-02-2020,United Kingdom,GBR,,,,326,2,,0,,,,['GBR']
+GBR_PHTW,03-02-2020,United Kingdom,GBR,Northern Ireland,,,3,0,,,,,,['GBR.2_1']
 GBR_PHTW,03-02-2020,United Kingdom,GBR,England,Devon,,,2,,,,,,['GBR.1.26_1']
 GBR_PHTW,03-02-2020,United Kingdom,GBR,England,Hertfordshire,,,1,,,,,,['GBR.1.41_1']
 GBR_PHTW,03-02-2020,United Kingdom,GBR,England,Kent,,,2,,,,,,['GBR.1.44_1']
 GBR_PHTW,03-02-2020,United Kingdom,GBR,England,,,,8,,,,,,['GBR.1_1']
 GBR_PHTW,03-02-2020,United Kingdom,GBR,Wales,,,8,2,,,,,,['GBR.4_1']
 GBR_PHTW,03-02-2020,United Kingdom,GBR,England,Barnsley,,,1,,,,,,['GBR.1.1_1']
-GBR_PHTW,04-02-2020,United Kingdom,GBR,Scotland,,,26,,,,,,,['GBR.3_1']
+GBR_PHTW,04-02-2020,United Kingdom,GBR,Scotland,,,26,0,,0,,,,['GBR.3_1']
 GBR_PHTW,04-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
-GBR_PHTW,04-02-2020,United Kingdom,GBR,,,,416,2,,,,,,['GBR']
+GBR_PHTW,04-02-2020,United Kingdom,GBR,,,,416,2,,0,,,,['GBR']
 GBR_PHTW,05-02-2020,United Kingdom,GBR,England,Brighton and Hove,,,1,,,,,,['GBR.1.11_1']
 GBR_PHTW,05-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
-GBR_PHTW,05-02-2020,United Kingdom,GBR,,,,468,2,,,,,,['GBR']
-GBR_PHTW,05-02-2020,United Kingdom,GBR,Scotland,,,31,,,,,,,['GBR.3_1']
+GBR_PHTW,05-02-2020,United Kingdom,GBR,,,,468,2,,0,,,,['GBR']
+GBR_PHTW,05-02-2020,United Kingdom,GBR,Scotland,,,31,0,,0,,,,['GBR.3_1']
 GBR_PHTW,05-02-2020,United Kingdom,GBR,England,,,,9,,,,,,['GBR.1_1']
-GBR_PHTW,06-02-2020,United Kingdom,GBR,Northern Ireland,,,4,,,,,,,['GBR.2_1']
+GBR_PHTW,06-02-2020,United Kingdom,GBR,Northern Ireland,,,4,0,,,,,,['GBR.2_1']
 GBR_PHTW,06-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
-GBR_PHTW,06-02-2020,United Kingdom,GBR,,,,566,3,,,,,,['GBR']
-GBR_PHTW,06-02-2020,United Kingdom,GBR,Scotland,,,34,,,,,,,['GBR.3_1']
-GBR_PHTW,07-02-2020,United Kingdom,GBR,Scotland,,,38,,,,,,,['GBR.3_1']
-GBR_PHTW,07-02-2020,United Kingdom,GBR,Northern Ireland,,,10,,,,,,,['GBR.2_1']
-GBR_PHTW,07-02-2020,United Kingdom,GBR,,,,620,3,,,,,,['GBR']
+GBR_PHTW,06-02-2020,United Kingdom,GBR,,,,566,3,,0,,,,['GBR']
+GBR_PHTW,06-02-2020,United Kingdom,GBR,Scotland,,,34,0,,0,,,,['GBR.3_1']
+GBR_PHTW,07-02-2020,United Kingdom,GBR,Scotland,,,38,0,,0,,,,['GBR.3_1']
+GBR_PHTW,07-02-2020,United Kingdom,GBR,Northern Ireland,,,10,0,,,,,,['GBR.2_1']
+GBR_PHTW,07-02-2020,United Kingdom,GBR,,,,620,3,,0,,,,['GBR']
 GBR_PHTW,07-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
 GBR_PHTW,08-02-2020,United Kingdom,GBR,England,Brighton and Hove,,,4,,,,,,['GBR.1.11_1']
 GBR_PHTW,08-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
-GBR_PHTW,08-02-2020,United Kingdom,GBR,,,,686,3,,,,,,['GBR']
-GBR_PHTW,08-02-2020,United Kingdom,GBR,Scotland,,,38,,,,,,,['GBR.3_1']
-GBR_PHTW,08-02-2020,United Kingdom,GBR,Northern Ireland,,,14,,,,,,,['GBR.2_1']
+GBR_PHTW,08-02-2020,United Kingdom,GBR,,,,686,3,,0,,,,['GBR']
+GBR_PHTW,08-02-2020,United Kingdom,GBR,Scotland,,,38,0,,0,,,,['GBR.3_1']
+GBR_PHTW,08-02-2020,United Kingdom,GBR,Northern Ireland,,,14,0,,,,,,['GBR.2_1']
 GBR_PHTW,08-02-2020,United Kingdom,GBR,England,,,,12,,,,,,['GBR.1_1']
-GBR_PHTW,09-02-2020,United Kingdom,GBR,,,,795,4,,,,,,['GBR']
+GBR_PHTW,09-02-2020,United Kingdom,GBR,,,,795,4,,0,,,,['GBR']
 GBR_PHTW,09-02-2020,United Kingdom,GBR,England,Brighton and Hove,,,5,,,,,,['GBR.1.11_1']
 GBR_PHTW,09-02-2020,United Kingdom,GBR,England,,,,13,,,,,,['GBR.1_1']
-GBR_PHTW,09-02-2020,United Kingdom,GBR,Northern Ireland,,,17,,,,,,,['GBR.2_1']
-GBR_PHTW,09-02-2020,United Kingdom,GBR,Scotland,,,41,,,,,,,['GBR.3_1']
+GBR_PHTW,09-02-2020,United Kingdom,GBR,Northern Ireland,,,17,0,,,,,,['GBR.2_1']
+GBR_PHTW,09-02-2020,United Kingdom,GBR,Scotland,,,41,0,,0,,,,['GBR.3_1']
 GBR_PHTW,09-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
-GBR_PHTW,10-02-2020,United Kingdom,GBR,,,,1114,8,,,,,,['GBR']
-GBR_PHTW,10-02-2020,United Kingdom,GBR,Scotland,,,57,,,,,,,['GBR.3_1']
-GBR_PHTW,10-02-2020,United Kingdom,GBR,Northern Ireland,,,21,,,,,,,['GBR.2_1']
+GBR_PHTW,10-02-2020,United Kingdom,GBR,,,,1114,8,,0,,,,['GBR']
+GBR_PHTW,10-02-2020,United Kingdom,GBR,Scotland,,,57,0,,0,,,,['GBR.3_1']
+GBR_PHTW,10-02-2020,United Kingdom,GBR,Northern Ireland,,,21,0,,,,,,['GBR.2_1']
 GBR_PHTW,10-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
 GBR_PHTW,11-02-2020,United Kingdom,GBR,England,Lewisham,,,1,,,,,,['GBR.1.36.22_1']
-GBR_PHTW,11-02-2020,United Kingdom,GBR,,,,1358,8,,,,,,['GBR']
-GBR_PHTW,11-02-2020,United Kingdom,GBR,Scotland,,,82,,,,,,,['GBR.3_1']
+GBR_PHTW,11-02-2020,United Kingdom,GBR,,,,1358,8,,0,,,,['GBR']
+GBR_PHTW,11-02-2020,United Kingdom,GBR,Scotland,,,82,0,,0,,,,['GBR.3_1']
 GBR_PHTW,11-02-2020,United Kingdom,GBR,Wales,,,9,3,,,,,,['GBR.4_1']
-GBR_PHTW,11-02-2020,United Kingdom,GBR,Northern Ireland,,,23,,,,,,,['GBR.2_1']
+GBR_PHTW,11-02-2020,United Kingdom,GBR,Northern Ireland,,,23,0,,,,,,['GBR.2_1']
 GBR_PHTW,11-02-2020,United Kingdom,GBR,England,,,,14,,,,,,['GBR.1_1']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Northern Ireland,,,21,,,,,,,['GBR.2_1']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Northern Ireland,,,21,0,,0,,,,['GBR.2_1']
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,12-02-2020,United Kingdom,GBR,England,Worcestershire,,,1,,,,,,['GBR.1.117_1']
 GBR_PHTW,12-02-2020,United Kingdom,GBR,England,,,,15,,,,,,['GBR.1_1']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Scotland,,,106,,,,,,,['GBR.3_1']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,,,,1758,8,,,,,,['GBR']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,,,1,,,,,,,['GBR.4_1']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Scotland,,,106,0,,0,,,,['GBR.3_1']
+GBR_PHTW,12-02-2020,United Kingdom,GBR,,,,1758,8,,0,,,,['GBR']
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,,,1,0,,,,,,['GBR.4_1']
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,12-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,13-02-2020,United Kingdom,GBR,England,Ealing,,,1,,,,,,['GBR.1.36.8_1']
 GBR_PHTW,13-02-2020,United Kingdom,GBR,England,,,,16,,,,,,['GBR.1_1']
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Northern Ireland,,,26,,,,,,,['GBR.2_1']
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Scotland,,,148,,,,,,,['GBR.3_1']
-GBR_PHTW,13-02-2020,United Kingdom,GBR,,,,2521,9,,,,,,['GBR']
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,,,2,,,,,,,['GBR.4_1']
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Northern Ireland,,,26,0,,,,,,['GBR.2_1']
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Scotland,,,148,0,,0,,,,['GBR.3_1']
+GBR_PHTW,13-02-2020,United Kingdom,GBR,,,,2521,9,,0,,,,['GBR']
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,,,2,0,,,,,,['GBR.4_1']
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,13-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,14-02-2020,United Kingdom,GBR,England,,,,17,,,,,,['GBR.1_1']
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Northern Ireland,,,29,,,,,,,['GBR.2_1']
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Scotland,,,200,,,,,,,['GBR.3_1']
-GBR_PHTW,14-02-2020,United Kingdom,GBR,,,,2964,9,,,,,,['GBR']
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,15-02-2020,United Kingdom,GBR,,,,2992,9,,,,,,['GBR']
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Scotland,,,224,,,,,,,['GBR.3_1']
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Northern Ireland,,,30,,,,,,,['GBR.2_1']
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Northern Ireland,,,29,0,,,,,,['GBR.2_1']
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Scotland,,,200,0,,0,,,,['GBR.3_1']
+GBR_PHTW,14-02-2020,United Kingdom,GBR,,,,2964,9,,0,,,,['GBR']
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,14-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,15-02-2020,United Kingdom,GBR,,,,2992,9,,0,,,,['GBR']
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Scotland,,,224,0,,0,,,,['GBR.3_1']
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Northern Ireland,,,30,0,,,,,,['GBR.2_1']
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,15-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,16-02-2020,United Kingdom,GBR,England,,,,18,,,,,,['GBR.1_1']
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Scotland,,,252,,,,,,,['GBR.3_1']
-GBR_PHTW,16-02-2020,United Kingdom,GBR,,,,3109,9,,,,,,['GBR']
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,17-02-2020,United Kingdom,GBR,,,,4501,9,,,,,,['GBR']
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Scotland,,,264,,,,,,,['GBR.3_1']
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Scotland,,,252,0,,0,,,,['GBR.3_1']
+GBR_PHTW,16-02-2020,United Kingdom,GBR,,,,3109,9,,0,,,,['GBR']
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,16-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,17-02-2020,United Kingdom,GBR,,,,4501,9,,0,,,,['GBR']
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Scotland,,,264,0,,0,,,,['GBR.3_1']
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,17-02-2020,United Kingdom,GBR,England,,,,18,,,,,,['GBR.1_1']
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Northern Ireland,,,37,,,,,,,['GBR.2_1']
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Northern Ireland,,,37,0,,,,,,['GBR.2_1']
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,17-02-2020,United Kingdom,GBR,England,Enfield,,,1,,,,,,['GBR.1.36.9_1']
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Scotland,,,276,,,,,,,['GBR.3_1']
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Northern Ireland,,,40,,,,,,,['GBR.2_1']
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,18-02-2020,United Kingdom,GBR,,,,4916,9,,,,,,['GBR']
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Scotland,,,306,,,,,,,['GBR.3_1']
-GBR_PHTW,19-02-2020,United Kingdom,GBR,Northern Ireland,,,43,,,,,,,['GBR.2_1']
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,17-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Scotland,,,276,0,,0,,,,['GBR.3_1']
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Northern Ireland,,,40,0,,,,,,['GBR.2_1']
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,18-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,18-02-2020,United Kingdom,GBR,,,,4916,9,,0,,,,['GBR']
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Scotland,,,306,0,,0,,,,['GBR.3_1']
+GBR_PHTW,19-02-2020,United Kingdom,GBR,Northern Ireland,,,43,0,,0,,,,['GBR.2_1']
 GBR_PHTW,19-02-2020,United Kingdom,GBR,England,,,,19,,,,,,['GBR.1_1']
 GBR_PHTW,19-02-2020,United Kingdom,GBR,England,Hackney,,,1,,,,,,['GBR.1.36.11_1']
-GBR_PHTW,19-02-2020,United Kingdom,GBR,,,,5207,9,,,,,,['GBR']
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Scotland,,,327,,,,,,,['GBR.3_1']
-GBR_PHTW,20-02-2020,United Kingdom,GBR,,,,5549,9,,,,,,['GBR']
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Northern Ireland,,,44,,,,,,,['GBR.2_1']
-GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,19-02-2020,United Kingdom,GBR,,,,5207,9,,0,,,,['GBR']
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Scotland,,,327,0,,0,,,,['GBR.3_1']
+GBR_PHTW,20-02-2020,United Kingdom,GBR,,,,5549,9,,0,,,,['GBR']
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Northern Ireland,,,44,0,,,,,,['GBR.2_1']
+GBR_PHTW,20-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,21-02-2020,United Kingdom,GBR,England,,,,20,,,,,,['GBR.1_1']
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Scotland,,,368,,,,,,,['GBR.3_1']
-GBR_PHTW,21-02-2020,United Kingdom,GBR,,,,5885,9,,,,,,['GBR']
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Scotland,,,368,0,,0,,,,['GBR.3_1']
+GBR_PHTW,21-02-2020,United Kingdom,GBR,,,,5885,9,,0,,,,['GBR']
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,21-02-2020,United Kingdom,GBR,England,Nottinghamshire,,,1,,,,,,['GBR.1.67_1']
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,21-02-2020,United Kingdom,GBR,Northern Ireland,,,47,,,,,,,['GBR.2_1']
-GBR_PHTW,22-02-2020,United Kingdom,GBR,,,,6152,9,,,,,,['GBR']
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Scotland,,,382,,,,,,,['GBR.3_1']
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,,,4,,,,,,,['GBR.4_1']
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,23-02-2020,United Kingdom,GBR,,,,6324,9,,,,,,['GBR']
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Scotland,,,393,,,,,,,['GBR.3_1']
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Northern Ireland,,,50,,,,,,,['GBR.2_1']
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,21-02-2020,United Kingdom,GBR,Northern Ireland,,,47,0,,,,,,['GBR.2_1']
+GBR_PHTW,22-02-2020,United Kingdom,GBR,,,,6152,9,,0,,,,['GBR']
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Scotland,,,382,0,,0,,,,['GBR.3_1']
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,22-02-2020,United Kingdom,GBR,Wales,,,4,0,,,,,,['GBR.4_1']
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,23-02-2020,United Kingdom,GBR,,,,6324,9,,0,,,,['GBR']
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Scotland,,,393,0,,0,,,,['GBR.3_1']
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Northern Ireland,,,50,0,,,,,,['GBR.2_1']
 GBR_PHTW,23-02-2020,United Kingdom,GBR,England,,,,24,,,,,,['GBR.1_1']
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,23-02-2020,United Kingdom,GBR,England,Warwickshire,,,1,,,,,,['GBR.1.108_1']
 GBR_PHTW,23-02-2020,United Kingdom,GBR,England,Islington,,,1,,,,,,['GBR.1.36.18_1']
 GBR_PHTW,23-02-2020,United Kingdom,GBR,England,Redbridge,,,1,,,,,,['GBR.1.36.26_1']
 GBR_PHTW,23-02-2020,United Kingdom,GBR,England,Milton Keynes,,,1,,,,,,['GBR.1.57_1']
-GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,,,5,,,,,,,['GBR.4_1']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,,,,6536,13,,,,,,['GBR']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Scotland,,,404,,,,,,,['GBR.3_1']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Northern Ireland,,,52,,,,,,,['GBR.2_1']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,23-02-2020,United Kingdom,GBR,Wales,,,5,0,,,,,,['GBR.4_1']
+GBR_PHTW,24-02-2020,United Kingdom,GBR,,,,6536,13,,0,,,,['GBR']
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Scotland,,,404,0,,0,,,,['GBR.3_1']
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Northern Ireland,,,52,0,,,,,,['GBR.2_1']
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,24-02-2020,United Kingdom,GBR,England,West Sussex,,,1,,,,,,['GBR.1.110_1']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,24-02-2020,United Kingdom,GBR,England,,,,25,,,,,,['GBR.1_1']
-GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,,,5,,,,,,,['GBR.4_1']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,24-02-2020,United Kingdom,GBR,Wales,,,5,0,,,,,,['GBR.4_1']
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,25-02-2020,United Kingdom,GBR,England,Southwark,,,2,,,,,,['GBR.1.36.28_1']
 GBR_PHTW,25-02-2020,United Kingdom,GBR,England,,,,29,,,,,,['GBR.1_1']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Northern Ireland,,,76,,,,,,,['GBR.2_1']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Scotland,,,412,,,,,,,['GBR.3_1']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,,,,6795,13,,,,,,['GBR']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,,,5,,,,,,,['GBR.4_1']
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Northern Ireland,,,76,0,,,,,,['GBR.2_1']
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Scotland,,,412,0,,0,,,,['GBR.3_1']
+GBR_PHTW,25-02-2020,United Kingdom,GBR,,,,6795,13,,0,,,,['GBR']
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,,,5,0,,,,,,['GBR.4_1']
 GBR_PHTW,25-02-2020,United Kingdom,GBR,England,Surrey,,,1,,,,,,['GBR.1.98_1']
 GBR_PHTW,25-02-2020,United Kingdom,GBR,England,Derbyshire,,,1,,,,,,['GBR.1.25_1']
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,25-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,26-02-2020,United Kingdom,GBR,England,Gloucestershire,,,1,,,,,,['GBR.1.35_1']
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Northern Ireland,,,117,,,,,,,['GBR.2_1']
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,0,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Northern Ireland,,,117,0,,0,,,,['GBR.2_1']
 GBR_PHTW,26-02-2020,United Kingdom,GBR,England,,,,32,,,,,,['GBR.1_1']
-GBR_PHTW,26-02-2020,United Kingdom,GBR,,,,7132,13,,,,,,['GBR']
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,,,5,,,,,,,['GBR.4_1']
-GBR_PHTW,26-02-2020,United Kingdom,GBR,Scotland,,,437,,,,,,,['GBR.3_1']
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Northern Ireland,,,159,,,,,,,['GBR.2_1']
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Scotland,,,470,,,,,,,['GBR.3_1']
-GBR_PHTW,27-02-2020,United Kingdom,GBR,,,,7690,13,,,,,,['GBR']
+GBR_PHTW,26-02-2020,United Kingdom,GBR,,,,7132,13,,0,,,,['GBR']
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Wales,,,5,0,,,,,,['GBR.4_1']
+GBR_PHTW,26-02-2020,United Kingdom,GBR,Scotland,,,437,0,,0,,,,['GBR.3_1']
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Northern Ireland,,,159,0,,0,,,,['GBR.2_1']
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Scotland,,,470,0,,0,,,,['GBR.3_1']
+GBR_PHTW,27-02-2020,United Kingdom,GBR,,,,7690,13,,0,,,,['GBR']
 GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,,,6,1,,,,,,['GBR.4_1']
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,27-02-2020,United Kingdom,GBR,England,Wokingham,,,1,,,,,,['GBR.1.115_1']
 GBR_PHTW,27-02-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,1,,,,,,['GBR.1.36.19_1']
 GBR_PHTW,27-02-2020,United Kingdom,GBR,England,Hampshire,,,1,,,,,,['GBR.1.38_1']
 GBR_PHTW,27-02-2020,United Kingdom,GBR,England,Medway,,,1,,,,,,['GBR.1.55_1']
 GBR_PHTW,27-02-2020,United Kingdom,GBR,England,Leicestershire,,,1,,,,,,['GBR.1.51_1']
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,27-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,27-02-2020,United Kingdom,GBR,England,,,,38,,,,,,['GBR.1_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Barnet,,,1,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Brent,,,1,,,,,,['GBR.1.36.4_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Leeds,,,1,,,,,,['GBR.1.49_1']
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Wigan,,,1,,,,,,['GBR.1.111_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,,,,50,,,,,,['GBR.1_1']
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Scotland,,,500,,,,,,,['GBR.3_1']
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Scotland,,,500,0,,0,,,,['GBR.3_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Essex,,,1,,,,,,['GBR.1.33_1']
-GBR_PHTW,28-02-2020,United Kingdom,GBR,,,,8986,19,,,,,,['GBR']
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Northern Ireland,,,185,,,,,,,['GBR.2_1']
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,,,7,1,,,,,,['GBR.4_1']
+GBR_PHTW,28-02-2020,United Kingdom,GBR,,,,8986,19,,0,,,,['GBR']
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Northern Ireland,,,185,0,,0,,,,['GBR.2_1']
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,,,7,1,,0,,,,['GBR.4_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Nottingham,,,1,,,,,,['GBR.1.66_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,East Riding of Yorkshire,,,1,,,,,,['GBR.1.31_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,2,,,,,,['GBR.1.36.19_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Southwark,,,3,,,,,,['GBR.1.36.28_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Surrey,,,2,,,,,,['GBR.1.98_1']
 GBR_PHTW,28-02-2020,United Kingdom,GBR,England,Hounslow,,,1,,,,,,['GBR.1.36.17_1']
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,28-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,29-02-2020,United Kingdom,GBR,England,,,,54,,,,,,['GBR.1_1']
 GBR_PHTW,29-02-2020,United Kingdom,GBR,England,Northamptonshire,,,1,,,,,,['GBR.1.64_1']
 GBR_PHTW,29-02-2020,United Kingdom,GBR,England,Kingston upon Thames,,,1,,,,,,['GBR.1.36.20_1']
 GBR_PHTW,29-02-2020,United Kingdom,GBR,England,Sheffield,,,1,,,,,,['GBR.1.83_1']
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,,,7,1,,,,,,['GBR.4_1']
-GBR_PHTW,29-02-2020,United Kingdom,GBR,,,,10483,23,,,,,,['GBR']
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Scotland,,,630,,,,,,,['GBR.3_1']
-GBR_PHTW,29-02-2020,United Kingdom,GBR,Northern Ireland,,,201,,,,,,,['GBR.2_1']
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Wales,,,7,1,,0,,,,['GBR.4_1']
+GBR_PHTW,29-02-2020,United Kingdom,GBR,,,,10483,23,,0,,,,['GBR']
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Scotland,,,630,0,,0,,,,['GBR.3_1']
+GBR_PHTW,29-02-2020,United Kingdom,GBR,Northern Ireland,,,201,0,,0,,,,['GBR.2_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,"Kingston upon Hull, City of",,,1,,,,,,['GBR.1.45_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Lancashire,,,2,,,,,,['GBR.1.48_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Leeds,,,2,,,,,,['GBR.1.49_1']
@@ -347,7 +347,7 @@ GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Stockport,,,1,,,,,,['GBR.1.93_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,West Sussex,,,3,,,,,,['GBR.1.110_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Wiltshire,,,1,,,,,,['GBR.1.112_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Wirral,,,1,,,,,,['GBR.1.114_1']
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,,,9,1,,,,,,['GBR.4_1']
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,,,9,1,,0,,,,['GBR.4_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Buckinghamshire,,,1,,,,,,['GBR.1.13_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Merton,,,1,,,,,,['GBR.1.36.24_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Westminster,,,1,,,,,,['GBR.1.36.33_1']
@@ -361,16 +361,16 @@ GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Gloucestershire,,,2,,,,,,['GBR.1.
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Sheffield,,,2,,,,,,['GBR.1.83_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Walsall,,,1,,,,,,['GBR.1.106_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Bury,,,3,,,,,,['GBR.1.14_1']
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,01-03-2020,United Kingdom,GBR,,,,11750,35,,,,,,['GBR']
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Scotland,,,698,,,,,,,['GBR.3_1']
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Northern Ireland,,,211,,,,,,,['GBR.2_1']
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,01-03-2020,United Kingdom,GBR,,,,11750,35,,0,,,,['GBR']
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Scotland,,,698,0,,0,,,,['GBR.3_1']
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Northern Ireland,,,211,0,,0,,,,['GBR.2_1']
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,,,,85,,,,,,['GBR.1_1']
-GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,01-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Barking and Dagenham,,,1,,,,,,['GBR.1.36.1_1']
 GBR_PHTW,01-03-2020,United Kingdom,GBR,England,Barnet,,,2,,,,,,['GBR.1.36.2_1']
@@ -400,18 +400,18 @@ GBR_PHTW,02-03-2020,United Kingdom,GBR,England,Rotherham,,,1,,,,,,['GBR.1.77_1']
 GBR_PHTW,02-03-2020,United Kingdom,GBR,England,Staffordshire,,,1,,,,,,['GBR.1.92_1']
 GBR_PHTW,02-03-2020,United Kingdom,GBR,England,Trafford,,,3,,,,,,['GBR.1.104_1']
 GBR_PHTW,02-03-2020,United Kingdom,GBR,England,York,,,2,,,,,,['GBR.1.118_1']
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,02-03-2020,United Kingdom,GBR,England,,,,124,,,,,,['GBR.1_1']
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Northern Ireland,,,230,,,,,,,['GBR.2_1']
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Scotland,,,815,1,,,,,,['GBR.3_1']
-GBR_PHTW,02-03-2020,United Kingdom,GBR,,,,13525,40,,,,,,['GBR']
-GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,,,11,1,,,,,,['GBR.4_1']
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Northern Ireland,,,230,0,,0,,,,['GBR.2_1']
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Scotland,,,815,1,,0,,,,['GBR.3_1']
+GBR_PHTW,02-03-2020,United Kingdom,GBR,,,,13525,40,,0,,,,['GBR']
+GBR_PHTW,02-03-2020,United Kingdom,GBR,Wales,,,11,1,,0,,,,['GBR.4_1']
 GBR_PHTW,02-03-2020,United Kingdom,GBR,England,Warwickshire,,,3,,,,,,['GBR.1.108_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Wokingham,,,2,,,,,,['GBR.1.115_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Cambridgeshire,,,1,,,,,,['GBR.1.16_1']
@@ -425,28 +425,28 @@ GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Wigan,,,3,,,,,,['GBR.1.111_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Barnsley,,,3,,,,,,['GBR.1.1_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Derbyshire,,,4,,,,,,['GBR.1.25_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,North Yorkshire,,,1,,,,,,['GBR.1.63_1']
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,0,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Milton Keynes,,,2,,,,,,['GBR.1.57_1']
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Liverpool,,,3,,,,,,['GBR.1.82.1_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Harrow,,,1,,,,,,['GBR.1.36.14_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Ealing,,,4,,,,,,['GBR.1.36.8_1']
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,,,12,1,,,,,,['GBR.4_1']
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,,,12,1,,0,,,,['GBR.4_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Oxfordshire,,,4,,,,,,['GBR.1.69_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Sheffield,,,3,,,,,,['GBR.1.83_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Staffordshire,,,2,,,,,,['GBR.1.92_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Swindon,,,1,,,,,,['GBR.1.99_1']
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Scotland,,,915,1,,,,,,['GBR.3_1']
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Scotland,,,915,1,,0,,,,['GBR.3_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,,,,175,,,,,,['GBR.1_1']
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Northern Ireland,,,256,,,,,,,['GBR.2_1']
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Northern Ireland,,,256,0,,0,,,,['GBR.2_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,03-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Lincolnshire,,,2,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Essex,,,2,,,,,,['GBR.1.33_1']
-GBR_PHTW,03-03-2020,United Kingdom,GBR,,,,13911,51,,,,,,['GBR']
+GBR_PHTW,03-03-2020,United Kingdom,GBR,,,,13911,51,,0,,,,['GBR']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Lambeth,,,1,,,,,,['GBR.1.36.21_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Manchester,,,1,,,,,,['GBR.1.54_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Nottinghamshire,,,4,,,,,,['GBR.1.67_1']
@@ -457,13 +457,13 @@ GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Devon,,,11,,,,,,['GBR.1.26_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Northamptonshire,,,2,,,,,,['GBR.1.64_1']
 GBR_PHTW,03-03-2020,United Kingdom,GBR,England,Westminster,,,2,,,,,,['GBR.1.36.33_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Westminster,,,3,,,,,,['GBR.1.36.33_1']
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Scotland,,,1046,3,,,,,,['GBR.3_1']
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Scotland,,,1046,3,,0,,,,['GBR.3_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,,,,224,,,,,,['GBR.1_1']
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Northern Ireland,,,283,,,,,,,['GBR.2_1']
-GBR_PHTW,04-03-2020,United Kingdom,GBR,,,,16659,85,,,,,,['GBR']
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,,,15,2,,,,,,['GBR.4_1']
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Northern Ireland,,,283,0,,0,,,,['GBR.2_1']
+GBR_PHTW,04-03-2020,United Kingdom,GBR,,,,16659,85,,0,,,,['GBR']
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,,,15,2,,0,,,,['GBR.4_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Barnet,,,6,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Ealing,,,5,,,,,,['GBR.1.36.8_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Leeds,,,3,,,,,,['GBR.1.49_1']
@@ -496,10 +496,10 @@ GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Staffordshire,,,3,,,,,,['GBR.1.92
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Sutton,,,1,,,,,,['GBR.1.36.29_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Trafford,,,4,,,,,,['GBR.1.104_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,England,Warwickshire,,,5,,,,,,['GBR.1.108_1']
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,1,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,04-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Oldham,,,2,,,,,,['GBR.1.68_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Northamptonshire,,,3,,,,,,['GBR.1.64_1']
@@ -519,11 +519,11 @@ GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Barnet,,,7,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Tower Hamlets,,,3,,,,,,['GBR.1.36.30_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,2,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Sheffield,,,6,,,,,,['GBR.1.83_1']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,England,,,,271,,,,,,['GBR.1_1']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Northern Ireland,,,309,,,,,,,['GBR.2_1']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Scotland,,,1256,6,,,,,,['GBR.3_1']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,,,,18083,114,,,,,,['GBR']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,,,15,2,,,,,,['GBR.4_1']
+GBR_PHTW,05-03-2020,United Kingdom,GBR,England,,,,271,,0,,,,['GBR.1_1']
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Northern Ireland,,,309,0,,0,,,,['GBR.2_1']
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Scotland,,,1256,6,,0,,,,['GBR.3_1']
+GBR_PHTW,05-03-2020,United Kingdom,GBR,,,,18083,114,,0,,,,['GBR']
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,,,15,2,,0,,,,['GBR.4_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Birmingham,,,3,,,,,,['GBR.1.4_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Waltham Forest,,,1,,,,,,['GBR.1.36.31_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Westminster,,,4,,,,,,['GBR.1.36.33_1']
@@ -531,13 +531,13 @@ GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Wokingham,,,3,,,,,,['GBR.1.115_1'
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Cambridgeshire,,,2,,,,,,['GBR.1.16_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Staffordshire,,,4,,,,,,['GBR.1.92_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Warwickshire,,,7,,,,,,['GBR.1.108_1']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Southwark,,,6,,,,,,['GBR.1.36.28_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,05-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,1,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Hillingdon,,,4,,,,,,['GBR.1.36.16_1']
 GBR_PHTW,05-03-2020,United Kingdom,GBR,England,Devon,,,15,,,,,,['GBR.1.26_1']
@@ -558,11 +558,11 @@ GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Camden,,,3,,,,,,['GBR.1.36.6_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Barnet,,,8,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Torbay,,,5,,,,,,['GBR.1.103_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,0,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,1,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Tameside,,,1,,,,,,['GBR.1.100_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Swindon,,,2,,,,,,['GBR.1.99_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Sutton,,,2,,,,,,['GBR.1.36.29_1']
@@ -574,14 +574,14 @@ GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Essex,,,5,,,,,,['GBR.1.33_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Enfield,,,2,,,,,,['GBR.1.36.9_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Derbyshire,,,7,,,,,,['GBR.1.25_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Surrey,,,6,,,,,,['GBR.1.98_1']
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,5,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Buckinghamshire,,,3,,,,,,['GBR.1.13_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,,,,344,,1,,,,['GBR.1_1']
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Northern Ireland,,,328,,,,,,,['GBR.2_1']
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Scotland,,,1525,11,,,,,,['GBR.3_1']
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Northern Ireland,,,328,0,,0,,,,['GBR.2_1']
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Scotland,,,1525,11,,0,,,,['GBR.3_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,,,,20338,160,,1,,,,['GBR']
-GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,,,17,2,,,,,,['GBR.4_1']
+GBR_PHTW,06-03-2020,United Kingdom,GBR,Wales,,,17,2,,0,,,,['GBR.4_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Richmond upon Thames,,,2,,,,,,['GBR.1.36.27_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,North Lincolnshire,,,1,,,,,,['GBR.1.60_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Leicestershire,,,4,,,,,,['GBR.1.51_1']
@@ -601,11 +601,11 @@ GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Havering,,,2,,,,,,['GBR.1.36.15_1
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Hackney,,,2,,,,,,['GBR.1.36.11_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,Devon,,,19,,,,,,['GBR.1.26_1']
 GBR_PHTW,06-03-2020,United Kingdom,GBR,England,"Bristol, City of",,,2,,,,,,['GBR.1.12_1']
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,,,19,4,,,,,,['GBR.4_1']
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,,,19,4,,0,,,,['GBR.4_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,,,,21460,206,,2,,,,['GBR']
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Scotland,,,1680,16,,,,,,['GBR.3_1']
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Scotland,,,1680,16,,0,,,,['GBR.3_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,England,,,,391,,2,,,,['GBR.1_1']
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Northern Ireland,,,349,,,,,,,['GBR.2_1']
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Northern Ireland,,,349,0,,0,,,,['GBR.2_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Southwark,,,9,,,,,,['GBR.1.36.28_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Sheffield,,,9,,,,,,['GBR.1.83_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
@@ -621,12 +621,12 @@ GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Cumbria,,,5,,,,,,['GBR.1.22_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Brighton and Hove,,,7,,,,,,['GBR.1.11_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Camden,,,4,,,,,,['GBR.1.36.6_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,2,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,1,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,07-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,07-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,,,,,,,['GBR.3.27_1']
@@ -664,12 +664,12 @@ GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Leeds,,,5,,,,,,['GBR.1.49_1']
 GBR_PHTW,07-03-2020,United Kingdom,GBR,England,Ealing,,,7,,,,,,['GBR.1.36.8_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,2,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,1,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,08-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,,,,,,,['GBR.3.27_1']
@@ -716,10 +716,10 @@ GBR_PHTW,08-03-2020,United Kingdom,GBR,England,Brent,,,3,,,,,,['GBR.1.36.4_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,England,Birmingham,,,4,,,,,,['GBR.1.4_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,England,Barnet,,,9,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,England,Barking and Dagenham,,,2,,,,,,['GBR.1.36.1_1']
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,,,19,4,,,,,,['GBR.4_1']
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Wales,,,19,4,,0,,,,['GBR.4_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,,,,23513,271,,2,,,,['GBR']
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Scotland,,,1957,18,,,,,,['GBR.3_1']
-GBR_PHTW,08-03-2020,United Kingdom,GBR,Northern Ireland,,,379,,,,,,,['GBR.2_1']
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Scotland,,,1957,18,,0,,,,['GBR.3_1']
+GBR_PHTW,08-03-2020,United Kingdom,GBR,Northern Ireland,,,379,0,,0,,,,['GBR.2_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,England,,,,441,,2,,,,['GBR.1_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,19,,,,,,['GBR.1.36.19_1']
 GBR_PHTW,08-03-2020,United Kingdom,GBR,England,Wolverhampton,,,5,,,,,,['GBR.1.116_1']
@@ -758,10 +758,10 @@ GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Barking and Dagenham,,,3,,,,,,['G
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Staffordshire,,,5,,,,,,['GBR.1.92_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,5,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,,,22,7,,,,,,['GBR.4_1']
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,,,22,7,,0,,,,['GBR.4_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,,,,24960,321,,3,,,,['GBR']
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,,,2101,23,,,,,,['GBR.3_1']
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Northern Ireland,,,441,1,,,,,,['GBR.2_1']
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,,,2101,23,,0,,,,['GBR.3_1']
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Northern Ireland,,,441,1,,0,,,,['GBR.2_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,,,,565,,3,,,,['GBR.1_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,,,,,,,['GBR.3.15_1']
@@ -771,12 +771,12 @@ GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,,,,,,,"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,,,,,,,['GBR.3.27_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,0,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Wandsworth,,,7,,,,,,['GBR.1.36.32_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,3,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,,,,,['GBR.4.17_1']
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,0,,,,,,['GBR.4.17_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,2,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Southend-on-Sea,,,2,,,,,,['GBR.1.91_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,South Gloucestershire,,,3,,,,,,['GBR.1.88_1']
@@ -801,7 +801,7 @@ GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Slough,,,5,,,,,,['GBR.1.85_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,6,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Lincolnshire,,,3,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
-GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,09-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,0,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Bromley,,,3,,,,,,['GBR.1.36.5_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,09-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
@@ -816,10 +816,10 @@ GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Bexley,,,2,,,,,,['GBR.1.36.3_1']
 GBR_PHTW,09-03-2020,United Kingdom,GBR,England,Westminster,,,18,,,,,,['GBR.1.36.33_1']
 GBR_PHTW,10-03-2020,United Kingdom,GBR,England,Lincolnshire,,,7,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,9,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,,,33,18,,,,,,['GBR.4_1']
+GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,,,33,18,,0,,,,['GBR.4_1']
 GBR_PHTW,10-03-2020,United Kingdom,GBR,,,,26261,373,,7,,,,['GBR']
-GBR_PHTW,10-03-2020,United Kingdom,GBR,Scotland,,,2234,27,,,,,,['GBR.3_1']
-GBR_PHTW,10-03-2020,United Kingdom,GBR,Northern Ireland,,,597,5,,,,,,['GBR.2_1']
+GBR_PHTW,10-03-2020,United Kingdom,GBR,Scotland,,,2234,27,,0,,,,['GBR.3_1']
+GBR_PHTW,10-03-2020,United Kingdom,GBR,Northern Ireland,,,597,5,,0,,,,['GBR.2_1']
 GBR_PHTW,10-03-2020,United Kingdom,GBR,England,,,,788,,7,,,,['GBR.1_1']
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,7,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
@@ -925,9 +925,9 @@ GBR_PHTW,10-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,1,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,1,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,10-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,3,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,,,51,32,,,,,,['GBR.4_1']
+GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,,,51,32,,0,,,,['GBR.4_1']
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,6,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
@@ -1028,7 +1028,7 @@ GBR_PHTW,11-03-2020,United Kingdom,GBR,England,Wirral,,,4,,,,,,['GBR.1.114_1']
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,13,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,3,,,,,,['GBR.4.17_1']
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,4,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,3,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,5,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,11-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,6,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
@@ -1042,8 +1042,8 @@ GBR_PHTW,11-03-2020,United Kingdom,GBR,England,West Sussex,,,7,,,,,,['GBR.1.110_
 GBR_PHTW,11-03-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,4,,,,,,['GBR.1.94_1']
 GBR_PHTW,11-03-2020,United Kingdom,GBR,England,Norfolk,,,2,,,,,,['GBR.1.59_1']
 GBR_PHTW,11-03-2020,United Kingdom,GBR,England,,,,1142,,7,,,,['GBR.1_1']
-GBR_PHTW,11-03-2020,United Kingdom,GBR,Northern Ireland,,,756,16,,,,,,['GBR.2_1']
-GBR_PHTW,11-03-2020,United Kingdom,GBR,Scotland,,,2316,36,,,,,,['GBR.3_1']
+GBR_PHTW,11-03-2020,United Kingdom,GBR,Northern Ireland,,,756,16,,0,,,,['GBR.2_1']
+GBR_PHTW,11-03-2020,United Kingdom,GBR,Scotland,,,2316,36,,0,,,,['GBR.3_1']
 GBR_PHTW,11-03-2020,United Kingdom,GBR,,,,27476,456,,7,,,,['GBR']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Knowsley,,,1,,,,,,['GBR.1.47_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
@@ -1052,10 +1052,10 @@ GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Lincolnshire,,,12,,,,,,"['GBR.1.5
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,21,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Hackney,,,20,,,,,,['GBR.1.36.11_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,,,,1555,,9,,,,['GBR.1_1']
-GBR_PHTW,12-03-2020,United Kingdom,GBR,Northern Ireland,,,894,20,,,,,,['GBR.2_1']
-GBR_PHTW,12-03-2020,United Kingdom,GBR,Scotland,,,2892,60,,,,,,['GBR.3_1']
+GBR_PHTW,12-03-2020,United Kingdom,GBR,Northern Ireland,,,894,20,,0,,,,['GBR.2_1']
+GBR_PHTW,12-03-2020,United Kingdom,GBR,Scotland,,,2892,60,,0,,,,['GBR.3_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,,,,29764,590,,9,,,,['GBR']
-GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,,,76,56,,,,,,['GBR.4_1']
+GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,,,76,56,,0,,,,['GBR.4_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Barking and Dagenham,,,8,,,,,,['GBR.1.36.1_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Barnet,,,31,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,England,Birmingham,,,22,,,,,,['GBR.1.4_1']
@@ -1173,11 +1173,11 @@ GBR_PHTW,12-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,13,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,4,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,4,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,0,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,6,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,5,,,,,,['GBR.4.17_1']
 GBR_PHTW,12-03-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,24,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
-GBR_PHTW,13-03-2020,United Kingdom,GBR,Wales,,,107,83,,,,,,['GBR.4_1']
+GBR_PHTW,13-03-2020,United Kingdom,GBR,Wales,,,107,83,,0,,,,['GBR.4_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,England,Nottingham,,,14,,,,,,['GBR.1.66_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,England,Plymouth,,,3,,,,,,['GBR.1.71_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,England,Salford,,,4,,,,,,['GBR.1.80_1']
@@ -1304,7 +1304,7 @@ GBR_PHTW,13-03-2020,United Kingdom,GBR,England,Dorset,,,5,,,,,,"['GBR.1.28.2_1',
 GBR_PHTW,13-03-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,1,,,,,,['GBR.1.5_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,England,Bedford,,,1,,,,,,['GBR.1.3.1_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,England,,,,1947,,10,,,,['GBR.1_1']
-GBR_PHTW,13-03-2020,United Kingdom,GBR,Northern Ireland,,,1026,31,,,,,,['GBR.2_1']
+GBR_PHTW,13-03-2020,United Kingdom,GBR,Northern Ireland,,,1026,31,,0,,,,['GBR.2_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,Scotland,,,3314,85,,1,,,,['GBR.3_1']
 GBR_PHTW,13-03-2020,United Kingdom,GBR,,,,32771,797,,10,,,,['GBR']
 GBR_PHTW,14-03-2020,United Kingdom,GBR,England,County Durham,,,2,,,,,,['GBR.1.30_1']
@@ -1314,11 +1314,11 @@ GBR_PHTW,14-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,10,,,,,,"[
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,3,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,9,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,37,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,14-03-2020,United Kingdom,GBR,Wales,,,129,103,,,,,,['GBR.4_1']
+GBR_PHTW,14-03-2020,United Kingdom,GBR,Wales,,,129,103,,0,,,,['GBR.4_1']
 GBR_PHTW,14-03-2020,United Kingdom,GBR,,,,37746,1061,,28,,,,['GBR']
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Scotland,,,3715,121,,1,,,,['GBR.3_1']
 GBR_PHTW,14-03-2020,United Kingdom,GBR,England,,,,2264,,28,,,,['GBR.1_1']
-GBR_PHTW,14-03-2020,United Kingdom,GBR,Northern Ireland,,,1147,41,,,,,,['GBR.2_1']
+GBR_PHTW,14-03-2020,United Kingdom,GBR,Northern Ireland,,,1147,41,,0,,,,['GBR.2_1']
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,11,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,14-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,13,,,,,,['GBR.3.27_1']
@@ -1451,10 +1451,10 @@ GBR_PHTW,15-03-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,9,,,,
 GBR_PHTW,15-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,10,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,15-03-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,3,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,15-03-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,15,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,15-03-2020,United Kingdom,GBR,Wales,,,160,134,,,,,,['GBR.4_1']
+GBR_PHTW,15-03-2020,United Kingdom,GBR,Wales,,,160,134,,0,,,,['GBR.4_1']
 GBR_PHTW,15-03-2020,United Kingdom,GBR,,,,40279,1391,,43,,,,['GBR']
 GBR_PHTW,15-03-2020,United Kingdom,GBR,Scotland,,,4240,153,,1,,,,['GBR.3_1']
-GBR_PHTW,15-03-2020,United Kingdom,GBR,Northern Ireland,,,1252,43,,,,,,['GBR.2_1']
+GBR_PHTW,15-03-2020,United Kingdom,GBR,Northern Ireland,,,1252,43,,0,,,,['GBR.2_1']
 GBR_PHTW,15-03-2020,United Kingdom,GBR,England,,,,2661,,42,,,,['GBR.1_1']
 GBR_PHTW,15-03-2020,United Kingdom,GBR,England,Portsmouth,,,9,,,,,,['GBR.1.73_1']
 GBR_PHTW,15-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,16,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
@@ -1575,7 +1575,7 @@ GBR_PHTW,16-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.
 GBR_PHTW,16-03-2020,United Kingdom,GBR,Wales,,,200,168,,3,,,,['GBR.4_1']
 GBR_PHTW,16-03-2020,United Kingdom,GBR,,,,44105,1543,,65,,,,['GBR']
 GBR_PHTW,16-03-2020,United Kingdom,GBR,Scotland,,,4895,171,,1,,,,['GBR.3_1']
-GBR_PHTW,16-03-2020,United Kingdom,GBR,Northern Ireland,,,1406,51,,,,,,['GBR.2_1']
+GBR_PHTW,16-03-2020,United Kingdom,GBR,Northern Ireland,,,1406,51,,0,,,,['GBR.2_1']
 GBR_PHTW,16-03-2020,United Kingdom,GBR,England,,,,3207,,64,,,,['GBR.1_1']
 GBR_PHTW,16-03-2020,United Kingdom,GBR,England,Buckinghamshire,,,48,,,,,,['GBR.1.13_1']
 GBR_PHTW,16-03-2020,United Kingdom,GBR,England,Northamptonshire,,,21,,,,,,['GBR.1.64_1']
@@ -1735,7 +1735,7 @@ GBR_PHTW,17-03-2020,United Kingdom,GBR,England,Richmond upon Thames,,,18,,,,,,['
 GBR_PHTW,17-03-2020,United Kingdom,GBR,England,North Tyneside,,,8,,,,,,['GBR.1.62_1']
 GBR_PHTW,17-03-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,10,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,17-03-2020,United Kingdom,GBR,England,,,,3887,,79,,,,['GBR.1_1']
-GBR_PHTW,17-03-2020,United Kingdom,GBR,Northern Ireland,,,1535,60,,,,,,['GBR.2_1']
+GBR_PHTW,17-03-2020,United Kingdom,GBR,Northern Ireland,,,1535,60,,0,,,,['GBR.2_1']
 GBR_PHTW,17-03-2020,United Kingdom,GBR,Scotland,,,5246,195,,2,,,,['GBR.3_1']
 GBR_PHTW,17-03-2020,United Kingdom,GBR,,,,50442,1950,,81,,,,['GBR']
 GBR_PHTW,17-03-2020,United Kingdom,GBR,Wales,,,1791,205,,3,,,,['GBR.4_1']
