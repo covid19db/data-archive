@@ -9,6 +9,6 @@ Examples of OxCOVID19 data usage can be found here: [https://github.com/covid19d
 ---
 
 __Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Lionel Tarassenko,
-<em>Oxford COVID-19 Database: multimodal data repository for understanding global impact of COVID-19.University of Oxford</em>, 2020.
+<em>Oxford COVID-19 Database: multimodal data repository for understanding global impact of COVID-19. University of Oxford</em>, 2020.
 
 ---
