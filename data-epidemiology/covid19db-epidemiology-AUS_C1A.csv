@@ -1,4 +1,13 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+AUS_C1A,14-06-2020,Australia,AUS,Western Australia,,,141905,602,582,9,0,0,,['AUS.11_1']
+AUS_C1A,14-06-2020,Australia,AUS,Victoria,,,590853,1720,1657,19,6,2,,['AUS.10_1']
+AUS_C1A,14-06-2020,Australia,AUS,Tasmania,,,40385,226,213,13,0,0,,['AUS.9_1']
+AUS_C1A,14-06-2020,Australia,AUS,South Australia,,,125732,440,436,4,0,0,,['AUS.8_1']
+AUS_C1A,14-06-2020,Australia,AUS,Queensland,,,249627,1065,1051,6,2,1,,['AUS.7_1']
+AUS_C1A,14-06-2020,Australia,AUS,Northern Territory,,,10464,30,30,0,0,0,,['AUS.6_1']
+AUS_C1A,14-06-2020,Australia,AUS,New South Wales,,,634241,3128,2766,48,9,0,,['AUS.5_1']
+AUS_C1A,14-06-2020,Australia,AUS,Australian Capital Territory,,,23217,108,104,3,0,0,,['AUS.2_1']
+AUS_C1A,14-06-2020,Australia,AUS,,,,1816424,7319,6839,102,17,3,,['AUS']
 AUS_C1A,13-06-2020,Australia,AUS,Western Australia,,,140106,602,575,9,0,0,,['AUS.11_1']
 AUS_C1A,13-06-2020,Australia,AUS,Victoria,,,582514,1711,1641,19,5,1,,['AUS.10_1']
 AUS_C1A,13-06-2020,Australia,AUS,Tasmania,,,39981,226,213,13,0,0,,['AUS.9_1']

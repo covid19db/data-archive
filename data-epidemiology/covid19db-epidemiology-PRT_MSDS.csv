@@ -1,4 +1,13 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+PRT_MSDS,14-06-2020,Portugal,PRT,Overseas,,,,,,,,,,
+PRT_MSDS,14-06-2020,Portugal,PRT,Norte,,,,17078,,812,,,,"['PRT.1.4_1', 'PRT.1.6_1', 'PRT.1.7_1', 'PRT.1.15_1', 'PRT.1.12_1', 'PRT.1.16_1', 'PRT.1.19_1', 'PRT.4_1', 'PRT.5_1', 'PRT.10.14_1', 'PRT.15_1', 'PRT.18_1', 'PRT.19_1', 'PRT.20.1_1', 'PRT.20.4_1', 'PRT.20.5_1', 'PRT.20.7_1', 'PRT.20.12_1', 'PRT.20.13_1', 'PRT.20.15_1', 'PRT.20.18_1', 'PRT.20.19_1', 'PRT.20.20_1']"
+PRT_MSDS,14-06-2020,Portugal,PRT,Madeira,,,,90,,0,,,,['PRT.13_1']
+PRT_MSDS,14-06-2020,Portugal,PRT,Centro,,,,3874,,246,,,,"['PRT.1.1_1', 'PRT.1.2_1', 'PRT.1.3_1', 'PRT.1.5_1', 'PRT.1.8_1', 'PRT.1.9_1', 'PRT.1.10_1', 'PRT.1.11_1', 'PRT.1.13_1', 'PRT.1.14_1', 'PRT.1.17_1', 'PRT.1.18_1', 'PRT.6.1_1', 'PRT.6.2_1', 'PRT.6.3_1', 'PRT.6.4_1', 'PRT.6.5_1', 'PRT.6.6_1', 'PRT.6.7_1', 'PRT.6.8_1', 'PRT.6.11_1', 'PRT.7_1', 'PRT.10.1_1', 'PRT.10.2_1', 'PRT.10.3_1', 'PRT.10.4_1', 'PRT.10.5_1', 'PRT.10.6_1', 'PRT.10.7_1', 'PRT.10.8_1', 'PRT.10.9_1', 'PRT.10.10_1', 'PRT.10.11_1', 'PRT.10.12_1', 'PRT.10.13_1', 'PRT.11.2_1', 'PRT.11.3_1', 'PRT.11.4_1', 'PRT.11.7_1', 'PRT.11.8_1', 'PRT.11.9_1', 'PRT.11.10_1', 'PRT.11.13_1', 'PRT.11.15_1', 'PRT.11.16_1', 'PRT.20.2_1', 'PRT.20.3_1', 'PRT.20.6_1', 'PRT.20.8_1', 'PRT.20.9_1', 'PRT.20.10_1', 'PRT.20.11_1', 'PRT.20.14_1', 'PRT.20.16_1', 'PRT.20.17_1', 'PRT.20.21_1', 'PRT.20.22_1', 'PRT.20.23_1', 'PRT.20.24_1']"
+PRT_MSDS,14-06-2020,Portugal,PRT,Azores,,,,143,,15,,,,['PRT.2_1']
+PRT_MSDS,14-06-2020,Portugal,PRT,ARS Lisboa e Vale do Tejo,,,,14828,,427,,,,"['PRT.6.9_1', 'PRT.6.10_1', 'PRT.11.1_1', 'PRT.11.5_1', 'PRT.11.6_1', 'PRT.11.11_1', 'PRT.11.12_1', 'PRT.11.14_1', 'PRT.12_1', 'PRT.16_1', 'PRT.17.2_1', 'PRT.17.3_1', 'PRT.17.4_1', 'PRT.17.6_1', 'PRT.17.7_1', 'PRT.17.8_1', 'PRT.17.10_1', 'PRT.17.11_1', 'PRT.17.12_1']"
+PRT_MSDS,14-06-2020,Portugal,PRT,Algarve,,,,395,,15,,,,['PRT.9_1']
+PRT_MSDS,14-06-2020,Portugal,PRT,Alentejo,,,,282,,2,,,,"['PRT.3_1', 'PRT.8_1', 'PRT.14_1', 'PRT.17.1_1', 'PRT.17.5_1', 'PRT.17.9_1', 'PRT.17.13_1']"
+PRT_MSDS,14-06-2020,Portugal,PRT,,,,,36690,22669,1517,419,73,,['PRT']
 PRT_MSDS,13-06-2020,Portugal,PRT,Overseas,,,,,,,,,,
 PRT_MSDS,13-06-2020,Portugal,PRT,Norte,,,,17066,,812,,,,"['PRT.1.4_1', 'PRT.1.6_1', 'PRT.1.7_1', 'PRT.1.15_1', 'PRT.1.12_1', 'PRT.1.16_1', 'PRT.1.19_1', 'PRT.4_1', 'PRT.5_1', 'PRT.10.14_1', 'PRT.15_1', 'PRT.18_1', 'PRT.19_1', 'PRT.20.1_1', 'PRT.20.4_1', 'PRT.20.5_1', 'PRT.20.7_1', 'PRT.20.12_1', 'PRT.20.13_1', 'PRT.20.15_1', 'PRT.20.18_1', 'PRT.20.19_1', 'PRT.20.20_1']"
 PRT_MSDS,13-06-2020,Portugal,PRT,Madeira,,,,90,,0,,,,['PRT.13_1']
