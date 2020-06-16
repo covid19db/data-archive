@@ -1,0 +1,10 @@
+source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+CHN_ICL,18-01-2020,China,CHN,,,,,198,25,3,,,,['CHN']
+CHN_ICL,17-01-2020,China,CHN,,,,,62,19,2,,,,['CHN']
+CHN_ICL,16-01-2020,China,CHN,,,,,45,15,2,,,,['CHN']
+CHN_ICL,15-01-2020,China,CHN,,,,,41,12,2,,,,['CHN']
+CHN_ICL,14-01-2020,China,CHN,,,,,41,7,1,,,,['CHN']
+CHN_ICL,13-01-2020,China,CHN,,,,,41,7,1,,,,['CHN']
+CHN_ICL,12-01-2020,China,CHN,,,,,41,7,1,,,,['CHN']
+CHN_ICL,11-01-2020,China,CHN,,,,,41,6,1,,,,['CHN']
+CHN_ICL,10-01-2020,China,CHN,,,,,41,2,1,,,,['CHN']
