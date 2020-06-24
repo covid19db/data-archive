@@ -1,4 +1,5 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+NLD_CW,23-06-2020,Netherlands,NLD,,,,,49722,,6095,11853,,,['NLD']
 NLD_CW,22-06-2020,Netherlands,NLD,,,,,49658,,6090,11851,,,['NLD']
 NLD_CW,21-06-2020,Netherlands,NLD,,,,,49593,,6090,11849,,,['NLD']
 NLD_CW,20-06-2020,Netherlands,NLD,,,,,49502,,6089,11846,,,['NLD']
