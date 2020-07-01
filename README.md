@@ -14,6 +14,13 @@ Files are grouped in three folders:
 
 Each file contained in these folder is related to a different source. The list of sources is available at [this link](https://covid19.eng.ox.ac.uk/data_sources.html). The structure of each file and the meaning of each column are described in [this webpage](https://covid19.eng.ox.ac.uk/data_schema.html) for detailed explanations.
 
+---
+
+__Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Lionel Tarassenko,
+<em>Oxford COVID-19 Database: multimodal data repository for understanding the global impact of COVID-19. University of Oxford</em>, 2020.
+
+---
+
 A summary of the available data is provided here:
 
 Epiedmiology:
@@ -48,9 +55,4 @@ Epiedmiology:
 
 
 
----
 
-__Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Lionel Tarassenko,
-<em>Oxford COVID-19 Database: multimodal data repository for understanding the global impact of COVID-19. University of Oxford</em>, 2020.
-
----
