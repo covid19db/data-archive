@@ -14,6 +14,34 @@ Files are grouped in three folders:
 
 Each file contained in these folder is related to a different source. The list of sources is available at [this link](https://covid19.eng.ox.ac.uk/data_sources.html). The structure of each file and the meaning of each column are described in [this webpage](https://covid19.eng.ox.ac.uk/data_schema.html) for detailed explanations.
 
+A summary of the available data is provided here:
+
+Epiedmiology:
+
+| File    | Country | Source | Features  | Terms of use |
+|---------|---------|--------|-----------|--------------|
+| AUS_C1A | Australia | [covid-19-au](https://github.com/covid-19-au/covid-19-au.github.io) | tested, confirmed, dead,recovered, hospitalised, hospitalised_icu | [For educational and academic research purposes](https://github.com/covid-19-au/covid-19-au.github.io) | 
+| BEL_WY | Belgium |  | confirmed, recovered, dead, hospitalised, hospitalised_icu | | 
+| BRA_MSHM | Brazil | [covid19-Brazil-timeseries](https://github.com/elhenrico/covid19-Brazil-timeseries) | confirmed (country-level), dead (country-level, adm_area_1) | [public domain](https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/README.md#public-domain-and-open-data) | 
+| CAN_GOV | Canada | [Public Health Canada](https://www.canada.ca/en/public-health.html) | tested, confirmed, dead, recovered | [Attribution required](https://www.canada.ca/en/transparency/terms.html) | 
+| CHE_OPGOV | Switzerland | (Kanton Zürich Statistisches Amt)[https://github.com/openZH/covid_19] | confirmed, dead, hospitalised, hospitalised_icu | | 
+| CHN_ICL | China | [Imperial College London, MRC Centre for Global Infectious Disease Analysis](https://github.com/mrc-ide/covid19_mainland_China_report) | confirmed, dead, hospitalised, hospitalised_icu | CC BY NC ND 4.0 |
+| DEU_JPGG | Germany | [Jan-Philip Gehrcke (Gesundheitsaemter)](https://github.com/jgehrcke/covid-19-germany-gae) | confirmed, dead | [MIT](https://github.com/jgehrcke/covid-19-germany-gae/blob/master/LICENSE) |
+| ESP_MS | Spain | [Ministerio de Sanidad](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) | confirmed, dead, hospitalised, hospitalised_icu | ["Desnaturalización" prohibited, citation required](https://www.mscbs.gob.es/avisoLegal/home.htm) |
+| ESP_MSVP | Spain | [Victor Vincente Palacios](https://raw.githubusercontent.com/victorvicpal/COVID19_es/master/data/final_data/dataCOVID19_es.csv) | confirmed, recovered, dead, hospitalised, ICU | [Apache License 2.0](https://github.com/victorvicpal/COVID19_es/blob/master/LICENSE) |
+| EU_ZH | Europe | [COVID19 EU](https://github.com/covid19-eu-zh/covid19-eu-data) | tested, confirmed,  dead, recovered, hospitalised, hospitalised_icu | [MIT](https://github.com/covid19-eu-zh/covid19-eu-data/issues/57) |
+| FRA_SPF | France | [Santé publique France](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/) | recovered, dead, hospitalised, hospitalised_icu | [License Ouverte/Open License 2.0](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/) |
+| FRA_SPFCG | France | [Cédric Guadalupe (Agence Regionale de Sante and others)](https://github.com/cedricguadalupe/FRANCE-COVID-19) | recovered, dead, hospitalised, hospitalised_icu | [GPL 3.0](https://github.com/cedricguadalupe/FRANCE-COVID-19/blob/master/LICENSE) |
+| GBR_PHE | UK - England | [Public Health England](https://coronavirus.data.gov.uk/) | tested, confirmed, dead | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+| GBR_PHTW | UK | [Tom White](https://github.com/tomwhite/covid-19-uk-data) | tested, confirmed, dead | [The Unlicense](https://github.com/tomwhite/covid-19-uk-data/blob/master/LICENSE.txt) |
+| GBR_PHW | UK - Wales | [Public Health Wales](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary) | tested, confirmed, dead | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+| IDN_GTPPC | Indonesia | [COVID19.go](https://covid19.go.id/) | confirmed, recovered, dead | Standard "all rights reserved" notice. No licensing information. |
+| IND_COVIND | India | [COVID19india](https://api.covid19india.org/) | tested, confirmed, recovered, dead | [https://github.com/covid19india/api/blob/master/LICENSE](GPL 3.0) |
+| IRL_HSPC | Ireland |  | confirmed |  |
+| ITA_PC | Italy | [Protezione Civile](https://github.com/pcm-dpc/COVID-19) | tested, confirmed, recovered, dead, hospitalised, ICU, quarantined | [CC BY 4.0](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE) |
+| ITA_PCDM | Italy | [Davide Magno (Protezione Civile)](https://github.com/DavideMagno/ItalianCovidData) | tested, confirmed,  dead, recovered, hospitalised, ICU, quarantined | [CC0 1.0 Universal](https://github.com/DavideMagno/ItalianCovidData/blob/master/LICENSE) |
+
+
 ---
 
 __Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Lionel Tarassenko,
