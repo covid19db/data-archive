@@ -36,10 +36,16 @@ Epiedmiology:
 | GBR_PHTW | UK | [Tom White](https://github.com/tomwhite/covid-19-uk-data) | tested, confirmed, dead | [The Unlicense](https://github.com/tomwhite/covid-19-uk-data/blob/master/LICENSE.txt) |
 | GBR_PHW | UK - Wales | [Public Health Wales](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary) | tested, confirmed, dead | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 | IDN_GTPPC | Indonesia | [COVID19.go](https://covid19.go.id/) | confirmed, recovered, dead | Standard "all rights reserved" notice. No licensing information. |
-| IND_COVIND | India | [COVID19india](https://api.covid19india.org/) | tested, confirmed, recovered, dead | [https://github.com/covid19india/api/blob/master/LICENSE](GPL 3.0) |
+| IND_COVIND | India | [COVID19india](https://api.covid19india.org/) | tested, confirmed, recovered, dead | [GPL 3.0](https://github.com/covid19india/api/blob/master/LICENSE) |
 | IRL_HSPC | Ireland |  | confirmed |  |
 | ITA_PC | Italy | [Protezione Civile](https://github.com/pcm-dpc/COVID-19) | tested, confirmed, recovered, dead, hospitalised, ICU, quarantined | [CC BY 4.0](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE) |
 | ITA_PCDM | Italy | [Davide Magno (Protezione Civile)](https://github.com/DavideMagno/ItalianCovidData) | tested, confirmed,  dead, recovered, hospitalised, ICU, quarantined | [CC0 1.0 Universal](https://github.com/DavideMagno/ItalianCovidData/blob/master/LICENSE) |
+| JPN_C1JACD | Japan | [code4sabae/covid19s](https://github.com/code4sabae/covid19) | tested, confirmed, recovered, dead, hospitalised, hospitalised_ic | [CC BY](https://github.com/code4sabae/covid19) |
+| KOR_DS4C | South Korea | [Jihoo-Kim](https://github.com/jihoo-kim/Data-Science-for-COVID-19) | tested, confirmed, recovered, dead | [CC BY-NC-SA 4.0](https://github.com/jihoo-kim/Data-Science-for-COVID-19) |
+| LAT_DSRP | South Korea | [Jihoo-Kim](https://github.com/jihoo-kim/Data-Science-for-COVID-19) | tested, confirmed, recovered, dead | [CC BY-NC-SA 4.0](https://github.com/jihoo-kim/Data-Science-for-COVID-19) |
+| MYS_MHYS | Malaysia | [Young Sung](https://github.com/ynshung/covid-19-malaysia) | confirmed, dead, hospitalised | [Public Domain](https://github.com/ynshung/covid-19-malaysia/blob/master/LICENSE) |
+| NGA_CDC | Nigeria | [Nigeria Centre for Disease Control](https://covid19.ncdc.gov.ng/) | confirmed, recovered, dead |  |
+
 
 
 ---
