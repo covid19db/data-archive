@@ -14,13 +14,6 @@ Files are grouped in three folders:
 
 Each file contained in these folder is related to a different source. The list of sources is available at [this link](https://covid19.eng.ox.ac.uk/data_sources.html). The structure of each file and the meaning of each column are described in [this webpage](https://covid19.eng.ox.ac.uk/data_schema.html) for detailed explanations.
 
----
-
-__Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Lionel Tarassenko,
-<em>Oxford COVID-19 Database: multimodal data repository for understanding the global impact of COVID-19. University of Oxford</em>, 2020.
-
----
-
 A summary of the available data is provided here:
 
 Epiedmiology:
@@ -31,7 +24,7 @@ Epiedmiology:
 | BEL_WY | Belgium |  | confirmed, recovered, dead, hospitalised, hospitalised_icu | | 
 | BRA_MSHM | Brazil | [covid19-Brazil-timeseries](https://github.com/elhenrico/covid19-Brazil-timeseries) | confirmed (country-level), dead (country-level, adm_area_1) | [public domain](https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/README.md#public-domain-and-open-data) | 
 | CAN_GOV | Canada | [Public Health Canada](https://www.canada.ca/en/public-health.html) | tested, confirmed, dead, recovered | [Attribution required](https://www.canada.ca/en/transparency/terms.html) | 
-| CHE_OPGOV | Switzerland | (Kanton Zürich Statistisches Amt)[https://github.com/openZH/covid_19] | confirmed, dead, hospitalised, hospitalised_icu | | 
+| CHE_OPGOV | Switzerland | [Kanton Zürich Statistisches Amt](https://github.com/openZH/covid_19) | confirmed, dead, hospitalised, hospitalised_icu | | 
 | CHN_ICL | China | [Imperial College London, MRC Centre for Global Infectious Disease Analysis](https://github.com/mrc-ide/covid19_mainland_China_report) | confirmed, dead, hospitalised, hospitalised_icu | CC BY NC ND 4.0 |
 | DEU_JPGG | Germany | [Jan-Philip Gehrcke (Gesundheitsaemter)](https://github.com/jgehrcke/covid-19-germany-gae) | confirmed, dead | [MIT](https://github.com/jgehrcke/covid-19-germany-gae/blob/master/LICENSE) |
 | ESP_MS | Spain | [Ministerio de Sanidad](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm) | confirmed, dead, hospitalised, hospitalised_icu | ["Desnaturalización" prohibited, citation required](https://www.mscbs.gob.es/avisoLegal/home.htm) |
@@ -51,8 +44,31 @@ Epiedmiology:
 | KOR_DS4C | South Korea | [Jihoo-Kim](https://github.com/jihoo-kim/Data-Science-for-COVID-19) | tested, confirmed, recovered, dead | [CC BY-NC-SA 4.0](https://github.com/jihoo-kim/Data-Science-for-COVID-19) |
 | LAT_DSRP | South Korea | [Jihoo-Kim](https://github.com/jihoo-kim/Data-Science-for-COVID-19) | tested, confirmed, recovered, dead | [CC BY-NC-SA 4.0](https://github.com/jihoo-kim/Data-Science-for-COVID-19) |
 | MYS_MHYS | Malaysia | [Young Sung](https://github.com/ynshung/covid-19-malaysia) | confirmed, dead, hospitalised | [Public Domain](https://github.com/ynshung/covid-19-malaysia/blob/master/LICENSE) |
-| NGA_CDC | Nigeria | [Nigeria Centre for Disease Control](https://covid19.ncdc.gov.ng/) | confirmed, recovered, dead |  |
+| NGA_CDC | Nigeria | [covidnigeria.herokuapp.com](https://covidnigeria.herokuapp.com/) | confirmed, recovered, dead |  |
+| NGA_SO | Nigeria | [Young Sung](https://github.com/ynshung/covid-19-malaysia) | confirmed, recovered, dead |  |
+| NLD_CW | Netherlands | [CoronaWatchNL](https://github.com/J535D165/CoronaWatchNL/tree/master/data) | confirmed, dead, hospitalised | [CC0](https://github.com/J535D165/CoronaWatchNL) |
+| NLD_WY | Netherlands |  | confirmed, dead, hospitalised | |
+| PAK_GOV | Pakistan | [National Information Technology Boards](https://datastudio.google.com/u/0/reporting/1PLVi5amcc_R5Gh928gTE8-8r8-fLXJQF/page/kyNJB) | confirmed,  dead, recovered |  |
+| POL_WIKI | Poland | [Wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Poland) | confirmed, dead | [CC0](https://www.wikidata.org/wiki/Wikidata:Licensing) |
+| PRT_MSDS | Portugal | [dssg-pt](https://github.com/dssg-pt/covid19pt-data) | tested, confirmed, recovered, dead, hospitalised, ICU, quarantined | [MIT](https://github.com/dssg-pt/covid19pt-data) |
+| RUS_GOV | Russia |  | confirmed, recovered, dead | |
+| SWE_GM | Sweden | [Elin Lütz](https://github.com/elinlutz/gatsby-map/tree/master/src/data/time_series) | confirmed, dead, adm_area_1 | [MIT](https://github.com/elinlutz/gatsby-map/blob/master/LICENSE) |
+| SWE_SIR | Sweden | [SIR](https://portal.icuregswe.org/siri/report/corona.inrapp) | hospitalised_icu | [SIR Copyright](https://www.icuregswe.org/en/data--results/data-output-portal/) |
+| THA_STAT | Thailand | [Department of Disease Control](https://covid19.th-stat.com/en/api) |confirmed, recovered, dead, hospitalised | [DGA Open Government License](https://data.go.th/en/dataset/covid-19-daily) |
+| TUR_MHOE | Turkey | [Turkish Ministry of Health](https://covid19.saglik.gov.tr/) | tested, confirmed, dead, recovered, hospitalised_icu | [MIT](https://github.com/ozanerturk/covid19-turkey-api/blob/master/LICENSE) |
+| USA_CTP | United States | [COVID Tracking Project](https://covidtracking.com/api) | confirmed, dead | [CC BY-NC-4.0](https://covidtracking.com/license) |
+| USA_NYT | United States | [The New York Times](https://github.com/nytimes/covid-19-data) | confirmed, dead | [Attribution required, non-commercial use](https://github.com/nytimes/covid-19-data/blob/master/LICENSE) |
+| WRD_ECDC | World | [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) | confirmed, dead, recovered | [https://www.ecdc.europa.eu/en/copyright](ECDC Copyright) |
+| WRD_WHO | World | [WHO](https://covid19.who.int/) | confirmed, recovered, dead |  |
+| ZAF_DSFSI | South Africa | [Data Science for Social Impact research group, University of Pretoria](https://github.com/dsfsi/covid19za) | tested, confirmed, recovered , dead, hospitalised, hospitalised_icu, quarantined  | [MIT](https://github.com/dsfsi/covid19za/blob/master/LICENSE) |
 
+
+---
+
+__Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shing Chan, John Harvey, Davide Gurnari, Yue Wu, Ahmad Farhat, Niklas Hellmer, Alexander Zarebski, Lionel Tarassenko,
+<em>Oxford COVID-19 Database: multimodal data repository for understanding the global impact of COVID-19. University of Oxford</em>, 2020.
+
+---
 
 
 
