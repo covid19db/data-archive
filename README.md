@@ -16,6 +16,38 @@ Each file contained in these folder is related to a different source. The list o
 
 A summary of the available data is provided here:
 
+Government response:
+
+| File    | Country | Source | Features  | Terms of use |
+|---------|---------|--------|-----------|--------------|
+| GOVTRACK | World | [OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) | [many, see docs](https://covid19.eng.ox.ac.uk/data_schema.html) | [CC BY 4.0](https://github.com/OxCGRT/covid-policy-tracker/blob/master/LICENSE.txt) | 
+
+
+Mobility:
+
+| File    | Country | Source | Features  | Terms of use |
+|---------|---------|--------|-----------|--------------|
+| APPLE_MOBILITY | World | [Apple](https://www.apple.com/covid19/mobility) | [many, see docs](https://covid19.eng.ox.ac.uk/data_schema.html#mob) | [Terms of use](https://www.apple.com/covid19/mobility) | 
+| GOOGLE_MOBILITY | World | [Google](https://www.google.com/covid19/mobility/) | [many, see docs](https://covid19.eng.ox.ac.uk/data_schema.html#mob) | [Terms of use](https://www.google.com/help/terms_maps/?hl=en) | 
+
+
+Data-statistics:
+
+| File    | Country | Source | Features  | Terms of use |
+|---------|---------|--------|-----------|--------------|
+| covid19db-country-statistics | World | [World Bank] (https://data.worldbank.org/), [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)  and European Values Study (https://europeanvaluesstudy.eu/) | [many, see docs](https://covid19.eng.ox.ac.uk/data_schema.html#mob) | [Citation may be requried](https://covid19.eng.ox.ac.uk/data_sources.html#cou) | 
+| covid19db-baseline-mortality | World | [UK-ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales),
+[BEL-STATBEL](https://statbel.fgov.be/en/open-data/number-deaths-day-municipality),
+[TUR-TUIK](https://biruni.tuik.gov.tr/medas/),
+[AUS-ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3302.02018?OpenDocument),
+[DEU-DESTAT](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/Tabellen/sonderauswertung-sterbefaelle.html?nn=375478),
+[USA-CDC](https://wonder.cdc.gov/),
+[SWE-SCB](https://www.scb.se/BE0101-en),
+[UN](http://data.un.org/Data.aspx?d=POP&f=tableCode%3A65),
+[The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker) | deaths | check sources | 
+
+
+
 Epiedmiology:
 
 | File    | Country | Source | Features  | Terms of use |
@@ -37,7 +69,7 @@ Epiedmiology:
 | GBR_PHW | UK - Wales | [Public Health Wales](https://public.tableau.com/profile/public.health.wales.health.protection#!/vizhome/RapidCOVID-19virology-Public/Headlinesummary) | tested, confirmed, dead | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 | IDN_GTPPC | Indonesia | [COVID19.go](https://covid19.go.id/) | confirmed, recovered, dead | Standard "all rights reserved" notice. No licensing information. |
 | IND_COVIND | India | [COVID19india](https://api.covid19india.org/) | tested, confirmed, recovered, dead | [GPL 3.0](https://github.com/covid19india/api/blob/master/LICENSE) |
-| IRL_HSPC | Ireland |  | confirmed |  |
+| IRL_HSPC | Ireland | [Health Protection Surveillance Centre](https://covid19ireland-geohive.hub.arcgis.com/) | confirmed | NA |
 | ITA_PC | Italy | [Protezione Civile](https://github.com/pcm-dpc/COVID-19) | tested, confirmed, recovered, dead, hospitalised, ICU, quarantined | [CC BY 4.0](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE) |
 | ITA_PCDM | Italy | [Davide Magno (Protezione Civile)](https://github.com/DavideMagno/ItalianCovidData) | tested, confirmed,  dead, recovered, hospitalised, ICU, quarantined | [CC0 1.0 Universal](https://github.com/DavideMagno/ItalianCovidData/blob/master/LICENSE) |
 | JPN_C1JACD | Japan | [code4sabae/covid19s](https://github.com/code4sabae/covid19) | tested, confirmed, recovered, dead, hospitalised, hospitalised_ic | [CC BY](https://github.com/code4sabae/covid19) |
@@ -58,7 +90,7 @@ Epiedmiology:
 | TUR_MHOE | Turkey | [Turkish Ministry of Health](https://covid19.saglik.gov.tr/) | tested, confirmed, dead, recovered, hospitalised_icu | [MIT](https://github.com/ozanerturk/covid19-turkey-api/blob/master/LICENSE) |
 | USA_CTP | United States | [COVID Tracking Project](https://covidtracking.com/api) | confirmed, dead | [CC BY-NC-4.0](https://covidtracking.com/license) |
 | USA_NYT | United States | [The New York Times](https://github.com/nytimes/covid-19-data) | confirmed, dead | [Attribution required, non-commercial use](https://github.com/nytimes/covid-19-data/blob/master/LICENSE) |
-| WRD_ECDC | World | [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) | confirmed, dead, recovered | [https://www.ecdc.europa.eu/en/copyright](ECDC Copyright) |
+| WRD_ECDC | World | [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) | confirmed, dead, recovered | [ECDC Copyright](https://www.ecdc.europa.eu/en/copyright) |
 | WRD_WHO | World | [WHO](https://covid19.who.int/) | confirmed, recovered, dead |  |
 | ZAF_DSFSI | South Africa | [Data Science for Social Impact research group, University of Pretoria](https://github.com/dsfsi/covid19za) | tested, confirmed, recovered , dead, hospitalised, hospitalised_icu, quarantined  | [MIT](https://github.com/dsfsi/covid19za/blob/master/LICENSE) |
 
@@ -69,6 +101,3 @@ __Cite as:__ Adam Mahdi, Piotr Błaszczyk, Paweł Dłotko, Dario Salvi, Tak-Shin
 <em>Oxford COVID-19 Database: multimodal data repository for understanding the global impact of COVID-19. University of Oxford</em>, 2020.
 
 ---
-
-
-
