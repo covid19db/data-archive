@@ -35,7 +35,7 @@ Data-statistics:
 
 | File    | Country | Source | Features  | Terms of use |
 |---------|---------|--------|-----------|--------------|
-| covid19db-country-statistics | World | [World Bank] (https://data.worldbank.org/), [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp)  and European Values Study (https://europeanvaluesstudy.eu/) | [many, see docs](https://covid19.eng.ox.ac.uk/data_schema.html#mob) | [Citation may be requried](https://covid19.eng.ox.ac.uk/data_sources.html#cou) | 
+| covid19db-country-statistics | World | [World Bank](https://data.worldbank.org/), [World Values Survey](http://www.worldvaluessurvey.org/wvs.jsp) and European Values Study(https://europeanvaluesstudy.eu/) | [many, see docs](https://covid19.eng.ox.ac.uk/data_schema.html#mob) | [Citation may be requried](https://covid19.eng.ox.ac.uk/data_sources.html#cou) | 
 | covid19db-baseline-mortality | World | [UK-ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales), [BEL STATBEL](https://statbel.fgov.be/en/open-data/number-deaths-day-municipality), [TUR-TUIK](https://biruni.tuik.gov.tr/medas/), [AUS-ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3302.02018?OpenDocument), [DEU-DESTAT](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/Tabellen/sonderauswertung-sterbefaelle.html?nn=375478), [USA-CDC](https://wonder.cdc.gov/), [SWE-SCB](https://www.scb.se/BE0101-en), [UN](http://data.un.org/Data.aspx?d=POP&f=tableCode%3A65), [The Economist](https://github.com/TheEconomist/covid-19-excess-deaths-tracker) | deaths | check sources | 
 
 
