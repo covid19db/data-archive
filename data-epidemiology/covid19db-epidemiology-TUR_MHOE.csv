@@ -1,4 +1,5 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+TUR_MHOE,04-07-2020,Turkey,TUR,,,,3584066,204610,179492,5206,,1093,,['TUR']
 TUR_MHOE,03-07-2020,Turkey,TUR,,,,3535818,203456,178278,5186,,1082,,['TUR']
 TUR_MHOE,02-07-2020,Turkey,TUR,,,,3483677,202284,176965,5167,,1067,,['TUR']
 TUR_MHOE,01-07-2020,Turkey,TUR,,,,3433963,201098,175422,5150,,1035,,['TUR']
