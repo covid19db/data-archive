@@ -1,0 +1,2 @@
+source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+UAE_GOV,10-07-2020,United Arab Emirates,ARE,,,,,53577,43570,328,,,,['ARE']
