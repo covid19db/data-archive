@@ -1,7 +1,8 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
-NGA_CDC,18-07-2020,Nigeria,NGA,Zamfara,,,,76,71,5,,,,['NGA.37_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Kogi,,,,5,3,2,,,,['NGA.23_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Cross-River,,,,12,3,1,,,,
+NGA_CDC,18-07-2020,Nigeria,NGA,Cross River,,,,0,0,0,,,,['NGA.9_1']
+NGA_CDC,18-07-2020,Nigeria,NGA,Zamfara,,,,76,71,5,,,,['NGA.37_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Yobe,,,,63,51,8,,,,['NGA.36_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Taraba,,,,30,11,0,,,,['NGA.35_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Sokoto,,,,153,137,16,,,,['NGA.34_1']
@@ -28,7 +29,6 @@ NGA_CDC,18-07-2020,Nigeria,NGA,Ekiti,,,,78,47,2,,,,['NGA.13_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Edo,,,,1885,1208,62,,,,['NGA.12_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Ebonyi,,,,646,532,10,,,,['NGA.11_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Delta,,,,1415,585,37,,,,['NGA.10_1']
-NGA_CDC,18-07-2020,Nigeria,NGA,Cross River,,,,0,0,0,,,,['NGA.9_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Borno,,,,597,503,35,,,,['NGA.8_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Benue,,,,185,42,6,,,,['NGA.7_1']
 NGA_CDC,18-07-2020,Nigeria,NGA,Bayelsa,,,,318,175,20,,,,['NGA.6_1']
