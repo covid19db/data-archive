@@ -1,19 +1,20 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,West Dunbartonshire,,,426,,,,,,['GBR.3.31.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Dundee,,,969,,,,,,['GBR.3.7.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Ayrshire,,,444,,,,,,['GBR.3.8.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Dunbartonshire,,,516,,,,,,['GBR.3.9.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,,,314898,18401,,2491,,,,['GBR.3_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,West Dunbartonshire,,,426,,,,,,['GBR.3.31.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Clackmannanshire,,,199,,,,,,['GBR.3.5.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Lothian,,,275,,,,,,['GBR.3.10.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Edinburgh,,,1799,,,,,,['GBR.3.12.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Aberdeen,,,835,,,,,,['GBR.3.1.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Renfrewshire,,,360,,,,,,['GBR.3.11.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Scottish Borders,,,345,,,,,,['GBR.3.26.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Argyll and Bute,,,163,,,,,,['GBR.3.4.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Dunbartonshire,,,516,,,,,,['GBR.3.9.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Renfrewshire,,,360,,,,,,['GBR.3.11.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Dumfries and Galloway,,,299,,,,,,['GBR.3.6.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,East Lothian,,,275,,,,,,['GBR.3.10.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Angus,,,462,,,,,,['GBR.3.3.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Aberdeenshire,,,491,,,,,,['GBR.3.2.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Dumfries and Galloway,,,299,,,,,,['GBR.3.6.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Aberdeen,,,835,,,,,,['GBR.3.1.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Clackmannanshire,,,199,,,,,,['GBR.3.5.1_1']
+GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Edinburgh,,,1799,,,,,,['GBR.3.12.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Falkirk,,,662,,,,,,['GBR.3.14.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Glasgow,,,2523,,,,,,['GBR.3.16.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Inverclyde,,,358,,,,,,['GBR.3.18.1_1']
@@ -23,7 +24,6 @@ GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,North Ayrshire,,,404,,,,,,['GBR.3
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,North Lanarkshire,,,1368,,,,,,['GBR.3.22.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Perthshire and Kinross,,,341,,,,,,['GBR.3.24.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Renfrewshire,,,681,,,,,,['GBR.3.25.1_1']
-GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,South Ayrshire,,,395,,,,,,['GBR.3.28.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,South Lanarkshire,,,1353,,,,,,['GBR.3.29.1_1']
 GBR_PHS,17-07-2020,United Kingdom,GBR,Scotland,Stirling,,,231,,,,,,['GBR.3.30.1_1']
@@ -1825,66 +1825,66 @@ GBR_PHS,22-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,30,,,,,,"['GBR
 GBR_PHS,22-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,16,,,,,,['GBR.3.15_1']
 GBR_PHS,22-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,11,,,,,,['GBR.3.26_1']
 GBR_PHS,22-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,25,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,24,,,,,,['GBR.3.27_1']
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,34,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,,,8259,373,,7,,,,['GBR.3_1']
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,110,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,21,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,10,,,,,,['GBR.3.26_1']
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,13,,,,,,['GBR.3.6_1']
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,13,,,,,,['GBR.3.15_1']
+GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,27,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,20,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,8,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,49,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,44,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,24,,,,,,['GBR.3.27_1']
 GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,21,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,,,8259,373,,7,,,,['GBR.3_1']
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,10,,,,,,['GBR.3.26_1']
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,34,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,13,,,,,,['GBR.3.6_1']
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,110,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,13,,,,,,['GBR.3.15_1']
-GBR_PHS,21-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,27,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,40,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,24,,,,,,['GBR.3.27_1']
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,31,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,,,7550,322,,6,,,,['GBR.3_1']
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,10,,,,,,['GBR.3.6_1']
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,16,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,9,,,,,,['GBR.3.26_1']
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,10,,,,,,['GBR.3.6_1']
-GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,12,,,,,,['GBR.3.15_1']
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,91,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,23,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,19,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,6,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,41,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,40,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,35,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,24,,,,,,['GBR.3.27_1']
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,12,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,8,,,,,,['GBR.3.26_1']
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,6,,,,,,['GBR.3.6_1']
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,27,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,,,6772,266,,6,,,,['GBR.3_1']
-GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,9,,,,,,['GBR.3.15_1']
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,24,,,,,,['GBR.3.27_1']
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,31,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,,,7550,322,,6,,,,['GBR.3_1']
+GBR_PHS,20-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,12,,,,,,['GBR.3.15_1']
 GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,17,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,18,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,71,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,6,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,,,6772,266,,6,,,,['GBR.3_1']
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,12,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,8,,,,,,['GBR.3.26_1']
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,6,,,,,,['GBR.3.6_1']
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,27,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,33,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,24,,,,,,['GBR.3.27_1']
 GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
-GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,18,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,35,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
+GBR_PHS,19-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,9,,,,,,['GBR.3.15_1']
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,9,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,15,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,8,,,,,,['GBR.3.15_1']
-GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,,,6091,227,,3,,,,['GBR.3_1']
-GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,7,,,,,,['GBR.3.26_1']
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
-GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,24,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,16,,,,,,['GBR.3.27_1']
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,33,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,25,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,5,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,57,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
+GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,18,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,15,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
+GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,8,,,,,,['GBR.3.15_1']
+GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
+GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,7,,,,,,['GBR.3.26_1']
+GBR_PHS,18-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,24,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,5,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
 GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,20,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
@@ -1900,66 +1900,66 @@ GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,7,,,,,,['GBR.3.26_1
 GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,6,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,49,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,17-03-2020,United Kingdom,GBR,Scotland,,,5246,195,,2,,,,['GBR.3_1']
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,15,,,,,,['GBR.3.27_1']
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,12,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,29,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,,,4895,171,,1,,,,['GBR.3_1']
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,17,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,7,,,,,,['GBR.3.15_1']
 GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,20,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,10,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,15,,,,,,['GBR.3.27_1']
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,,,4895,171,,1,,,,['GBR.3_1']
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,7,,,,,,['GBR.3.15_1']
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,17,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,44,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
 GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,7,,,,,,['GBR.3.26_1']
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,6,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
-GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,44,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,6,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,12,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,29,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
+GBR_PHS,16-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,10,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
+GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,39,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
+GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,6,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,7,,,,,,['GBR.3.26_1']
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,15,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,13,,,,,,['GBR.3.27_1']
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,28,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,16,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
+GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,,,4240,153,,1,,,,['GBR.3_1']
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,12,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,10,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,39,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,7,,,,,,['GBR.3.15_1']
-GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
-GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,7,,,,,,['GBR.3.26_1']
-GBR_PHS,15-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,6,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,9,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,,,3715,121,,1,,,,['GBR.3_1']
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,11,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,13,,,,,,['GBR.3.27_1']
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,25,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,10,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
+GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,31,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,6,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,6,,,,,,['GBR.3.15_1']
 GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
 GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,5,,,,,,['GBR.3.26_1']
 GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,6,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,11,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,13,,,,,,['GBR.3.27_1']
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,,,3715,121,,1,,,,['GBR.3_1']
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,25,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,10,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
-GBR_PHS,14-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,31,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
+GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,6,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,19,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,,,,,,,['GBR.3.15_1']
+GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,,,3314,85,,,,,,['GBR.3_1']
+GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,,,,,,,['GBR.3.26_1']
+GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,7,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Highland,,,,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,20,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,9,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
-GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,6,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,,,,,,,['GBR.3.13_1']
+GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Fife,,,,,,,,,['GBR.3.15_1']
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,8,,,,,,['GBR.3.27_1']
 GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,,,,,,,['GBR.3.23_1']
-GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,,,3314,85,,,,,,['GBR.3_1']
-GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Borders,,,,,,,,,['GBR.3.26_1']
-GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHS,13-03-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,,,,,,,['GBR.3.6_1']
 GBR_PHS,12-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHS,12-03-2020,United Kingdom,GBR,Scotland,,,2892,60,,,,,,['GBR.3_1']
 GBR_PHS,12-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,10,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
