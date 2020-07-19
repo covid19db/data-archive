@@ -1,4 +1,5 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,4905,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,,,,,294066,,45273,,,,['GBR']
 GBR_PHTW,18-07-2020,United Kingdom,GBR,England,,,,,,40680,,,,['GBR.1_1']
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,7,,,,,,['GBR.3.13_1']
@@ -8,7 +9,6 @@ GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,9,,,,,,['GBR.3.23_1
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,3174,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,2744,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Highland,,,377,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
-GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,4905,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,1092,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Fife,,,937,,,,,,['GBR.3.15_1']
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,300,,,,,,['GBR.3.6_1']
@@ -16,6 +16,11 @@ GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Borders,,,346,,,,,,['GBR.3.2
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1263,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1435,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHTW,18-07-2020,United Kingdom,GBR,Scotland,,,318361,18422,,2491,,,,['GBR.3_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hertfordshire,,,4194,,,,,,['GBR.1.41_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,763,,,,,,['GBR.1.36.12_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Halton,,,695,,,,,,['GBR.1.37_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Gateshead,,,1284,,,,,,['GBR.1.34_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Dudley,,,1311,,,,,,['GBR.1.29_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Doncaster,,,2016,,,,,,['GBR.1.27_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Derby,,,1302,,,,,,['GBR.1.24_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Cumbria,,,2738,,,,,,['GBR.1.22_1']
@@ -25,7 +30,6 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Cambridgeshire,,,2244,,,,,,['GBR.
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Brighton and Hove,,,785,,,,,,['GBR.1.11_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Bradford,,,4547,,,,,,['GBR.1.10_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Blackpool,,,1033,,,,,,['GBR.1.6_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,1169,,,,,,['GBR.1.5_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Bexley,,,1070,,,,,,['GBR.1.36.3_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wokingham,,,600,,,,,,['GBR.1.115_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Westminster,,,793,,,,,,['GBR.1.36.33_1']
@@ -50,7 +54,6 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,566,,,,,
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hillingdon,,,1121,,,,,,['GBR.1.36.16_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,"Herefordshire, County of",,,863,,,,,,['GBR.1.40_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Havering,,,959,,,,,,['GBR.1.36.15_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hartlepool,,,596,,,,,,['GBR.1.39_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Haringey,,,768,,,,,,['GBR.1.36.13_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Greenwich,,,963,,,,,,['GBR.1.36.10_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,East Sussex,,,1557,,,,,,['GBR.1.32_1']
@@ -98,14 +101,7 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Brent,,,1754,,,,,,['GBR.1.36.4_1'
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Bolton,,,1890,,,,,,['GBR.1.7_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Birmingham,,,4967,,,,,,['GBR.1.4_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Barnet,,,1624,,,,,,['GBR.1.36.2_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Barking and Dagenham,,,721,,,,,,['GBR.1.36.1_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Richmond upon Thames,,,537,,,,,,['GBR.1.36.27_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Rochdale,,,1716,,,,,,['GBR.1.76_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,South Tyneside,,,949,,,,,,['GBR.1.89_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Southampton,,,938,,,,,,['GBR.1.90_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Surrey,,,4640,,,,,,['GBR.1.98_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Torbay,,,274,,,,,,['GBR.1.103_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wandsworth,,,1174,,,,,,['GBR.1.36.32_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,West Berkshire,,,478,,,,,,['GBR.1.109_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wigan,,,2147,,,,,,['GBR.1.111_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wolverhampton,,,1392,,,,,,['GBR.1.116_1']
@@ -114,7 +110,6 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Bath and North East Somerset,,,34
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Bromley,,,1527,,,,,,['GBR.1.36.5_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Calderdale,,,738,,,,,,['GBR.1.15_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Derbyshire,,,3365,,,,,,['GBR.1.25_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Dorset,,,607,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Enfield,,,1198,,,,,,['GBR.1.36.9_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Essex,,,5509,,,,,,['GBR.1.33_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Gloucestershire,,,1844,,,,,,['GBR.1.35_1']
@@ -124,6 +119,7 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Islington,,,559,,,,,,['GBR.1.36.1
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Lambeth,,,1373,,,,,,['GBR.1.36.21_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Lincolnshire,,,2476,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Manchester,,,3019,,,,,,['GBR.1.54_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Barking and Dagenham,,,721,,,,,,['GBR.1.36.1_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1538,,,,,,['GBR.1.58_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Northumberland,,,1579,,,,,,['GBR.1.65_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Nottinghamshire,,,3002,,,,,,['GBR.1.67_1']
@@ -147,6 +143,10 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,York,,,912,,,,,,['GBR.1.118_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Bury,,,1296,,,,,,['GBR.1.14_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,South Gloucestershire,,,747,,,,,,['GBR.1.88_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1472,,,,,,['GBR.1.95_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wakefield,,,1759,,,,,,['GBR.1.105_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hartlepool,,,596,,,,,,['GBR.1.39_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,1169,,,,,,['GBR.1.5_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wandsworth,,,1174,,,,,,['GBR.1.36.32_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Scotland,,,314898,18401,,2491,,,,['GBR.3_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1262,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Scotland,NHS Borders,,,345,,,,,,['GBR.3.26_1']
@@ -164,18 +164,23 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1778,,,,,,"['GBR.3
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,7,,,,,,['GBR.3.13_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,,,,252913,,40640,,,,['GBR.1_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,,,,,293239,,45233,,,,['GBR']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Redbridge,,,1132,,,,,,['GBR.1.36.26_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Wakefield,,,1759,,,,,,['GBR.1.105_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Surrey,,,4640,,,,,,['GBR.1.98_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Dorset,,,607,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,,,203775,16897,,1546,,,,['GBR.4_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2710,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,4387,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,North Somerset,,,901,,,,,,['GBR.1.61_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,North Lincolnshire,,,725,,,,,,['GBR.1.60_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Southampton,,,938,,,,,,['GBR.1.90_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,South Tyneside,,,949,,,,,,['GBR.1.89_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1973,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1161,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,329,,,,,,['GBR.4.17_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2994,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,17-07-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,3068,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Rochdale,,,1716,,,,,,['GBR.1.76_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Richmond upon Thames,,,537,,,,,,['GBR.1.36.27_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Redbridge,,,1132,,,,,,['GBR.1.36.26_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,North Somerset,,,901,,,,,,['GBR.1.61_1']
+GBR_PHTW,17-07-2020,United Kingdom,GBR,England,North Lincolnshire,,,725,,,,,,['GBR.1.60_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,North East Lincolnshire,,,208,,,,,,['GBR.1.52.4_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Medway,,,1066,,,,,,['GBR.1.55_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Luton,,,1484,,,,,,['GBR.1.53_1']
@@ -185,11 +190,6 @@ GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Kingston upon Thames,,,744,,,,,,[
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Kent,,,7878,,,,,,['GBR.1.44_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Isle of Wight,,,422,,,,,,['GBR.1.42_1']
 GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hounslow,,,1080,,,,,,['GBR.1.36.17_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hertfordshire,,,4194,,,,,,['GBR.1.41_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,763,,,,,,['GBR.1.36.12_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Halton,,,695,,,,,,['GBR.1.37_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Gateshead,,,1284,,,,,,['GBR.1.34_1']
-GBR_PHTW,17-07-2020,United Kingdom,GBR,England,Dudley,,,1311,,,,,,['GBR.1.29_1']
 GBR_PHTW,16-07-2020,United Kingdom,GBR,England,Lewisham,,,1210,,,,,,['GBR.1.36.22_1']
 GBR_PHTW,16-07-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1260,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,16-07-2020,United Kingdom,GBR,Scotland,NHS Borders,,,345,,,,,,['GBR.3.26_1']
@@ -364,21 +364,22 @@ GBR_PHTW,16-07-2020,United Kingdom,GBR,England,,,,252885,,40528,,,,['GBR.1_1']
 GBR_PHTW,16-07-2020,United Kingdom,GBR,,,,,292552,,45119,,,,['GBR']
 GBR_PHTW,16-07-2020,United Kingdom,GBR,Scotland,,,310644,18384,,2491,,,,['GBR.3_1']
 GBR_PHTW,16-07-2020,United Kingdom,GBR,England,Lincolnshire,,,2476,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1537,,,,,,['GBR.1.58_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Manchester,,,3010,,,,,,['GBR.1.54_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Lambeth,,,1372,,,,,,['GBR.1.36.21_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Oxfordshire,,,3142,,,,,,['GBR.1.69_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Nottinghamshire,,,2999,,,,,,['GBR.1.67_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Northumberland,,,1578,,,,,,['GBR.1.65_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1973,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,329,,,,,,['GBR.4.17_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,South Tyneside,,,947,,,,,,['GBR.1.89_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Islington,,,559,,,,,,['GBR.1.36.18_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1537,,,,,,['GBR.1.58_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Manchester,,,3010,,,,,,['GBR.1.54_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,9,,,,,,['GBR.3.23_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Ealing,,,1573,,,,,,['GBR.1.36.8_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Darlington,,,605,,,,,,['GBR.1.23_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Harrow,,,1297,,,,,,['GBR.1.36.14_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Ealing,,,1573,,,,,,['GBR.1.36.8_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,"Kingston upon Hull, City of",,,1548,,,,,,['GBR.1.45_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1998,,,,,,['GBR.1.19_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Lancashire,,,6817,,,,,,['GBR.1.48_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Darlington,,,605,,,,,,['GBR.1.23_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1161,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2994,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1998,,,,,,['GBR.1.19_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1248,,,,,,['GBR.1.17_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Camden,,,709,,,,,,['GBR.1.36.6_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Brent,,,1754,,,,,,['GBR.1.36.4_1']
@@ -390,22 +391,21 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,3166,,,,,,"['GBR.3
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,2739,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Highland,,,377,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,4890,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1432,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Lambeth,,,1372,,,,,,['GBR.1.36.21_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Islington,,,559,,,,,,['GBR.1.36.18_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Hampshire,,,5041,,,,,,['GBR.1.38_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Hackney and City of London,,,857,,,,,,"['GBR.1.36.11_1', 'GBR.1.36.23_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Gloucestershire,,,1844,,,,,,['GBR.1.35_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Essex,,,5508,,,,,,['GBR.1.33_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Enfield,,,1196,,,,,,['GBR.1.36.9_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Dorset,,,606,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Derbyshire,,,3364,,,,,,['GBR.1.25_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,566,,,,,,['GBR.1.36.19_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Shropshire,,,1409,,,,,,['GBR.1.84_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Slough,,,652,,,,,,['GBR.1.85_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Somerset,,,1288,,,,,,['GBR.1.87_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Stockport,,,1649,,,,,,['GBR.1.93_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Calderdale,,,736,,,,,,['GBR.1.15_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,1087,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Bromley,,,1526,,,,,,['GBR.1.36.5_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,969,,,,,,['GBR.1.94_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Dorset,,,606,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
+GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1432,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Derbyshire,,,3364,,,,,,['GBR.1.25_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2710,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Lincolnshire,,,2473,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
@@ -413,7 +413,6 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Wolverhampton,,,1392,,,,,,['GBR.1
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Torbay,,,276,,,,,,['GBR.1.103_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,1142,,,,,,['GBR.1.5_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Haringey,,,766,,,,,,['GBR.1.36.13_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,969,,,,,,['GBR.1.94_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Sunderland,,,1773,,,,,,['GBR.1.97_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Warrington,,,1328,,,,,,['GBR.1.107_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,West Sussex,,,2734,,,,,,['GBR.1.110_1']
@@ -433,9 +432,9 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,England,East Riding of Yorkshire,,,1645,,
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,East Sussex,,,1554,,,,,,['GBR.1.32_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Greenwich,,,962,,,,,,['GBR.1.36.10_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Hartlepool,,,596,,,,,,['GBR.1.39_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Havering,,,956,,,,,,['GBR.1.36.15_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,3068,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,7,,,,,,['GBR.3.13_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Havering,,,956,,,,,,['GBR.1.36.15_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,"Herefordshire, County of",,,862,,,,,,['GBR.1.40_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Hillingdon,,,1117,,,,,,['GBR.1.36.16_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Kirklees,,,2221,,,,,,['GBR.1.46_1']
@@ -486,19 +485,23 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,England,North Somerset,,,901,,,,,,['GBR.1
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Redbridge,,,1131,,,,,,['GBR.1.36.26_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Richmond upon Thames,,,535,,,,,,['GBR.1.36.27_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Rochdale,,,1700,,,,,,['GBR.1.76_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,South Tyneside,,,947,,,,,,['GBR.1.89_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Calderdale,,,736,,,,,,['GBR.1.15_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Bromley,,,1526,,,,,,['GBR.1.36.5_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Bath and North East Somerset,,,338,,,,,,['GBR.1.2_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Barnsley,,,1931,,,,,,['GBR.1.1_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Wigan,,,2145,,,,,,['GBR.1.111_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,West Berkshire,,,477,,,,,,['GBR.1.109_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Wandsworth,,,1173,,,,,,['GBR.1.36.32_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Surrey,,,4637,,,,,,['GBR.1.98_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Southampton,,,938,,,,,,['GBR.1.90_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,,,203406,16890,,1545,,,,['GBR.4_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,,,,,291911,,45053,,,,['GBR']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,,,308046,18373,,2490,,,,['GBR.3_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,,,,252525,,40462,,,,['GBR.1_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,1087,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Fife,,,933,,,,,,['GBR.3.15_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,299,,,,,,['GBR.3.6_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Surrey,,,4637,,,,,,['GBR.1.98_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Southampton,,,938,,,,,,['GBR.1.90_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Borders,,,345,,,,,,['GBR.3.26_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1260,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Wakefield,,,1756,,,,,,['GBR.1.105_1']
@@ -506,10 +509,10 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1471,,,,,,['GBR.
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,South Gloucestershire,,,747,,,,,,['GBR.1.88_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Bury,,,1291,,,,,,['GBR.1.14_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,York,,,912,,,,,,['GBR.1.118_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1775,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Worcestershire,,,2377,,,,,,['GBR.1.117_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Warwickshire,,,2515,,,,,,['GBR.1.108_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Walsall,,,1498,,,,,,['GBR.1.106_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1775,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Trafford,,,1274,,,,,,['GBR.1.104_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Telford and Wrekin,,,615,,,,,,['GBR.1.101_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Tameside,,,1542,,,,,,['GBR.1.100_1']
@@ -521,11 +524,7 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Sheffield,,,4081,,,,,,['GBR.1.83_
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Sandwell,,,1687,,,,,,['GBR.1.81_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Rotherham,,,1959,,,,,,['GBR.1.77_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Portsmouth,,,503,,,,,,['GBR.1.73_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Peterborough,,,1364,,,,,,['GBR.1.70_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Oxfordshire,,,3142,,,,,,['GBR.1.69_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Nottinghamshire,,,2999,,,,,,['GBR.1.67_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,4380,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Lancashire,,,6817,,,,,,['GBR.1.48_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Leeds,,,3707,,,,,,['GBR.1.49_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Lewisham,,,1208,,,,,,['GBR.1.36.22_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Liverpool,,,2477,,,,,,['GBR.1.82.1_1']
@@ -537,14 +536,16 @@ GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Plymouth,,,662,,,,,,['GBR.1.71_1'
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Reading,,,779,,,,,,['GBR.1.74_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Salford,,,1356,,,,,,['GBR.1.80_1']
 GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Sefton,,,1535,,,,,,['GBR.1.82.2_1']
-GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Northumberland,,,1578,,,,,,['GBR.1.65_1']
-GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Blackpool,,,1032,,,,,,['GBR.1.6_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Shropshire,,,1409,,,,,,['GBR.1.84_1']
+GBR_PHTW,15-07-2020,United Kingdom,GBR,England,Peterborough,,,1364,,,,,,['GBR.1.70_1']
+GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Wandsworth,,,1171,,,,,,['GBR.1.36.32_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Birmingham,,,4926,,,,,,['GBR.1.4_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Lancashire,,,6802,,,,,,['GBR.1.48_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Warrington,,,1326,,,,,,['GBR.1.107_1']
+GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Surrey,,,4634,,,,,,['GBR.1.98_1']
+GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Blackpool,,,1032,,,,,,['GBR.1.6_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Thurrock,,,559,,,,,,['GBR.1.102_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Solihull,,,902,,,,,,['GBR.1.86_1']
-GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Norfolk,,,2865,,,,,,['GBR.1.59_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Croydon,,,1862,,,,,,['GBR.1.36.7_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Buckinghamshire,,,1705,,,,,,['GBR.1.13_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Somerset,,,1290,,,,,,['GBR.1.87_1']
@@ -638,10 +639,9 @@ GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1996,
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1245,,,,,,['GBR.1.17_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Brent,,,1752,,,,,,['GBR.1.36.4_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Bolton,,,1883,,,,,,['GBR.1.7_1']
+GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Norfolk,,,2865,,,,,,['GBR.1.59_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1535,,,,,,['GBR.1.58_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Islington,,,558,,,,,,['GBR.1.36.18_1']
-GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Wandsworth,,,1171,,,,,,['GBR.1.36.32_1']
-GBR_PHTW,14-07-2020,United Kingdom,GBR,England,Surrey,,,4634,,,,,,['GBR.1.98_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,England,,,,251956,,40379,,,,['GBR.1_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,Scotland,,,304973,18368,,2490,,,,['GBR.3_1']
 GBR_PHTW,14-07-2020,United Kingdom,GBR,,,,,291373,,44968,,,,['GBR']
@@ -732,9 +732,9 @@ GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Devon,,,1211,,,,,,['GBR.1.26_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Cheshire East,,,2211,,,,,,['GBR.1.18_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Buckinghamshire,,,1704,,,,,,['GBR.1.13_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,"Bristol, City of",,,1296,,,,,,['GBR.1.12_1']
-GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,763,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,817,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Bedford,,,1284,,,,,,['GBR.1.3.1_1']
+GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,763,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Windsor and Maidenhead,,,407,,,,,,['GBR.1.113_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,Warrington,,,1325,,,,,,['GBR.1.107_1']
 GBR_PHTW,13-07-2020,United Kingdom,GBR,England,County Durham,,,3329,,,,,,['GBR.1.30_1']
@@ -4172,9 +4172,9 @@ GBR_PHTW,21-06-2020,United Kingdom,GBR,England,Plymouth,,,644,,,,,,['GBR.1.71_1'
 GBR_PHTW,21-06-2020,United Kingdom,GBR,England,Nottingham,,,1128,,,,,,['GBR.1.66_1']
 GBR_PHTW,21-06-2020,United Kingdom,GBR,England,Milton Keynes,,,838,,,,,,['GBR.1.57_1']
 GBR_PHTW,21-06-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1412,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
-GBR_PHTW,20-06-2020,United Kingdom,GBR,England,Hertfordshire,,,4023,,,,,,['GBR.1.41_1']
 GBR_PHTW,20-06-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2819,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHTW,20-06-2020,United Kingdom,GBR,England,Wandsworth,,,1129,,,,,,['GBR.1.36.32_1']
+GBR_PHTW,20-06-2020,United Kingdom,GBR,England,Hertfordshire,,,4023,,,,,,['GBR.1.41_1']
 GBR_PHTW,20-06-2020,United Kingdom,GBR,England,Sunderland,,,1755,,,,,,['GBR.1.97_1']
 GBR_PHTW,20-06-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,931,,,,,,['GBR.1.94_1']
 GBR_PHTW,20-06-2020,United Kingdom,GBR,England,Stockport,,,1577,,,,,,['GBR.1.93_1']
@@ -4812,135 +4812,169 @@ GBR_PHTW,16-06-2020,United Kingdom,GBR,Northern Ireland,Mid and East Antrim,,,33
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Northern Ireland,Lisburn and Castlereagh,,,453,,,,,,['GBR.2.7_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Northern Ireland,Fermanagh and Omagh,,,86,,,,,,['GBR.2.6_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Northern Ireland,Derry City and Strabane,,,177,,,,,,['GBR.2.5_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bracknell Forest,,,368,,,,,,['GBR.1.9_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,"Bristol, City of",,,1258,,,,,,['GBR.1.12_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Buckinghamshire,,,1601,,,,,,['GBR.1.13_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cheshire East,,,2090,,,,,,['GBR.1.18_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,871,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,East Riding of Yorkshire,,,1583,,,,,,['GBR.1.31_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,East Sussex,,,1407,,,,,,['GBR.1.32_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Greenwich,,,930,,,,,,['GBR.1.36.10_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hartlepool,,,581,,,,,,['GBR.1.39_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Havering,,,912,,,,,,['GBR.1.36.15_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hillingdon,,,1048,,,,,,['GBR.1.36.16_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,542,,,,,,['GBR.1.36.19_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Kirklees,,,1689,,,,,,['GBR.1.46_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Leicester,,,2676,,,,,,['GBR.1.50_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Merton,,,914,,,,,,['GBR.1.36.24_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Newham,,,1235,,,,,,['GBR.1.36.25_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Norfolk,,,2798,,,,,,['GBR.1.59_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North Tyneside,,,898,,,,,,['GBR.1.62_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Northamptonshire,,,2924,,,,,,['GBR.1.64_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Oldham,,,1658,,,,,,['GBR.1.68_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Redcar and Cleveland,,,691,,,,,,['GBR.1.75_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Solihull,,,854,,,,,,['GBR.1.86_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Southwark,,,1413,,,,,,['GBR.1.36.28_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,St. Helens,,,1168,,,,,,['GBR.1.79_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Thurrock,,,519,,,,,,['GBR.1.102_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Waltham Forest,,,981,,,,,,['GBR.1.36.31_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Westminster,,,760,,,,,,['GBR.1.36.33_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wokingham,,,579,,,,,,['GBR.1.115_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bexley,,,1024,,,,,,['GBR.1.36.3_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bradford,,,3503,,,,,,['GBR.1.10_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Brighton and Hove,,,742,,,,,,['GBR.1.11_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cambridgeshire,,,2132,,,,,,['GBR.1.16_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,County Durham,,,3252,,,,,,['GBR.1.30_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Coventry,,,1292,,,,,,['GBR.1.21_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cumbria,,,2604,,,,,,['GBR.1.22_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Derby,,,1173,,,,,,['GBR.1.24_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Dudley,,,1276,,,,,,['GBR.1.29_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Halton,,,670,,,,,,['GBR.1.37_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hertfordshire,,,3983,,,,,,['GBR.1.41_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hounslow,,,1011,,,,,,['GBR.1.36.17_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Kent,,,7201,,,,,,['GBR.1.44_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Knowsley,,,940,,,,,,['GBR.1.47_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Leicestershire,,,2668,,,,,,['GBR.1.51_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Luton,,,1287,,,,,,['GBR.1.53_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North East Lincolnshire,,,199,,,,,,['GBR.1.52.4_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North Lincolnshire,,,704,,,,,,['GBR.1.60_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Redbridge,,,1076,,,,,,['GBR.1.36.26_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Richmond upon Thames,,,522,,,,,,['GBR.1.36.27_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Rochdale,,,1342,,,,,,['GBR.1.76_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Southampton,,,906,,,,,,['GBR.1.90_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Surrey,,,4465,,,,,,['GBR.1.98_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wigan,,,2086,,,,,,['GBR.1.111_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Camden,,,692,,,,,,['GBR.1.36.6_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Brent,,,1701,,,,,,['GBR.1.36.4_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bolton,,,1666,,,,,,['GBR.1.7_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Birmingham,,,4599,,,,,,['GBR.1.4_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Barnet,,,1571,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2657,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1852,,,,,,['GBR.1.19_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Harrow,,,1259,,,,,,['GBR.1.36.14_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1149,,,,,,['GBR.1.17_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wolverhampton,,,1326,,,,,,['GBR.1.116_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Barnsley,,,1648,,,,,,['GBR.1.1_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bromley,,,1501,,,,,,['GBR.1.36.5_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Calderdale,,,587,,,,,,['GBR.1.15_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Derbyshire,,,3179,,,,,,['GBR.1.25_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Enfield,,,1154,,,,,,['GBR.1.36.9_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Essex,,,5223,,,,,,['GBR.1.33_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1799,,,,,,['GBR.1.35_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hampshire,,,4966,,,,,,['GBR.1.38_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Islington,,,535,,,,,,['GBR.1.36.18_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lambeth,,,1344,,,,,,['GBR.1.36.21_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Manchester,,,2639,,,,,,['GBR.1.54_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1497,,,,,,['GBR.1.58_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Northumberland,,,1545,,,,,,['GBR.1.65_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2796,,,,,,['GBR.1.67_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Oxfordshire,,,3016,,,,,,['GBR.1.69_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Peterborough,,,1164,,,,,,['GBR.1.70_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Rotherham,,,1672,,,,,,['GBR.1.77_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Sandwell,,,1581,,,,,,['GBR.1.81_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Sheffield,,,3645,,,,,,['GBR.1.83_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Southend-on-Sea,,,606,,,,,,['GBR.1.91_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,4808,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lincolnshire,,,2350,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Dorset,,,591,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Doncaster,,,1827,,,,,,['GBR.1.27_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Haringey,,,729,,,,,,['GBR.1.36.13_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lancashire,,,6346,,,,,,['GBR.1.48_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Staffordshire,,,3478,,,,,,['GBR.1.92_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Leeds,,,3342,,,,,,['GBR.1.49_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lewisham,,,1176,,,,,,['GBR.1.36.22_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Liverpool,,,2337,,,,,,['GBR.1.82.1_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Swindon,,,703,,,,,,['GBR.1.99_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Tameside,,,1399,,,,,,['GBR.1.100_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Telford and Wrekin,,,574,,,,,,['GBR.1.101_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Trafford,,,1209,,,,,,['GBR.1.104_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Walsall,,,1429,,,,,,['GBR.1.106_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Warwickshire,,,2368,,,,,,['GBR.1.108_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,2674,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Highland,,,373,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1405,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,1051,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,274,,,,,,['GBR.3.6_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Fife,,,926,,,,,,['GBR.3.15_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,274,,,,,,['GBR.3.6_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,Scotland,NHS Borders,,,345,,,,,,['GBR.3.26_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wakefield,,,1520,,,,,,['GBR.1.105_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1343,,,,,,['GBR.1.95_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bury,,,1233,,,,,,['GBR.1.14_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,York,,,885,,,,,,['GBR.1.118_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Worcestershire,,,2286,,,,,,['GBR.1.117_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Middlesbrough,,,938,,,,,,['GBR.1.56_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Milton Keynes,,,816,,,,,,['GBR.1.57_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North Yorkshire,,,2410,,,,,,['GBR.1.63_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Nottingham,,,1108,,,,,,['GBR.1.66_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Reading,,,754,,,,,,['GBR.1.74_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Salford,,,1254,,,,,,['GBR.1.80_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Sefton,,,1463,,,,,,['GBR.1.82.2_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Shropshire,,,1328,,,,,,['GBR.1.84_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Slough,,,598,,,,,,['GBR.1.85_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Somerset,,,1243,,,,,,['GBR.1.87_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Stockport,,,1555,,,,,,['GBR.1.93_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,912,,,,,,['GBR.1.94_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Warrington,,,1284,,,,,,['GBR.1.107_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,West Sussex,,,2630,,,,,,['GBR.1.110_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wirral,,,1954,,,,,,['GBR.1.114_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bedford,,,1148,,,,,,['GBR.1.3.1_1']
-GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,891,,,,,,['GBR.1.5_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Warwickshire,,,2368,,,,,,['GBR.1.108_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Walsall,,,1429,,,,,,['GBR.1.106_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Trafford,,,1209,,,,,,['GBR.1.104_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Telford and Wrekin,,,574,,,,,,['GBR.1.101_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Tameside,,,1399,,,,,,['GBR.1.100_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Swindon,,,703,,,,,,['GBR.1.99_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Staffordshire,,,3478,,,,,,['GBR.1.92_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Southend-on-Sea,,,606,,,,,,['GBR.1.91_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Sheffield,,,3645,,,,,,['GBR.1.83_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Sandwell,,,1581,,,,,,['GBR.1.81_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Rotherham,,,1672,,,,,,['GBR.1.77_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Peterborough,,,1164,,,,,,['GBR.1.70_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Oxfordshire,,,3016,,,,,,['GBR.1.69_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2796,,,,,,['GBR.1.67_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Northumberland,,,1545,,,,,,['GBR.1.65_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1497,,,,,,['GBR.1.58_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Manchester,,,2639,,,,,,['GBR.1.54_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lambeth,,,1344,,,,,,['GBR.1.36.21_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Islington,,,535,,,,,,['GBR.1.36.18_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hampshire,,,4966,,,,,,['GBR.1.38_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1799,,,,,,['GBR.1.35_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Essex,,,5223,,,,,,['GBR.1.33_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Enfield,,,1154,,,,,,['GBR.1.36.9_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Derbyshire,,,3179,,,,,,['GBR.1.25_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Calderdale,,,587,,,,,,['GBR.1.15_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bromley,,,1501,,,,,,['GBR.1.36.5_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Barnsley,,,1648,,,,,,['GBR.1.1_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wolverhampton,,,1326,,,,,,['GBR.1.116_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wigan,,,2086,,,,,,['GBR.1.111_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Surrey,,,4465,,,,,,['GBR.1.98_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Southampton,,,906,,,,,,['GBR.1.90_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Rochdale,,,1342,,,,,,['GBR.1.76_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Richmond upon Thames,,,522,,,,,,['GBR.1.36.27_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Redbridge,,,1076,,,,,,['GBR.1.36.26_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North Lincolnshire,,,704,,,,,,['GBR.1.60_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North East Lincolnshire,,,199,,,,,,['GBR.1.52.4_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Luton,,,1287,,,,,,['GBR.1.53_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Leicestershire,,,2668,,,,,,['GBR.1.51_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Knowsley,,,940,,,,,,['GBR.1.47_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Kent,,,7201,,,,,,['GBR.1.44_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hounslow,,,1011,,,,,,['GBR.1.36.17_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hertfordshire,,,3983,,,,,,['GBR.1.41_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Halton,,,670,,,,,,['GBR.1.37_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Dudley,,,1276,,,,,,['GBR.1.29_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Derby,,,1173,,,,,,['GBR.1.24_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cumbria,,,2604,,,,,,['GBR.1.22_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Coventry,,,1292,,,,,,['GBR.1.21_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,County Durham,,,3252,,,,,,['GBR.1.30_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cambridgeshire,,,2132,,,,,,['GBR.1.16_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Brighton and Hove,,,742,,,,,,['GBR.1.11_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bradford,,,3503,,,,,,['GBR.1.10_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bexley,,,1024,,,,,,['GBR.1.36.3_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wokingham,,,579,,,,,,['GBR.1.115_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Westminster,,,760,,,,,,['GBR.1.36.33_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Waltham Forest,,,981,,,,,,['GBR.1.36.31_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Thurrock,,,519,,,,,,['GBR.1.102_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,St. Helens,,,1168,,,,,,['GBR.1.79_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Southwark,,,1413,,,,,,['GBR.1.36.28_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Solihull,,,854,,,,,,['GBR.1.86_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Redcar and Cleveland,,,691,,,,,,['GBR.1.75_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Oldham,,,1658,,,,,,['GBR.1.68_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Northamptonshire,,,2924,,,,,,['GBR.1.64_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North Tyneside,,,898,,,,,,['GBR.1.62_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Norfolk,,,2798,,,,,,['GBR.1.59_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Newham,,,1235,,,,,,['GBR.1.36.25_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Merton,,,914,,,,,,['GBR.1.36.24_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Leicester,,,2676,,,,,,['GBR.1.50_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Kirklees,,,1689,,,,,,['GBR.1.46_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,542,,,,,,['GBR.1.36.19_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hillingdon,,,1048,,,,,,['GBR.1.36.16_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Havering,,,912,,,,,,['GBR.1.36.15_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Hartlepool,,,581,,,,,,['GBR.1.39_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Greenwich,,,930,,,,,,['GBR.1.36.10_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,East Sussex,,,1407,,,,,,['GBR.1.32_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,East Riding of Yorkshire,,,1583,,,,,,['GBR.1.31_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,871,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cheshire East,,,2090,,,,,,['GBR.1.18_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Buckinghamshire,,,1601,,,,,,['GBR.1.13_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,"Bristol, City of",,,1258,,,,,,['GBR.1.12_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bracknell Forest,,,368,,,,,,['GBR.1.9_1']
 GBR_PHTW,16-06-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,800,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Islington,,,534,,,,,,['GBR.1.36.18_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,891,,,,,,['GBR.1.5_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bedford,,,1148,,,,,,['GBR.1.3.1_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Wirral,,,1954,,,,,,['GBR.1.114_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,West Sussex,,,2630,,,,,,['GBR.1.110_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Warrington,,,1284,,,,,,['GBR.1.107_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,912,,,,,,['GBR.1.94_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Stockport,,,1555,,,,,,['GBR.1.93_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Somerset,,,1243,,,,,,['GBR.1.87_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Slough,,,598,,,,,,['GBR.1.85_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Shropshire,,,1328,,,,,,['GBR.1.84_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Sefton,,,1463,,,,,,['GBR.1.82.2_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Salford,,,1254,,,,,,['GBR.1.80_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Reading,,,754,,,,,,['GBR.1.74_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Nottingham,,,1108,,,,,,['GBR.1.66_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,North Yorkshire,,,2410,,,,,,['GBR.1.63_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Milton Keynes,,,816,,,,,,['GBR.1.57_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Middlesbrough,,,938,,,,,,['GBR.1.56_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Liverpool,,,2337,,,,,,['GBR.1.82.1_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lewisham,,,1176,,,,,,['GBR.1.36.22_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Leeds,,,3342,,,,,,['GBR.1.49_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Lancashire,,,6346,,,,,,['GBR.1.48_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Harrow,,,1259,,,,,,['GBR.1.36.14_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1852,,,,,,['GBR.1.19_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1149,,,,,,['GBR.1.17_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Camden,,,692,,,,,,['GBR.1.36.6_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Barnet,,,1571,,,,,,['GBR.1.36.2_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Birmingham,,,4599,,,,,,['GBR.1.4_1']
+GBR_PHTW,16-06-2020,United Kingdom,GBR,England,Bolton,,,1666,,,,,,['GBR.1.7_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Peterborough,,,1152,,,,,,['GBR.1.70_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Rotherham,,,1663,,,,,,['GBR.1.77_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Sandwell,,,1574,,,,,,['GBR.1.81_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Sheffield,,,3620,,,,,,['GBR.1.83_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Southend-on-Sea,,,598,,,,,,['GBR.1.91_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Swindon,,,699,,,,,,['GBR.1.99_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Tameside,,,1382,,,,,,['GBR.1.100_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Telford and Wrekin,,,572,,,,,,['GBR.1.101_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Trafford,,,1204,,,,,,['GBR.1.104_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Walsall,,,1426,,,,,,['GBR.1.106_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Warwickshire,,,2361,,,,,,['GBR.1.108_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Worcestershire,,,2276,,,,,,['GBR.1.117_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,York,,,879,,,,,,['GBR.1.118_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Bury,,,1226,,,,,,['GBR.1.14_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1332,,,,,,['GBR.1.95_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Wakefield,,,1510,,,,,,['GBR.1.105_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1243,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Borders,,,345,,,,,,['GBR.3.26_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,274,,,,,,['GBR.3.6_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Fife,,,926,,,,,,['GBR.3.15_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,1048,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1405,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Highland,,,373,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,2671,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,9,,,,,,['GBR.3.23_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1760,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,7,,,,,,['GBR.3.13_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2654,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3619,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2953,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2779,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1103,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,314,,,,,,['GBR.4.17_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1933,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Lincolnshire,,,2345,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Barnet,,,1569,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,4805,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
@@ -5005,47 +5039,13 @@ GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Enfield,,,1151,,,,,,['GBR.1.36.9_
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Essex,,,5206,,,,,,['GBR.1.33_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1798,,,,,,['GBR.1.35_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Hampshire,,,4963,,,,,,['GBR.1.38_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Islington,,,534,,,,,,['GBR.1.36.18_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Manchester,,,2620,,,,,,['GBR.1.54_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1491,,,,,,['GBR.1.58_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Northumberland,,,1544,,,,,,['GBR.1.65_1']
+GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,3110,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2780,,,,,,['GBR.1.67_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Oxfordshire,,,3011,,,,,,['GBR.1.69_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Peterborough,,,1152,,,,,,['GBR.1.70_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Rotherham,,,1663,,,,,,['GBR.1.77_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Sandwell,,,1574,,,,,,['GBR.1.81_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Sheffield,,,3620,,,,,,['GBR.1.83_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Southend-on-Sea,,,598,,,,,,['GBR.1.91_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Swindon,,,699,,,,,,['GBR.1.99_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Tameside,,,1382,,,,,,['GBR.1.100_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Telford and Wrekin,,,572,,,,,,['GBR.1.101_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Trafford,,,1204,,,,,,['GBR.1.104_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Walsall,,,1426,,,,,,['GBR.1.106_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Warwickshire,,,2361,,,,,,['GBR.1.108_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Worcestershire,,,2276,,,,,,['GBR.1.117_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,York,,,879,,,,,,['GBR.1.118_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Bury,,,1226,,,,,,['GBR.1.14_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1332,,,,,,['GBR.1.95_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Wakefield,,,1510,,,,,,['GBR.1.105_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1243,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Borders,,,345,,,,,,['GBR.3.26_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,274,,,,,,['GBR.3.6_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Fife,,,926,,,,,,['GBR.3.15_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,1048,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1405,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Highland,,,373,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,2671,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,3110,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,9,,,,,,['GBR.3.23_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1760,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,7,,,,,,['GBR.3.13_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2654,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3619,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2953,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2779,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1103,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,314,,,,,,['GBR.4.17_1']
-GBR_PHTW,15-06-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1933,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,15-06-2020,United Kingdom,GBR,Northern Ireland,Mid and East Antrim,,,332,,,,,,['GBR.2.8_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,England,Stockport,,,1549,,,,,,['GBR.1.93_1']
 GBR_PHTW,15-06-2020,United Kingdom,GBR,Northern Ireland,Mid Ulster,,,256,,,,,,['GBR.2.9_1']
@@ -5165,16 +5165,14 @@ GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Redbridge,,,1073,,,,,,['GBR.1.36.
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Leicester,,,2526,,,,,,['GBR.1.50_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Leicestershire,,,2630,,,,,,['GBR.1.51_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Kirklees,,,1643,,,,,,['GBR.1.46_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2807,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1687,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,6,,,,,,['GBR.3.13_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2648,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3578,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2944,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2774,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1101,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,314,,,,,,['GBR.4.17_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,261,,,,,,['GBR.3.6_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Derbyshire,,,3153,,,,,,['GBR.1.25_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Enfield,,,1148,,,,,,['GBR.1.36.9_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Essex,,,5175,,,,,,['GBR.1.33_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1797,,,,,,['GBR.1.35_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Hampshire,,,4960,,,,,,['GBR.1.38_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Manchester,,,2604,,,,,,['GBR.1.54_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1487,,,,,,['GBR.1.58_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Northumberland,,,1542,,,,,,['GBR.1.65_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2764,,,,,,['GBR.1.67_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Oxfordshire,,,3001,,,,,,['GBR.1.69_1']
@@ -5186,29 +5184,38 @@ GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Southend-on-Sea,,,589,,,,,,['GBR.
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Sutton,,,989,,,,,,['GBR.1.36.29_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Swindon,,,695,,,,,,['GBR.1.99_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Tameside,,,1370,,,,,,['GBR.1.100_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1088,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Telford and Wrekin,,,564,,,,,,['GBR.1.101_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Cwm Taf Health Board,,,2774,,,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1101,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,541,,,,,,['GBR.1.36.19_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Trafford,,,1202,,,,,,['GBR.1.104_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Warwickshire,,,2348,,,,,,['GBR.1.108_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Worcestershire,,,2271,,,,,,['GBR.1.117_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,York,,,878,,,,,,['GBR.1.118_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Bury,,,1218,,,,,,['GBR.1.14_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,314,,,,,,['GBR.4.17_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,952,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1328,,,,,,['GBR.1.95_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Staffordshire,,,3449,,,,,,['GBR.1.92_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Blackpool,,,974,,,,,,['GBR.1.6_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Lancashire,,,6291,,,,,,['GBR.1.48_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Bolton,,,1655,,,,,,['GBR.1.7_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Wakefield,,,1501,,,,,,['GBR.1.105_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1088,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Borders,,,327,,,,,,['GBR.3.26_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Dumfries and Galloway,,,261,,,,,,['GBR.3.6_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Fife,,,885,,,,,,['GBR.3.15_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1294,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,4010,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Highland,,,341,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,2035,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2807,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,8,,,,,,['GBR.3.23_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,541,,,,,,['GBR.1.36.19_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Bolton,,,1655,,,,,,['GBR.1.7_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Lancashire,,,6291,,,,,,['GBR.1.48_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Blackpool,,,974,,,,,,['GBR.1.6_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Staffordshire,,,3449,,,,,,['GBR.1.92_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,1328,,,,,,['GBR.1.95_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,952,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Shetland,,,54,,,,,,['GBR.3.27_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1687,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,6,,,,,,['GBR.3.13_1']
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2648,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3578,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,14-06-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2944,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Camden,,,691,,,,,,['GBR.1.36.6_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1134,,,,,,['GBR.1.17_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1834,,,,,,['GBR.1.19_1']
@@ -5246,13 +5253,6 @@ GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Wolverhampton,,,1316,,,,,,['GBR.1
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Barnsley,,,1618,,,,,,['GBR.1.1_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Bromley,,,1499,,,,,,['GBR.1.36.5_1']
 GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Calderdale,,,581,,,,,,['GBR.1.15_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Derbyshire,,,3153,,,,,,['GBR.1.25_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Enfield,,,1148,,,,,,['GBR.1.36.9_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Essex,,,5175,,,,,,['GBR.1.33_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1797,,,,,,['GBR.1.35_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Hampshire,,,4960,,,,,,['GBR.1.38_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Manchester,,,2604,,,,,,['GBR.1.54_1']
-GBR_PHTW,14-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1487,,,,,,['GBR.1.58_1']
 GBR_PHTW,13-06-2020,United Kingdom,GBR,England,Salford,,,1240,,,,,,['GBR.1.80_1']
 GBR_PHTW,13-06-2020,United Kingdom,GBR,Scotland,NHS Borders,,,327,,,,,,['GBR.3.26_1']
 GBR_PHTW,13-06-2020,United Kingdom,GBR,England,Rotherham,,,1648,,,,,,['GBR.1.77_1']
@@ -6071,10 +6071,10 @@ GBR_PHTW,09-06-2020,United Kingdom,GBR,England,Thurrock,,,493,,,,,,['GBR.1.102_1
 GBR_PHTW,09-06-2020,United Kingdom,GBR,England,St. Helens,,,1154,,,,,,['GBR.1.79_1']
 GBR_PHTW,09-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1081,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,09-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1678,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHTW,08-06-2020,United Kingdom,GBR,England,Lincolnshire,,,2259,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,08-06-2020,United Kingdom,GBR,England,Coventry,,,1263,,,,,,['GBR.1.21_1']
-GBR_PHTW,08-06-2020,United Kingdom,GBR,England,County Durham,,,3206,,,,,,['GBR.1.30_1']
 GBR_PHTW,08-06-2020,United Kingdom,GBR,England,"Kingston upon Hull, City of",,,1395,,,,,,['GBR.1.45_1']
+GBR_PHTW,08-06-2020,United Kingdom,GBR,England,Lincolnshire,,,2259,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,08-06-2020,United Kingdom,GBR,England,County Durham,,,3206,,,,,,['GBR.1.30_1']
 GBR_PHTW,08-06-2020,United Kingdom,GBR,England,Richmond upon Thames,,,515,,,,,,['GBR.1.36.27_1']
 GBR_PHTW,08-06-2020,United Kingdom,GBR,England,South Tyneside,,,933,,,,,,['GBR.1.89_1']
 GBR_PHTW,08-06-2020,United Kingdom,GBR,England,Southampton,,,884,,,,,,['GBR.1.90_1']
@@ -6392,14 +6392,14 @@ GBR_PHTW,07-06-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1076,,,,,,
 GBR_PHTW,07-06-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,313,,,,,,['GBR.4.17_1']
 GBR_PHTW,07-06-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1914,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,07-06-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,793,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
-GBR_PHTW,07-06-2020,United Kingdom,GBR,England,Surrey,,,4384,,,,,,['GBR.1.98_1']
-GBR_PHTW,07-06-2020,United Kingdom,GBR,England,Wigan,,,2045,,,,,,['GBR.1.111_1']
 GBR_PHTW,07-06-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3320,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,07-06-2020,United Kingdom,GBR,England,Wigan,,,2045,,,,,,['GBR.1.111_1']
+GBR_PHTW,07-06-2020,United Kingdom,GBR,England,Surrey,,,4384,,,,,,['GBR.1.98_1']
 GBR_PHTW,06-06-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,852,,,,,,['GBR.1.5_1']
-GBR_PHTW,06-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2668,,,,,,['GBR.1.67_1']
-GBR_PHTW,06-06-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2769,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,06-06-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1778,,,,,,['GBR.1.19_1']
 GBR_PHTW,06-06-2020,United Kingdom,GBR,England,Suffolk,,,2555,,,,,,['GBR.1.96_1']
+GBR_PHTW,06-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2668,,,,,,['GBR.1.67_1']
+GBR_PHTW,06-06-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2769,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,06-06-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3306,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,06-06-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1084,,,,,,['GBR.1.17_1']
 GBR_PHTW,06-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1077,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
@@ -6717,14 +6717,14 @@ GBR_PHTW,05-06-2020,United Kingdom,GBR,England,Warrington,,,1236,,,,,,['GBR.1.10
 GBR_PHTW,05-06-2020,United Kingdom,GBR,England,Sunderland,,,1740,,,,,,['GBR.1.97_1']
 GBR_PHTW,05-06-2020,United Kingdom,GBR,Wales,,,111561,14944,,1407,,,,['GBR.4_1']
 GBR_PHTW,05-06-2020,United Kingdom,GBR,,,,,283311,,40347,,,,['GBR']
+GBR_PHTW,05-06-2020,United Kingdom,GBR,England,Wokingham,,,565,,,,,,['GBR.1.115_1']
 GBR_PHTW,05-06-2020,United Kingdom,GBR,England,Bexley,,,1007,,,,,,['GBR.1.36.3_1']
 GBR_PHTW,05-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2621,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,05-06-2020,United Kingdom,GBR,England,Westminster,,,737,,,,,,['GBR.1.36.33_1']
-GBR_PHTW,05-06-2020,United Kingdom,GBR,England,Wokingham,,,565,,,,,,['GBR.1.115_1']
+GBR_PHTW,04-06-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,6,,,,,,['GBR.3.13_1']
 GBR_PHTW,04-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1452,,,,,,['GBR.1.58_1']
 GBR_PHTW,04-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2618,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,04-06-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,1071,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
-GBR_PHTW,04-06-2020,United Kingdom,GBR,Scotland,NHS Western Isles,,,6,,,,,,['GBR.3.13_1']
 GBR_PHTW,04-06-2020,United Kingdom,GBR,England,Wirral,,,1863,,,,,,['GBR.1.114_1']
 GBR_PHTW,04-06-2020,United Kingdom,GBR,England,Barking and Dagenham,,,677,,,,,,['GBR.1.36.1_1']
 GBR_PHTW,04-06-2020,United Kingdom,GBR,England,Barnet,,,1555,,,,,,['GBR.1.36.2_1']
@@ -6959,9 +6959,35 @@ GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Newham,,,1199,,,,,,['GBR.1.36.25_
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,"Herefordshire, County of",,,695,,,,,,['GBR.1.40_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Wolverhampton,,,1279,,,,,,['GBR.1.116_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lincolnshire,,,2179,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Redbridge,,,1031,,,,,,['GBR.1.36.26_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Liverpool,,,2274,,,,,,['GBR.1.82.1_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Leeds,,,3140,,,,,,['GBR.1.49_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,South Tyneside,,,927,,,,,,['GBR.1.89_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Southampton,,,857,,,,,,['GBR.1.90_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Surrey,,,4354,,,,,,['GBR.1.98_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,West Berkshire,,,465,,,,,,['GBR.1.109_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Wigan,,,2030,,,,,,['GBR.1.111_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Barnsley,,,1445,,,,,,['GBR.1.1_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bath and North East Somerset,,,330,,,,,,['GBR.1.2_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bromley,,,1488,,,,,,['GBR.1.36.5_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Calderdale,,,542,,,,,,['GBR.1.15_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Derbyshire,,,3006,,,,,,['GBR.1.25_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Dorset,,,583,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Essex,,,5016,,,,,,['GBR.1.33_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1779,,,,,,['GBR.1.35_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Hampshire,,,4868,,,,,,['GBR.1.38_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Islington,,,522,,,,,,['GBR.1.36.18_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lambeth,,,1327,,,,,,['GBR.1.36.21_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Manchester,,,2433,,,,,,['GBR.1.54_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1448,,,,,,['GBR.1.58_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Northumberland,,,1500,,,,,,['GBR.1.65_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2601,,,,,,['GBR.1.67_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Oxfordshire,,,2908,,,,,,['GBR.1.69_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Peterborough,,,1039,,,,,,['GBR.1.70_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Medway,,,964,,,,,,['GBR.1.55_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Luton,,,1155,,,,,,['GBR.1.53_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Sunderland,,,1733,,,,,,['GBR.1.97_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,843,,,,,,['GBR.1.94_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Stockport,,,1506,,,,,,['GBR.1.93_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Leicestershire,,,2378,,,,,,['GBR.1.51_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Knowsley,,,913,,,,,,['GBR.1.47_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Kingston upon Thames,,,710,,,,,,['GBR.1.36.20_1']
@@ -6971,6 +6997,28 @@ GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Hounslow,,,966,,,,,,['GBR.1.36.17
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Hertfordshire,,,3851,,,,,,['GBR.1.41_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,713,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Halton,,,654,,,,,,['GBR.1.37_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Somerset,,,1187,,,,,,['GBR.1.87_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Slough,,,567,,,,,,['GBR.1.85_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Shropshire,,,1204,,,,,,['GBR.1.84_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Sefton,,,1410,,,,,,['GBR.1.82.2_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Warrington,,,1216,,,,,,['GBR.1.107_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Birmingham,,,4390,,,,,,['GBR.1.4_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bolton,,,1588,,,,,,['GBR.1.7_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Brent,,,1662,,,,,,['GBR.1.36.4_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Camden,,,679,,,,,,['GBR.1.36.6_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1059,,,,,,['GBR.1.17_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1751,,,,,,['GBR.1.19_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Darlington,,,569,,,,,,['GBR.1.23_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Ealing,,,1476,,,,,,['GBR.1.36.8_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Harrow,,,1235,,,,,,['GBR.1.36.14_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,"Kingston upon Hull, City of",,,1366,,,,,,['GBR.1.45_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lancashire,,,5952,,,,,,['GBR.1.48_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Salford,,,1188,,,,,,['GBR.1.80_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Reading,,,738,,,,,,['GBR.1.74_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Nottingham,,,1020,,,,,,['GBR.1.66_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,North Yorkshire,,,2288,,,,,,['GBR.1.63_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Middlesbrough,,,893,,,,,,['GBR.1.56_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lewisham,,,1162,,,,,,['GBR.1.36.22_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Dudley,,,1230,,,,,,['GBR.1.29_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Doncaster,,,1684,,,,,,['GBR.1.27_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Derby,,,1050,,,,,,['GBR.1.24_1']
@@ -7008,61 +7056,13 @@ GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bedford,,,1003,,,,,,['GBR.1.3.1_1
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Wirral,,,1850,,,,,,['GBR.1.114_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Wiltshire,,,1174,,,,,,['GBR.1.112_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,West Sussex,,,2551,,,,,,['GBR.1.110_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Warrington,,,1216,,,,,,['GBR.1.107_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Sunderland,,,1733,,,,,,['GBR.1.97_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,843,,,,,,['GBR.1.94_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Stockport,,,1506,,,,,,['GBR.1.93_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Somerset,,,1187,,,,,,['GBR.1.87_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Slough,,,567,,,,,,['GBR.1.85_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Shropshire,,,1204,,,,,,['GBR.1.84_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Sefton,,,1410,,,,,,['GBR.1.82.2_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Salford,,,1188,,,,,,['GBR.1.80_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Reading,,,738,,,,,,['GBR.1.74_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Nottingham,,,1020,,,,,,['GBR.1.66_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,North Yorkshire,,,2288,,,,,,['GBR.1.63_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Middlesbrough,,,893,,,,,,['GBR.1.56_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Liverpool,,,2274,,,,,,['GBR.1.82.1_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lewisham,,,1162,,,,,,['GBR.1.36.22_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Leeds,,,3140,,,,,,['GBR.1.49_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lancashire,,,5952,,,,,,['GBR.1.48_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,"Kingston upon Hull, City of",,,1366,,,,,,['GBR.1.45_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Harrow,,,1235,,,,,,['GBR.1.36.14_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Ealing,,,1476,,,,,,['GBR.1.36.8_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Darlington,,,569,,,,,,['GBR.1.23_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,1751,,,,,,['GBR.1.19_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Central Bedfordshire,,,1059,,,,,,['GBR.1.17_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Camden,,,679,,,,,,['GBR.1.36.6_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Brent,,,1662,,,,,,['GBR.1.36.4_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bolton,,,1588,,,,,,['GBR.1.7_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Birmingham,,,4390,,,,,,['GBR.1.4_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Westminster,,,735,,,,,,['GBR.1.36.33_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,3954,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHTW,03-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2617,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Peterborough,,,1039,,,,,,['GBR.1.70_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Oxfordshire,,,2908,,,,,,['GBR.1.69_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Nottinghamshire,,,2601,,,,,,['GBR.1.67_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Northumberland,,,1500,,,,,,['GBR.1.65_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,1448,,,,,,['GBR.1.58_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Manchester,,,2433,,,,,,['GBR.1.54_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Lambeth,,,1327,,,,,,['GBR.1.36.21_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Islington,,,522,,,,,,['GBR.1.36.18_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Hampshire,,,4868,,,,,,['GBR.1.38_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Gloucestershire,,,1779,,,,,,['GBR.1.35_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Essex,,,5016,,,,,,['GBR.1.33_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Dorset,,,583,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Derbyshire,,,3006,,,,,,['GBR.1.25_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Calderdale,,,542,,,,,,['GBR.1.15_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bromley,,,1488,,,,,,['GBR.1.36.5_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Bath and North East Somerset,,,330,,,,,,['GBR.1.2_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Barnsley,,,1445,,,,,,['GBR.1.1_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Wigan,,,2030,,,,,,['GBR.1.111_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,West Berkshire,,,465,,,,,,['GBR.1.109_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Surrey,,,4354,,,,,,['GBR.1.98_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Southampton,,,857,,,,,,['GBR.1.90_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,South Tyneside,,,927,,,,,,['GBR.1.89_1']
-GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Rochdale,,,1172,,,,,,['GBR.1.76_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Redbridge,,,1031,,,,,,['GBR.1.36.26_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Richmond upon Thames,,,508,,,,,,['GBR.1.36.27_1']
 GBR_PHTW,03-06-2020,United Kingdom,GBR,England,North Somerset,,,850,,,,,,['GBR.1.61_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Rochdale,,,1172,,,,,,['GBR.1.76_1']
+GBR_PHTW,03-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2617,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHTW,03-06-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,3954,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
+GBR_PHTW,03-06-2020,United Kingdom,GBR,England,Westminster,,,735,,,,,,['GBR.1.36.33_1']
 GBR_PHTW,02-06-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2613,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,02-06-2020,United Kingdom,GBR,England,Dorset,,,581,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,02-06-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,810,,,,,,['GBR.1.5_1']
@@ -7406,13 +7406,13 @@ GBR_PHTW,01-06-2020,United Kingdom,GBR,England,Halton,,,649,,,,,,['GBR.1.37_1']
 GBR_PHTW,01-06-2020,United Kingdom,GBR,Scotland,NHS Highland,,,338,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHTW,01-06-2020,United Kingdom,GBR,Scotland,NHS Lanarkshire,,,1987,,,,,,"['GBR.3.22_1', 'GBR.3.29_1']"
 GBR_PHTW,01-06-2020,United Kingdom,GBR,England,Gateshead,,,1247,,,,,,['GBR.1.34_1']
+GBR_PHTW,01-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1671,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,01-06-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1061,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,01-06-2020,United Kingdom,GBR,England,Hartlepool,,,545,,,,,,['GBR.1.39_1']
-GBR_PHTW,01-06-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,1671,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHTW,31-05-2020,United Kingdom,GBR,England,County Durham,,,3128,,,,,,['GBR.1.30_1']
-GBR_PHTW,31-05-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2709,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,31-05-2020,United Kingdom,GBR,England,Cumbria,,,2530,,,,,,['GBR.1.22_1']
+GBR_PHTW,31-05-2020,United Kingdom,GBR,England,County Durham,,,3128,,,,,,['GBR.1.30_1']
 GBR_PHTW,31-05-2020,United Kingdom,GBR,England,"Herefordshire, County of",,,684,,,,,,['GBR.1.40_1']
+GBR_PHTW,31-05-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2709,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,31-05-2020,United Kingdom,GBR,England,Bury,,,1104,,,,,,['GBR.1.14_1']
 GBR_PHTW,31-05-2020,United Kingdom,GBR,England,East Riding of Yorkshire,,,1452,,,,,,['GBR.1.31_1']
 GBR_PHTW,31-05-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,797,,,,,,['GBR.1.5_1']
@@ -8086,10 +8086,10 @@ GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Bolton,,,1508,,,,,,['GBR.1.7_1']
 GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Birmingham,,,4290,,,,,,['GBR.1.4_1']
 GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Barnet,,,1542,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Barking and Dagenham,,,668,,,,,,['GBR.1.36.1_1']
-GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Suffolk,,,2441,,,,,,['GBR.1.96_1']
-GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Bracknell Forest,,,342,,,,,,['GBR.1.9_1']
-GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Havering,,,887,,,,,,['GBR.1.36.15_1']
 GBR_PHTW,28-05-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,3005,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Bracknell Forest,,,342,,,,,,['GBR.1.9_1']
+GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Suffolk,,,2441,,,,,,['GBR.1.96_1']
+GBR_PHTW,28-05-2020,United Kingdom,GBR,England,Havering,,,887,,,,,,['GBR.1.36.15_1']
 GBR_PHTW,27-05-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,919,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHTW,27-05-2020,United Kingdom,GBR,England,Lincolnshire,,,2070,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,27-05-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,,,390,,,,,,['GBR.2.1_1']
@@ -8415,38 +8415,38 @@ GBR_PHTW,26-05-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,1250,,,,,,"['GBR.
 GBR_PHTW,26-05-2020,United Kingdom,GBR,Scotland,NHS Highland,,,336,,,,,,"['GBR.3.4_1', 'GBR.3.17_1']"
 GBR_PHTW,26-05-2020,United Kingdom,GBR,Scotland,NHS Orkney,,,7,,,,,,['GBR.3.23_1']
 GBR_PHTW,26-05-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1023,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Essex,,,4854,,,,,,['GBR.1.33_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Gloucestershire,,,1754,,,,,,['GBR.1.35_1']
 GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Enfield,,,1120,,,,,,['GBR.1.36.9_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Derbyshire,,,2805,,,,,,['GBR.1.25_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Wolverhampton,,,1213,,,,,,['GBR.1.116_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Wigan,,,1959,,,,,,['GBR.1.111_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,West Berkshire,,,453,,,,,,['GBR.1.109_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Surrey,,,4252,,,,,,['GBR.1.98_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Southampton,,,810,,,,,,['GBR.1.90_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,South Tyneside,,,905,,,,,,['GBR.1.89_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Rochdale,,,1045,,,,,,['GBR.1.76_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Richmond upon Thames,,,501,,,,,,['GBR.1.36.27_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Redbridge,,,1014,,,,,,['GBR.1.36.26_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,North Somerset,,,772,,,,,,['GBR.1.61_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,North East Lincolnshire,,,170,,,,,,['GBR.1.52.4_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Luton,,,1075,,,,,,['GBR.1.53_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Leicestershire,,,2181,,,,,,['GBR.1.51_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Knowsley,,,888,,,,,,['GBR.1.47_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Kingston upon Thames,,,697,,,,,,['GBR.1.36.20_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Kent,,,6236,,,,,,['GBR.1.44_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Isle of Wight,,,380,,,,,,['GBR.1.42_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Hounslow,,,952,,,,,,['GBR.1.36.17_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Hertfordshire,,,3751,,,,,,['GBR.1.41_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,705,,,,,,['GBR.1.36.12_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Halton,,,616,,,,,,['GBR.1.37_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Gateshead,,,1236,,,,,,['GBR.1.34_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Dudley,,,1196,,,,,,['GBR.1.29_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Doncaster,,,1473,,,,,,['GBR.1.27_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Derby,,,962,,,,,,['GBR.1.24_1']
-GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Cumbria,,,2498,,,,,,['GBR.1.22_1']
 GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Lincolnshire,,,2048,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Gloucestershire,,,1754,,,,,,['GBR.1.35_1']
 GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Coventry,,,1202,,,,,,['GBR.1.21_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Cumbria,,,2498,,,,,,['GBR.1.22_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Derby,,,962,,,,,,['GBR.1.24_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Doncaster,,,1473,,,,,,['GBR.1.27_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Dudley,,,1196,,,,,,['GBR.1.29_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Gateshead,,,1236,,,,,,['GBR.1.34_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Halton,,,616,,,,,,['GBR.1.37_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,705,,,,,,['GBR.1.36.12_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Hertfordshire,,,3751,,,,,,['GBR.1.41_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Hounslow,,,952,,,,,,['GBR.1.36.17_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Isle of Wight,,,380,,,,,,['GBR.1.42_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Kent,,,6236,,,,,,['GBR.1.44_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Kingston upon Thames,,,697,,,,,,['GBR.1.36.20_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Knowsley,,,888,,,,,,['GBR.1.47_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Leicestershire,,,2181,,,,,,['GBR.1.51_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Luton,,,1075,,,,,,['GBR.1.53_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,North East Lincolnshire,,,170,,,,,,['GBR.1.52.4_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,North Somerset,,,772,,,,,,['GBR.1.61_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Redbridge,,,1014,,,,,,['GBR.1.36.26_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Richmond upon Thames,,,501,,,,,,['GBR.1.36.27_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Rochdale,,,1045,,,,,,['GBR.1.76_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,South Tyneside,,,905,,,,,,['GBR.1.89_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Southampton,,,810,,,,,,['GBR.1.90_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Surrey,,,4252,,,,,,['GBR.1.98_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,West Berkshire,,,453,,,,,,['GBR.1.109_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Wigan,,,1959,,,,,,['GBR.1.111_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Wolverhampton,,,1213,,,,,,['GBR.1.116_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Derbyshire,,,2805,,,,,,['GBR.1.25_1']
+GBR_PHTW,26-05-2020,United Kingdom,GBR,England,Essex,,,4854,,,,,,['GBR.1.33_1']
 GBR_PHTW,25-05-2020,United Kingdom,GBR,England,Redcar and Cleveland,,,628,,,,,,['GBR.1.75_1']
 GBR_PHTW,25-05-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,704,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,25-05-2020,United Kingdom,GBR,Northern Ireland,Belfast,,,1308,,,,,,['GBR.2.3_1']
@@ -8794,11 +8794,11 @@ GBR_PHTW,24-05-2020,United Kingdom,GBR,England,Haringey,,,708,,,,,,['GBR.1.36.13
 GBR_PHTW,24-05-2020,United Kingdom,GBR,England,Hackney,,,745,,,,,,['GBR.1.36.11_1']
 GBR_PHTW,24-05-2020,United Kingdom,GBR,England,East Sussex,,,1248,,,,,,['GBR.1.32_1']
 GBR_PHTW,24-05-2020,United Kingdom,GBR,England,East Riding of Yorkshire,,,1333,,,,,,['GBR.1.31_1']
-GBR_PHTW,24-05-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2685,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,24-05-2020,United Kingdom,GBR,England,Birmingham,,,4186,,,,,,['GBR.1.4_1']
-GBR_PHTW,23-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,755,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
-GBR_PHTW,23-05-2020,United Kingdom,GBR,England,Dorset,,,557,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
+GBR_PHTW,24-05-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2685,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
 GBR_PHTW,23-05-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2668,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHTW,23-05-2020,United Kingdom,GBR,England,Dorset,,,557,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
+GBR_PHTW,23-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,755,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,23-05-2020,United Kingdom,GBR,England,East Sussex,,,1235,,,,,,['GBR.1.32_1']
 GBR_PHTW,23-05-2020,United Kingdom,GBR,England,Greenwich,,,884,,,,,,['GBR.1.36.10_1']
 GBR_PHTW,23-05-2020,United Kingdom,GBR,England,Hackney,,,744,,,,,,['GBR.1.36.11_1']
@@ -9150,10 +9150,10 @@ GBR_PHTW,22-05-2020,United Kingdom,GBR,England,Stockton-on-Tees,,,755,,,,,,['GBR
 GBR_PHTW,22-05-2020,United Kingdom,GBR,England,Stockport,,,1427,,,,,,['GBR.1.93_1']
 GBR_PHTW,22-05-2020,United Kingdom,GBR,England,Somerset,,,1010,,,,,,['GBR.1.87_1']
 GBR_PHTW,22-05-2020,United Kingdom,GBR,England,Redbridge,,,1009,,,,,,['GBR.1.36.26_1']
-GBR_PHTW,22-05-2020,United Kingdom,GBR,England,South Gloucestershire,,,691,,,,,,['GBR.1.88_1']
-GBR_PHTW,22-05-2020,United Kingdom,GBR,England,County Durham,,,2954,,,,,,['GBR.1.30_1']
-GBR_PHTW,22-05-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,909,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHTW,22-05-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,1001,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
+GBR_PHTW,22-05-2020,United Kingdom,GBR,England,South Gloucestershire,,,691,,,,,,['GBR.1.88_1']
+GBR_PHTW,22-05-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,909,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
+GBR_PHTW,22-05-2020,United Kingdom,GBR,England,County Durham,,,2954,,,,,,['GBR.1.30_1']
 GBR_PHTW,21-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,752,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,21-05-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2611,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,21-05-2020,United Kingdom,GBR,England,Lincolnshire,,,1947,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
@@ -9518,11 +9518,11 @@ GBR_PHTW,20-05-2020,United Kingdom,GBR,England,Haringey,,,698,,,,,,['GBR.1.36.13
 GBR_PHTW,20-05-2020,United Kingdom,GBR,England,Hartlepool,,,510,,,,,,['GBR.1.39_1']
 GBR_PHTW,20-05-2020,United Kingdom,GBR,England,Havering,,,866,,,,,,['GBR.1.36.15_1']
 GBR_PHTW,20-05-2020,United Kingdom,GBR,England,"Herefordshire, County of",,,616,,,,,,['GBR.1.40_1']
-GBR_PHTW,20-05-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,697,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,20-05-2020,United Kingdom,GBR,England,Lincolnshire,,,1914,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,20-05-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,697,,,,,,['GBR.1.36.12_1']
+GBR_PHTW,19-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,741,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,19-05-2020,United Kingdom,GBR,England,Lincolnshire,,,1881,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,19-05-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,2491,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHTW,19-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,741,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,19-05-2020,United Kingdom,GBR,England,North East Lincolnshire,,,164,,,,,,['GBR.1.52.4_1']
 GBR_PHTW,19-05-2020,United Kingdom,GBR,England,Kingston upon Thames,,,676,,,,,,['GBR.1.36.20_1']
 GBR_PHTW,19-05-2020,United Kingdom,GBR,England,Barking and Dagenham,,,646,,,,,,['GBR.1.36.1_1']
@@ -10793,8 +10793,8 @@ GBR_PHTW,13-05-2020,United Kingdom,GBR,England,Dorset,,,528,,,,,,"['GBR.1.28.2_1
 GBR_PHTW,13-05-2020,United Kingdom,GBR,England,Hackney and City of London,,,739,,,,,,"['GBR.1.36.11_1', 'GBR.1.36.23_1']"
 GBR_PHTW,13-05-2020,United Kingdom,GBR,England,County Durham,,,2566,,,,,,['GBR.1.30_1']
 GBR_PHTW,13-05-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,3579,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHTW,13-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,713,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,13-05-2020,United Kingdom,GBR,England,Lincolnshire,,,1711,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,13-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,713,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,12-05-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,3510,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,12-05-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,925,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,12-05-2020,United Kingdom,GBR,Northern Ireland,"Newry, Mourne and Down",,,249,,,,,,['GBR.2.10_1']
@@ -11903,10 +11903,10 @@ GBR_PHTW,07-05-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,770,,,,,,['GBR.1
 GBR_PHTW,07-05-2020,United Kingdom,GBR,England,Wakefield,,,964,,,,,,['GBR.1.105_1']
 GBR_PHTW,07-05-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,,,335,,,,,,['GBR.2.1_1']
 GBR_PHTW,07-05-2020,United Kingdom,GBR,England,Lincolnshire,,,1447,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,06-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,643,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,06-05-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1686,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,06-05-2020,United Kingdom,GBR,England,Manchester,,,1678,,,,,,['GBR.1.54_1']
 GBR_PHTW,06-05-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,667,,,,,,['GBR.1.36.12_1']
-GBR_PHTW,06-05-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,643,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,06-05-2020,United Kingdom,GBR,England,"Kingston upon Hull, City of",,,836,,,,,,['GBR.1.45_1']
 GBR_PHTW,06-05-2020,United Kingdom,GBR,England,Lancashire,,,4038,,,,,,['GBR.1.48_1']
 GBR_PHTW,06-05-2020,United Kingdom,GBR,England,Leeds,,,2280,,,,,,['GBR.1.49_1']
@@ -12274,12 +12274,12 @@ GBR_PHTW,05-05-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,797,,,,,,"
 GBR_PHTW,05-05-2020,United Kingdom,GBR,England,Lincolnshire,,,1312,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,05-05-2020,United Kingdom,GBR,Scotland,NHS Forth Valley,,,802,,,,,,"['GBR.3.5_1', 'GBR.3.14_1', 'GBR.3.30_1']"
 GBR_PHTW,05-05-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,2376,,,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
-GBR_PHTW,05-05-2020,United Kingdom,GBR,England,Dorset,,,483,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,05-05-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,3070,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,05-05-2020,United Kingdom,GBR,England,Manchester,,,1631,,,,,,['GBR.1.54_1']
+GBR_PHTW,05-05-2020,United Kingdom,GBR,England,Dorset,,,483,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,04-05-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,2113,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHTW,04-05-2020,United Kingdom,GBR,England,Kingston upon Thames,,,599,,,,,,['GBR.1.36.20_1']
 GBR_PHTW,04-05-2020,United Kingdom,GBR,England,South Tyneside,,,696,,,,,,['GBR.1.89_1']
+GBR_PHTW,04-05-2020,United Kingdom,GBR,England,Kingston upon Thames,,,599,,,,,,['GBR.1.36.20_1']
 GBR_PHTW,04-05-2020,United Kingdom,GBR,England,Doncaster,,,884,,,,,,['GBR.1.27_1']
 GBR_PHTW,04-05-2020,United Kingdom,GBR,England,Brighton and Hove,,,507,,,,,,['GBR.1.11_1']
 GBR_PHTW,04-05-2020,United Kingdom,GBR,England,Coventry,,,892,,,,,,['GBR.1.21_1']
@@ -12991,15 +12991,15 @@ GBR_PHTW,01-05-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University H
 GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Suffolk,,,1596,,,,,,['GBR.1.96_1']
 GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Croydon,,,1592,,,,,,['GBR.1.36.7_1']
 GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Hackney,,,674,,,,,,['GBR.1.36.11_1']
-GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Southampton,,,575,,,,,,['GBR.1.90_1']
-GBR_PHTW,01-05-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,1462,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
-GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Telford and Wrekin,,,305,,,,,,['GBR.1.101_1']
-GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Northumberland,,,1106,,,,,,['GBR.1.65_1']
 GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Cumbria,,,2136,,,,,,['GBR.1.22_1']
-GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Sefton,,,1043,,,,,,['GBR.1.82.2_1']
 GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Reading,,,560,,,,,,['GBR.1.74_1']
-GBR_PHTW,30-04-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,761,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
+GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Sefton,,,1043,,,,,,['GBR.1.82.2_1']
+GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Southampton,,,575,,,,,,['GBR.1.90_1']
+GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Northumberland,,,1106,,,,,,['GBR.1.65_1']
+GBR_PHTW,01-05-2020,United Kingdom,GBR,England,Telford and Wrekin,,,305,,,,,,['GBR.1.101_1']
+GBR_PHTW,01-05-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,1462,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,30-04-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1613,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHTW,30-04-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,761,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,30-04-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,834,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
 GBR_PHTW,30-04-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,1980,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
 GBR_PHTW,30-04-2020,United Kingdom,GBR,England,St. Helens,,,883,,,,,,['GBR.1.79_1']
@@ -13697,10 +13697,10 @@ GBR_PHTW,27-04-2020,United Kingdom,GBR,Scotland,,,50294,10521,,1262,,,,['GBR.3_1
 GBR_PHTW,27-04-2020,United Kingdom,GBR,,,,569768,157149,,24408,,,,['GBR']
 GBR_PHTW,27-04-2020,United Kingdom,GBR,Wales,,,31694,9861,,914,,,,['GBR.4_1']
 GBR_PHTW,27-04-2020,United Kingdom,GBR,Scotland,NHS Grampian,,,771,,,,,,"['GBR.3.1_1', 'GBR.3.2_1', 'GBR.3.20_1']"
-GBR_PHTW,27-04-2020,United Kingdom,GBR,England,Bracknell Forest,,,238,,,,,,['GBR.1.9_1']
 GBR_PHTW,27-04-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,2531,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHTW,26-04-2020,United Kingdom,GBR,England,Lincolnshire,,,930,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,27-04-2020,United Kingdom,GBR,England,Bracknell Forest,,,238,,,,,,['GBR.1.9_1']
 GBR_PHTW,26-04-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,624,,,,,,['GBR.1.36.12_1']
+GBR_PHTW,26-04-2020,United Kingdom,GBR,England,Lincolnshire,,,930,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
 GBR_PHTW,26-04-2020,United Kingdom,GBR,Wales,,,30736,9689,,898,,,,['GBR.4_1']
 GBR_PHTW,26-04-2020,United Kingdom,GBR,,,,543413,152840,,24070,,,,['GBR']
 GBR_PHTW,26-04-2020,United Kingdom,GBR,Scotland,,,49157,10324,,1249,,,,['GBR.3_1']
@@ -15638,8 +15638,8 @@ GBR_PHTW,16-04-2020,United Kingdom,GBR,England,York,,,171,,,,,,['GBR.1.118_1']
 GBR_PHTW,16-04-2020,United Kingdom,GBR,England,Bury,,,420,,,,,,['GBR.1.14_1']
 GBR_PHTW,16-04-2020,United Kingdom,GBR,England,South Gloucestershire,,,256,,,,,,['GBR.1.88_1']
 GBR_PHTW,16-04-2020,United Kingdom,GBR,England,Stoke-on-Trent,,,275,,,,,,['GBR.1.95_1']
-GBR_PHTW,16-04-2020,United Kingdom,GBR,England,Dorset,,,234,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,16-04-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,323,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
+GBR_PHTW,16-04-2020,United Kingdom,GBR,England,Dorset,,,234,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,15-04-2020,United Kingdom,GBR,England,North Tyneside,,,366,,,,,,['GBR.1.62_1']
 GBR_PHTW,15-04-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,1062,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,15-04-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,1701,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
@@ -16713,8 +16713,8 @@ GBR_PHTW,10-04-2020,United Kingdom,GBR,England,Birmingham,,,1843,,,,,,['GBR.1.4_
 GBR_PHTW,10-04-2020,United Kingdom,GBR,England,Barnet,,,959,,,,,,['GBR.1.36.2_1']
 GBR_PHTW,10-04-2020,United Kingdom,GBR,England,Barking and Dagenham,,,348,,,,,,['GBR.1.36.1_1']
 GBR_PHTW,10-04-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,287,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
-GBR_PHTW,09-04-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,365,,,,,,['GBR.1.36.19_1']
 GBR_PHTW,09-04-2020,United Kingdom,GBR,England,Lincolnshire,,,425,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,09-04-2020,United Kingdom,GBR,England,Kensington and Chelsea,,,365,,,,,,['GBR.1.36.19_1']
 GBR_PHTW,09-04-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,439,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHTW,09-04-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,146,,,,,,['GBR.1.5_1']
 GBR_PHTW,09-04-2020,United Kingdom,GBR,England,North Lincolnshire,,,101,,,,,,['GBR.1.60_1']
@@ -17080,12 +17080,12 @@ GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Kirklees,,,296,,,,,,['GBR.1.46_1'
 GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Leicester,,,323,,,,,,['GBR.1.50_1']
 GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Merton,,,460,,,,,,['GBR.1.36.24_1']
 GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Newham,,,704,,,,,,['GBR.1.36.25_1']
-GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Manchester,,,582,,,,,,['GBR.1.54_1']
-GBR_PHTW,08-04-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,679,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,08-04-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,1166,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
-GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,365,,,,,,['GBR.1.36.12_1']
+GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Manchester,,,582,,,,,,['GBR.1.54_1']
 GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Blackburn with Darwen,,,129,,,,,,['GBR.1.5_1']
+GBR_PHTW,08-04-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,365,,,,,,['GBR.1.36.12_1']
 GBR_PHTW,08-04-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,188,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
+GBR_PHTW,08-04-2020,United Kingdom,GBR,Wales,Abertawe Bro Morgannwg University Health Board,,,679,,,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
 GBR_PHTW,07-04-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,296,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,07-04-2020,United Kingdom,GBR,England,Cheshire West and Chester,,,343,,,,,,['GBR.1.19_1']
 GBR_PHTW,07-04-2020,United Kingdom,GBR,England,Central Bedfordshire,,,239,,,,,,['GBR.1.17_1']
@@ -17457,10 +17457,10 @@ GBR_PHTW,06-04-2020,United Kingdom,GBR,,,,208837,51608,,6434,,,,['GBR']
 GBR_PHTW,06-04-2020,United Kingdom,GBR,Wales,,,14391,4194,,287,,,,['GBR.4_1']
 GBR_PHTW,06-04-2020,United Kingdom,GBR,England,Hackney and City of London,,,437,,,,,,"['GBR.1.36.11_1', 'GBR.1.36.23_1']"
 GBR_PHTW,06-04-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,227,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
-GBR_PHTW,06-04-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,984,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,06-04-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,288,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
-GBR_PHTW,05-04-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,135,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
+GBR_PHTW,06-04-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,984,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,05-04-2020,United Kingdom,GBR,England,North East Lincolnshire,,,52,,,,,,['GBR.1.52.4_1']
+GBR_PHTW,05-04-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,135,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,05-04-2020,United Kingdom,GBR,England,Milton Keynes,,,218,,,,,,['GBR.1.57_1']
 GBR_PHTW,05-04-2020,United Kingdom,GBR,England,Middlesbrough,,,191,,,,,,['GBR.1.56_1']
 GBR_PHTW,05-04-2020,United Kingdom,GBR,England,Liverpool,,,602,,,,,,['GBR.1.82.1_1']
@@ -18362,10 +18362,10 @@ GBR_PHTW,01-04-2020,United Kingdom,GBR,England,North Lincolnshire,,,41,,,,,,['GB
 GBR_PHTW,01-04-2020,United Kingdom,GBR,England,Newcastle upon Tyne,,,280,,,,,,['GBR.1.58_1']
 GBR_PHTW,01-04-2020,United Kingdom,GBR,England,Manchester,,,257,,,,,,['GBR.1.54_1']
 GBR_PHTW,01-04-2020,United Kingdom,GBR,England,Lambeth,,,602,,,,,,['GBR.1.36.21_1']
-GBR_PHTW,01-04-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,311,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
-GBR_PHTW,01-04-2020,United Kingdom,GBR,England,Dorset,,,97,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,01-04-2020,United Kingdom,GBR,England,"Bournemouth, Christchurch and Poole",,,92,,,,,,"['GBR.1.28.1_1', 'GBR.1.72_1', 'GBR.1.8_1']"
 GBR_PHTW,01-04-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,161,,,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHTW,01-04-2020,United Kingdom,GBR,Scotland,NHS Lothian,,,311,,,,,,"['GBR.3.10_1', 'GBR.3.12_1', 'GBR.3.19_1', 'GBR.3.32_1']"
+GBR_PHTW,01-04-2020,United Kingdom,GBR,England,Dorset,,,97,,,,,,"['GBR.1.28.2_1', 'GBR.1.28.3_1', 'GBR.1.28.4_1', 'GBR.1.28.5_1', 'GBR.1.28.6_1']"
 GBR_PHTW,31-03-2020,United Kingdom,GBR,Scotland,NHS Ayrshire and Arran,,,177,,,,,,"['GBR.3.8_1', 'GBR.3.21_1', 'GBR.3.28_1']"
 GBR_PHTW,31-03-2020,United Kingdom,GBR,England,Windsor and Maidenhead,,,94,,,,,,['GBR.1.113_1']
 GBR_PHTW,31-03-2020,United Kingdom,GBR,England,Leicestershire,,,252,,,,,,['GBR.1.51_1']
@@ -18740,9 +18740,9 @@ GBR_PHTW,30-03-2020,United Kingdom,GBR,England,Hampshire,,,702,,,,,,['GBR.1.38_1
 GBR_PHTW,30-03-2020,United Kingdom,GBR,England,Gloucestershire,,,210,,,,,,['GBR.1.35_1']
 GBR_PHTW,30-03-2020,United Kingdom,GBR,England,Essex,,,615,,,,,,['GBR.1.33_1']
 GBR_PHTW,30-03-2020,United Kingdom,GBR,England,North East Lincolnshire,,,29,,,,,,['GBR.1.52.4_1']
-GBR_PHTW,29-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,141,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
-GBR_PHTW,29-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,401,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
 GBR_PHTW,29-03-2020,United Kingdom,GBR,England,Lincolnshire,,,144,,,,,,"['GBR.1.52.1_1', 'GBR.1.52.2_1', 'GBR.1.52.3_1', 'GBR.1.52.5_1', 'GBR.1.52.6_1', 'GBR.1.52.7_1', 'GBR.1.52.8_1']"
+GBR_PHTW,29-03-2020,United Kingdom,GBR,Scotland,NHS Greater Glasgow and Clyde,,,401,,,,,,"['GBR.3.9_1', 'GBR.3.11_1', 'GBR.3.16_1', 'GBR.3.18_1', 'GBR.3.25_1', 'GBR.3.31_1', 'GBR.3.4_1']"
+GBR_PHTW,29-03-2020,United Kingdom,GBR,Scotland,NHS Tayside,,,141,,,,,,"['GBR.3.3_1', 'GBR.3.7_1', 'GBR.3.24_1']"
 GBR_PHTW,29-03-2020,United Kingdom,GBR,England,Croydon,,,412,,,,,,['GBR.1.36.7_1']
 GBR_PHTW,29-03-2020,United Kingdom,GBR,England,Cheshire East,,,99,,,,,,['GBR.1.18_1']
 GBR_PHTW,29-03-2020,United Kingdom,GBR,England,Buckinghamshire,,,201,,,,,,['GBR.1.13_1']
@@ -19034,39 +19034,13 @@ GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Rochdale,,,89,,,,,,['GBR.1.76_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Richmond upon Thames,,,134,,,,,,['GBR.1.36.27_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Redcar and Cleveland,,,41,,,,,,['GBR.1.75_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Cornwall and Isles of Scilly,,,84,,,,,,"['GBR.1.20_1', 'GBR.1.43_1']"
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Doncaster,,,78,,,,,,['GBR.1.27_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Dudley,,,163,,,,,,['GBR.1.29_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Gateshead,,,45,,,,,,['GBR.1.34_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Halton,,,34,,,,,,['GBR.1.37_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,176,,,,,,['GBR.1.36.12_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hertfordshire,,,480,,,,,,['GBR.1.41_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hounslow,,,195,,,,,,['GBR.1.36.17_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Isle of Wight,,,15,,,,,,['GBR.1.42_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Kent,,,421,,,,,,['GBR.1.44_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Kingston upon Thames,,,108,,,,,,['GBR.1.36.20_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Knowsley,,,50,,,,,,['GBR.1.47_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Leicestershire,,,190,,,,,,['GBR.1.51_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Luton,,,99,,,,,,['GBR.1.53_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Medway,,,100,,,,,,['GBR.1.55_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,North East Lincolnshire,,,22,,,,,,['GBR.1.52.4_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,North Somerset,,,27,,,,,,['GBR.1.61_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Redbridge,,,173,,,,,,['GBR.1.36.26_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Surrey,,,550,,,,,,['GBR.1.98_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Torbay,,,36,,,,,,['GBR.1.103_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Wandsworth,,,367,,,,,,['GBR.1.36.32_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Wigan,,,67,,,,,,['GBR.1.111_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Barnsley,,,118,,,,,,['GBR.1.1_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bath and North East Somerset,,,41,,,,,,['GBR.1.2_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bromley,,,307,,,,,,['GBR.1.36.5_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Calderdale,,,31,,,,,,['GBR.1.15_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Derbyshire,,,301,,,,,,['GBR.1.25_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Enfield,,,230,,,,,,['GBR.1.36.9_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Essex,,,485,,,,,,['GBR.1.33_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Gloucestershire,,,160,,,,,,['GBR.1.35_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hampshire,,,568,,,,,,['GBR.1.38_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Islington,,,164,,,,,,['GBR.1.36.18_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Thurrock,,,66,,,,,,['GBR.1.102_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Blackpool,,,22,,,,,,['GBR.1.6_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Lambeth,,,430,,,,,,['GBR.1.36.21_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Wokingham,,,50,,,,,,['GBR.1.115_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Westminster,,,274,,,,,,['GBR.1.36.33_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Waltham Forest,,,208,,,,,,['GBR.1.36.31_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Tower Hamlets,,,201,,,,,,['GBR.1.36.30_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Thurrock,,,66,,,,,,['GBR.1.102_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Southwark,,,424,,,,,,['GBR.1.36.28_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Solihull,,,124,,,,,,['GBR.1.86_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Oldham,,,109,,,,,,['GBR.1.68_1']
@@ -19076,19 +19050,45 @@ GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Norfolk,,,157,,,,,,['GBR.1.59_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Newham,,,267,,,,,,['GBR.1.36.25_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Merton,,,211,,,,,,['GBR.1.36.24_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hackney and City of London,,,197,,,,,,"['GBR.1.36.11_1', 'GBR.1.36.23_1']"
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Waltham Forest,,,208,,,,,,['GBR.1.36.31_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Wokingham,,,50,,,,,,['GBR.1.115_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bexley,,,154,,,,,,['GBR.1.36.3_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Blackpool,,,22,,,,,,['GBR.1.6_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bradford,,,87,,,,,,['GBR.1.10_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Brighton and Hove,,,76,,,,,,['GBR.1.11_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Cambridgeshire,,,144,,,,,,['GBR.1.16_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,County Durham,,,94,,,,,,['GBR.1.30_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Coventry,,,138,,,,,,['GBR.1.21_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Tower Hamlets,,,201,,,,,,['GBR.1.36.30_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Cumbria,,,407,,,,,,['GBR.1.22_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Islington,,,164,,,,,,['GBR.1.36.18_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hampshire,,,568,,,,,,['GBR.1.38_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Gloucestershire,,,160,,,,,,['GBR.1.35_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Essex,,,485,,,,,,['GBR.1.33_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Enfield,,,230,,,,,,['GBR.1.36.9_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Derbyshire,,,301,,,,,,['GBR.1.25_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Calderdale,,,31,,,,,,['GBR.1.15_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bromley,,,307,,,,,,['GBR.1.36.5_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bath and North East Somerset,,,41,,,,,,['GBR.1.2_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Barnsley,,,118,,,,,,['GBR.1.1_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Wigan,,,67,,,,,,['GBR.1.111_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Wandsworth,,,367,,,,,,['GBR.1.36.32_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Torbay,,,36,,,,,,['GBR.1.103_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Surrey,,,550,,,,,,['GBR.1.98_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Redbridge,,,173,,,,,,['GBR.1.36.26_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,North Somerset,,,27,,,,,,['GBR.1.61_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,North East Lincolnshire,,,22,,,,,,['GBR.1.52.4_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Medway,,,100,,,,,,['GBR.1.55_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Luton,,,99,,,,,,['GBR.1.53_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Leicestershire,,,190,,,,,,['GBR.1.51_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Knowsley,,,50,,,,,,['GBR.1.47_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Kingston upon Thames,,,108,,,,,,['GBR.1.36.20_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Kent,,,421,,,,,,['GBR.1.44_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Isle of Wight,,,15,,,,,,['GBR.1.42_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hounslow,,,195,,,,,,['GBR.1.36.17_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hertfordshire,,,480,,,,,,['GBR.1.41_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Hammersmith and Fulham,,,176,,,,,,['GBR.1.36.12_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Halton,,,34,,,,,,['GBR.1.37_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Gateshead,,,45,,,,,,['GBR.1.34_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Dudley,,,163,,,,,,['GBR.1.29_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Doncaster,,,78,,,,,,['GBR.1.27_1']
 GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Derby,,,145,,,,,,['GBR.1.24_1']
-GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Westminster,,,274,,,,,,['GBR.1.36.33_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Cumbria,,,407,,,,,,['GBR.1.22_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Coventry,,,138,,,,,,['GBR.1.21_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,County Durham,,,94,,,,,,['GBR.1.30_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Cambridgeshire,,,144,,,,,,['GBR.1.16_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Brighton and Hove,,,76,,,,,,['GBR.1.11_1']
+GBR_PHTW,28-03-2020,United Kingdom,GBR,England,Bradford,,,87,,,,,,['GBR.1.10_1']
 GBR_PHTW,27-03-2020,United Kingdom,GBR,Wales,Aneurin Bevan Health Board,,,554,,,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
 GBR_PHTW,27-03-2020,United Kingdom,GBR,Wales,Hywel Dda Health Board,,,83,,,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHTW,27-03-2020,United Kingdom,GBR,England,Trafford,,,93,,,,,,['GBR.1.104_1']
