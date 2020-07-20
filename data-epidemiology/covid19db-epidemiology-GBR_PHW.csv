@@ -1,12 +1,12 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Pembrokeshire,Pembrokeshire,7108,294,,,,,,['GBR.4.16.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Merthyr Tydfil,Merthyr Tydfil,5183,575,,,,,,['GBR.4.12.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Merthyr Tydfil,,5183,575,,,,,,['GBR.4.12_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Pembrokeshire,,7108,294,,,,,,['GBR.4.16_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Newport,Newport,8773,877,,,,,,['GBR.4.15.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Newport,,8773,877,,,,,,['GBR.4.15_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Wrexham,,11399,1208,,,,,,['GBR.4.22_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Vale of Glamorgan,Vale of Glamorgan,9180,771,,,,,,['GBR.4.21.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Vale of Glamorgan,,9180,771,,,,,,['GBR.4.21_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Unknown,,4906,139,,,,,,
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Torfaen,Torfaen,5089,355,,,,,,['GBR.4.20.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Torfaen,,5089,355,,,,,,['GBR.4.20_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Blaenau Gwent,,4524,366,,,,,,['GBR.4.2_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Blaenau Gwent,Blaenau Gwent,4524,366,,,,,,['GBR.4.2.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Bridgend,,9389,565,,,,,,['GBR.4.3_1']
@@ -14,11 +14,10 @@ GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Bridgend,Bridgend,9389,565,,,,,,['GB
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Caerphilly,,9930,739,,,,,,['GBR.4.4_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Caerphilly,Caerphilly,9930,739,,,,,,['GBR.4.4.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Cardiff,,22551,2299,,,,,,['GBR.4.5_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Swansea,Swansea,15018,1315,,,,,,['GBR.4.19.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Swansea,,15018,1315,,,,,,['GBR.4.19_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Torfaen,Torfaen,5089,355,,,,,,['GBR.4.20.1_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Torfaen,,5089,355,,,,,,['GBR.4.20_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Cardiff,Cardiff,22551,2299,,,,,,['GBR.4.5.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Carmarthenshire,,12900,805,,,,,,['GBR.4.6_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Carmarthenshire,Carmarthenshire,12900,805,,,,,,['GBR.4.6.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Ceredigion,,3231,64,,,,,,['GBR.4.7_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Ceredigion,Ceredigion,3231,64,,,,,,['GBR.4.7.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Conwy,,9203,708,,,,,,['GBR.4.8_1']
@@ -28,29 +27,30 @@ GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Denbighshire,Denbighshire,8913,772,,
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Flintshire,,9268,676,,,,,,['GBR.4.10_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Flintshire,Flintshire,9268,676,,,,,,['GBR.4.10.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Gwynedd,,8816,586,,,,,,['GBR.4.11_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Vale of Glamorgan,Vale of Glamorgan,9180,771,,,,,,['GBR.4.21.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Wrexham,,11399,1208,,,,,,['GBR.4.22_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Gwynedd,Gwynedd,8816,586,,,,,,['GBR.4.11.1_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Wrexham,Wrexham,11399,1208,,,,,,['GBR.4.22.1_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,374,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Anglesey,,5907,454,,,,,,['GBR.4.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Anglesey,Anglesey,5907,454,,,,,,['GBR.4.1.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Wrexham,Wrexham,11399,1208,,,,,,['GBR.4.22.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Pembrokeshire,Pembrokeshire,7108,294,,,,,,['GBR.4.16.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Aneurin Bevan University Health Board,,,,,275,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Betsi Cadwaladr University Health Board,,,,,374,,,,"['GBR.4.1_1', 'GBR.4.11_1', 'GBR.4.8_1', 'GBR.4.9_1', 'GBR.4.10_1', 'GBR.4.22_1']"
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Merthyr Tydfil,,5183,575,,,,,,['GBR.4.12_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,273,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Powys,,6463,332,,,,,,['GBR.4.17_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Cwm Taf Morgannwg University Health Board,,,,,333,,,,"['GBR.4.12_1', 'GBR.4.18_1']"
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Hywel Dda University Health Board,,,,,67,,,,"['GBR.4.6_1', 'GBR.4.7_1', 'GBR.4.16_1']"
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Powys Teaching Health Board,,,,,15,,,,['GBR.4.17_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Swansea Bay University Health Board,,,,,206,,,,"['GBR.4.3_1', 'GBR.4.14_1', 'GBR.4.19_1']"
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Carmarthenshire,Carmarthenshire,12900,805,,,,,,['GBR.4.6.1_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Powys,Powys,6463,332,,,,,,['GBR.4.17.1_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Aneurin Bevan University Health Board,,,,,275,,,,"['GBR.4.2_1', 'GBR.4.4_1', 'GBR.4.20_1', 'GBR.4.13_1', 'GBR.4.15_1']"
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Swansea,Swansea,15018,1315,,,,,,['GBR.4.19.1_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Swansea,,15018,1315,,,,,,['GBR.4.19_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,"Rhondda, Cynon, Taff","Rhondda, Cynon, Taff",16568,1856,,,,,,['GBR.4.18.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,"Rhondda, Cynon, Taff",,16568,1856,,,,,,['GBR.4.18_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Powys,Powys,6463,332,,,,,,['GBR.4.17.1_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Powys,,6463,332,,,,,,['GBR.4.17_1']
+GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Newport,,8773,877,,,,,,['GBR.4.15_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Neath Port Talbot,Neath Port Talbot,9243,658,,,,,,['GBR.4.14.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Neath Port Talbot,,9243,658,,,,,,['GBR.4.14_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Monmouthshire,Monmouthshire,4993,377,,,,,,['GBR.4.13.1_1']
 GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Monmouthshire,,4993,377,,,,,,['GBR.4.13_1']
-GBR_PHW,18-07-2020,United Kingdom,GBR,Wales,Pembrokeshire,,7108,294,,,,,,['GBR.4.16_1']
 GBR_PHW,17-07-2020,United Kingdom,GBR,Wales,Blaenau Gwent,,4524,366,,,,,,['GBR.4.2_1']
 GBR_PHW,17-07-2020,United Kingdom,GBR,Wales,Merthyr Tydfil,Merthyr Tydfil,5183,575,,,,,,['GBR.4.12.1_1']
 GBR_PHW,17-07-2020,United Kingdom,GBR,Wales,Cardiff and Vale University Health Board,,,,,272,,,,"['GBR.4.5_1', 'GBR.4.21_1']"
