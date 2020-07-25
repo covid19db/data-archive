@@ -14,16 +14,17 @@ Files are grouped in three folders:
 
 Each file contained in these folder is related to a different source. The list of sources is available at [this link](https://covid19.eng.ox.ac.uk/data_sources.html). The structure of each file and the meaning of each column are described in [this webpage](https://covid19.eng.ox.ac.uk/data_schema.html) for detailed explanations.
 
-A summary of the available data is provided here, for details about data sources (including licensing) and data types please see:
-
-* [list of data sources](https://docs.google.com/spreadsheets/d/1GHN1b_uZq4swxyN6dhPqjmjLtYGhONZ_yWlJoleTCjY/edit?usp=sharing)
-* [tables schema](https://docs.google.com/spreadsheets/d/1GYyxsod4DG9aEN28nm3L6XWgnlZMWrBXtEzT6nuZUtQ/edit?usp=sharing)
+A summary of the available data is provided here:
 
 * Epiedmiology: Data related to contagions, hospitalisations and deaths due to covid19.
 * Government response: The government response data comes from the [Coronavirus Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) assembled by researchers from the Blavatnik School of Government, University of Oxford. The data are being collected from publicly available sources including news articles and government press releases and briefings.
 * Mobility: Data about population movement as collected by mobile phones.
 * Data-statistics: Country general statistics.
 
+For details about data sources (including licensing) and data types please see:
+
+* [list of data sources](https://docs.google.com/spreadsheets/d/1GHN1b_uZq4swxyN6dhPqjmjLtYGhONZ_yWlJoleTCjY/edit?usp=sharing)
+* [tables schema](https://docs.google.com/spreadsheets/d/1GYyxsod4DG9aEN28nm3L6XWgnlZMWrBXtEzT6nuZUtQ/edit?usp=sharing)
 
 ---
 
