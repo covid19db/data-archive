@@ -1,28 +1,28 @@
 source,date,country,countrycode,adm_area_1,adm_area_2,adm_area_3,tested,confirmed,recovered,dead,hospitalised,hospitalised_icu,quarantined,gid
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Newry, Mourne and Down","Newry, Mourne and Down",11885,380,,33,,,,"['GBR.2.10.1_1', 'GBR.2.10.2_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid Ulster,Mid Ulster,9473,411,,30,,,,"['GBR.2.9.1_1', 'GBR.2.9.2_1', 'GBR.2.9.3_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid Ulster,,9473,411,,30,,,,['GBR.2.9_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid and East Antrim,Mid and East Antrim,8835,404,,43,,,,"['GBR.2.8.1_1', 'GBR.2.8.2_1', 'GBR.2.8.3_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid and East Antrim,,8835,404,,43,,,,['GBR.2.8_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Lisburn and Castlereagh,Lisburn and Castlereagh,10166,521,,50,,,,"['GBR.2.7.1_1', 'GBR.2.7.2_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Lisburn and Castlereagh,,10166,521,,50,,,,['GBR.2.7_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Fermanagh and Omagh,Fermanagh and Omagh,7776,181,,11,,,,"['GBR.2.6.1_1', 'GBR.2.6.2_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Fermanagh and Omagh,,7776,181,,11,,,,['GBR.2.6_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Derry and Strabane,Derry and Strabane,9840,226,,21,,,,"['GBR.2.5.1_1', 'GBR.2.5.2_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Derry and Strabane,,9840,226,,21,,,,['GBR.2.5_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Causeway Coast and Glens,Causeway Coast and Glens,9028,305,,39,,,,"['GBR.2.4.3_1', 'GBR.2.4.4_1', 'GBR.2.4.1_1', 'GBR.2.4.2_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Causeway Coast and Glens,,9028,305,,39,,,,['GBR.2.4_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Belfast,Belfast,24061,1432,,162,,,,['GBR.2.3.1_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Belfast,,24061,1432,,162,,,,['GBR.2.3_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Armagh, Banbridge and Craigavon","Armagh, Banbridge and Craigavon",15124,751,,59,,,,"['GBR.2.2.1_1', 'GBR.2.2.2_1', 'GBR.2.2.3_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Armagh, Banbridge and Craigavon",,15124,751,,59,,,,['GBR.2.2_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,North Down and Ards,North Down and Ards,11511,455,,45,,,,"['GBR.2.11.2_1', 'GBR.2.11.1_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,North Down and Ards,,11511,455,,45,,,,['GBR.2.11_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,Antrim and Newtownabbey,10223,459,,59,,,,"['GBR.2.1.1_1', 'GBR.2.1.2_1']"
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,,10223,459,,59,,,,['GBR.2.1_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,,,132869,5876,,556,,,,['GBR.2_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Newry, Mourne and Down",,11885,380,,33,,,,['GBR.2.10_1']
-GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Unknown,,4947,351,,4,,,,
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Newry, Mourne and Down","Newry, Mourne and Down",12072,384,,33,,,,"['GBR.2.10.1_1', 'GBR.2.10.2_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid Ulster,Mid Ulster,9594,413,,30,,,,"['GBR.2.9.1_1', 'GBR.2.9.2_1', 'GBR.2.9.3_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid Ulster,,9594,413,,30,,,,['GBR.2.9_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid and East Antrim,Mid and East Antrim,8911,404,,43,,,,"['GBR.2.8.1_1', 'GBR.2.8.2_1', 'GBR.2.8.3_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Mid and East Antrim,,8911,404,,43,,,,['GBR.2.8_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Lisburn and Castlereagh,Lisburn and Castlereagh,10237,524,,50,,,,"['GBR.2.7.1_1', 'GBR.2.7.2_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Lisburn and Castlereagh,,10237,524,,50,,,,['GBR.2.7_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Fermanagh and Omagh,Fermanagh and Omagh,7841,181,,11,,,,"['GBR.2.6.1_1', 'GBR.2.6.2_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Fermanagh and Omagh,,7841,181,,11,,,,['GBR.2.6_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Derry and Strabane,Derry and Strabane,9992,226,,21,,,,"['GBR.2.5.1_1', 'GBR.2.5.2_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Derry and Strabane,,9992,226,,21,,,,['GBR.2.5_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Causeway Coast and Glens,Causeway Coast and Glens,9164,304,,39,,,,"['GBR.2.4.3_1', 'GBR.2.4.4_1', 'GBR.2.4.1_1', 'GBR.2.4.2_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Causeway Coast and Glens,,9164,304,,39,,,,['GBR.2.4_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Belfast,Belfast,24287,1436,,162,,,,['GBR.2.3.1_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Belfast,,24287,1436,,162,,,,['GBR.2.3_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Armagh, Banbridge and Craigavon","Armagh, Banbridge and Craigavon",15241,753,,59,,,,"['GBR.2.2.1_1', 'GBR.2.2.2_1', 'GBR.2.2.3_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Armagh, Banbridge and Craigavon",,15241,753,,59,,,,['GBR.2.2_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,North Down and Ards,North Down and Ards,11609,455,,45,,,,"['GBR.2.11.2_1', 'GBR.2.11.1_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,North Down and Ards,,11609,455,,45,,,,['GBR.2.11_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,Antrim and Newtownabbey,10257,458,,59,,,,"['GBR.2.1.1_1', 'GBR.2.1.2_1']"
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,,10257,458,,59,,,,['GBR.2.1_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,,,134279,5891,,556,,,,['GBR.2_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,"Newry, Mourne and Down",,12072,384,,33,,,,['GBR.2.10_1']
+GBR_NIDH,24-07-2020,United Kingdom,GBR,Northern Ireland,Unknown,,5074,353,,4,,,,
 GBR_NIDH,21-07-2020,United Kingdom,GBR,Northern Ireland,,,128998,5857,,556,,,,['GBR.2_1']
 GBR_NIDH,20-07-2020,United Kingdom,GBR,Northern Ireland,Antrim and Newtownabbey,,9972,459,,59,,,,['GBR.2.1_1']
 GBR_NIDH,20-07-2020,United Kingdom,GBR,Northern Ireland,,,128998,5857,,556,,,,['GBR.2_1']
